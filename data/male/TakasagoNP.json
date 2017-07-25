@@ -1,0 +1,109 @@
+{
+    "id": 3455319073,
+    "id_str": "3455319073",
+    "name": "\u305f\u304b\u3055\u3054",
+    "screen_name": "TakasagoNP",
+    "location": "\u4e00\u5bae\u5e02",
+    "description": "\u53d7\u9a13\u3068\u304b\u3067\u4f4e\u6d6e\u4e0a\u6c17\u5473\u2026\uff1f",
+    "url": "https://t.co/W86xgtlT60",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/W86xgtlT60",
+                    "expanded_url": "http://twpf.jp/TakasagoNP",
+                    "display_url": "twpf.jp/TakasagoNP",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 104,
+    "fast_followers_count": 0,
+    "normal_followers_count": 104,
+    "friends_count": 150,
+    "listed_count": 3,
+    "created_at": "Sat Sep 05 04:01:11 +0000 2015",
+    "favourites_count": 1679,
+    "utc_offset": -25200,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 6595,
+    "media_count": 102,
+    "lang": "ja",
+    "status": {
+        "created_at": "Wed Jul 19 15:01:17 +0000 2017",
+        "id": 887688801778147328,
+        "id_str": "887688801778147328",
+        "text": "@TakasagoNP 07-19\u306e\u30dd\u30b9\u30c8\u6570\uff1a4 (\u3046\u3061RT\uff1a2)",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "TakasagoNP",
+                    "name": "\u305f\u304b\u3055\u3054",
+                    "id": 3455319073,
+                    "id_str": "3455319073",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"https://twihaialert.net/\" rel=\"nofollow\">\u30c4\u30a4\u5ec3\u3042\u3089\u30fc\u3068</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3455319073,
+        "in_reply_to_user_id_str": "3455319073",
+        "in_reply_to_screen_name": "TakasagoNP",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/805365570396823552/d3nUK7Mf_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/805365570396823552/d3nUK7Mf_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3455319073/1499073897",
+    "profile_link_color": "C00029",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "has_custom_timelines": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

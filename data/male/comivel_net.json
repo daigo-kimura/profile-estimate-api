@@ -1,0 +1,109 @@
+{
+    "id": 823874361236951041,
+    "id_str": "823874361236951041",
+    "name": "comivel@mikisoft",
+    "screen_name": "comivel_net",
+    "location": "\u65e5\u672c",
+    "description": "comivel\u306f\u6f2b\u753b\u3001\u5c0f\u8aac\u304c\u5b8c\u5168\u7121\u6599\u3001\u4f1a\u54e1\u767b\u9332\u4e00\u5207\u306a\u3057\u3067 \u95b2\u89a7\u3001\u6295\u7a3f\u3067\u304d\u308b\u500b\u4eba\u904b\u55b6\u306e\u30b5\u30fc\u30d3\u30b9\u3067\u3059\u3002\u8efd\u3044\u3064\u3076\u3084\u304d\u3082\u3057\u307e\u3059 \u904b\u55b6\u306emikisoft\u306b\u3064\u3044\u3066\u306f\u4ee5\u4e0b\u306e\u30da\u30fc\u30b8\u3092\u3054\u89a7\u304f\u3060\u3055\u3044 https://t.co/UrMqpp3K2y \u203b\u30a4\u30e9\u30b9\u30c8\u7b49\u306e\u7121\u65ad\u8ee2\u8f09\u306f\u304a\u6b62\u3081\u304f\u3060\u3055\u3044 #\u6f2b\u753b #\u5c0f\u8aac",
+    "url": "https://t.co/WswgnMZ50V",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/WswgnMZ50V",
+                    "expanded_url": "https://comivel.net/",
+                    "display_url": "comivel.net",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": [
+                {
+                    "url": "https://t.co/UrMqpp3K2y",
+                    "expanded_url": "https://comivel.net/mikisoft/",
+                    "display_url": "comivel.net/mikisoft/",
+                    "indices": [
+                        90,
+                        113
+                    ]
+                }
+            ]
+        }
+    },
+    "protected": false,
+    "followers_count": 141,
+    "fast_followers_count": 0,
+    "normal_followers_count": 141,
+    "friends_count": 598,
+    "listed_count": 0,
+    "created_at": "Tue Jan 24 12:45:29 +0000 2017",
+    "favourites_count": 2305,
+    "utc_offset": 32400,
+    "time_zone": "Tokyo",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1308,
+    "media_count": 60,
+    "lang": "ja",
+    "status": {
+        "created_at": "Sun Jul 16 15:48:34 +0000 2017",
+        "id": 886613538793340928,
+        "id_str": "886613538793340928",
+        "text": "(\uff61*\uff65\u0434\uff65\uff61)\uff89",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "und",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/829310410335592448/RrAFCSS__normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/829310410335592448/RrAFCSS__normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/823874361236951041/1488196864",
+    "profile_link_color": "FF691F",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "has_custom_timelines": true,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "enabled",
+    "customer_service_state": "disabled",
+    "translator_type": "none"
+}

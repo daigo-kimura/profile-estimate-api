@@ -1,0 +1,260 @@
+{
+    "id": 884687283978346497,
+    "id_str": "884687283978346497",
+    "name": "\u3053\u3044\u3057\u5927\u597d\u304d\uff20\u3075\uff5e\u3084\u3093",
+    "screen_name": "6FyvfGvLH4EGhKa",
+    "location": "\u5343\u8449 \u5e02\u5ddd\u5e02",
+    "description": "vita\u306eID\u3000Fuuya258\u3000\u3067\u3059\n\u6771\u65b9\u306e\u53e4\u660e\u5730\u3053\u3044\u3057\u597d\u304d\u306aGE\u30d7\u30ec\u30a4\u30e4\u30fc\u3067\u3059\u3002\u3069\u3046\u305e\u3001\u5b9c\u3057\u304f\u304a\u9858\u3044\u81f4\u3057\u307e\u3059\u3002",
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 13,
+    "fast_followers_count": 0,
+    "normal_followers_count": 13,
+    "friends_count": 17,
+    "listed_count": 0,
+    "created_at": "Tue Jul 11 08:14:20 +0000 2017",
+    "favourites_count": 74,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 32,
+    "media_count": 21,
+    "lang": "ja",
+    "status": {
+        "created_at": "Sun Jul 16 14:48:13 +0000 2017",
+        "id": 886598350560034816,
+        "id_str": "886598350560034816",
+        "text": "@Sakuya524 \u8349\u9905\u3055\u3093\u3001\u304a\u75b2\u308c\u69d8\u3067\u3059\u266a https://t.co/kT4LEHid8V",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Sakuya524",
+                    "name": "\u3086\u3063\u304f\u308a\u8349\u9905\uff20\u3086\u3063\u304f\u308a\u5b9f\u6cc1\u8005",
+                    "id": 2605475454,
+                    "id_str": "2605475454",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 886598182867656704,
+                    "id_str": "886598182867656704",
+                    "indices": [
+                        24,
+                        47
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DE3UWZRVYAAjvNu.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DE3UWZRVYAAjvNu.jpg",
+                    "url": "https://t.co/kT4LEHid8V",
+                    "display_url": "pic.twitter.com/kT4LEHid8V",
+                    "expanded_url": "https://twitter.com/6FyvfGvLH4EGhKa/status/886598350560034816/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 960,
+                            "h": 544,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 960,
+                            "h": 544,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 385,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "features": {
+                        "orig": {
+                            "faces": [
+                                {
+                                    "x": 245,
+                                    "y": 250,
+                                    "h": 161,
+                                    "w": 161
+                                }
+                            ]
+                        },
+                        "medium": {
+                            "faces": [
+                                {
+                                    "x": 245,
+                                    "y": 250,
+                                    "h": 161,
+                                    "w": 161
+                                }
+                            ]
+                        },
+                        "large": {
+                            "faces": [
+                                {
+                                    "x": 245,
+                                    "y": 250,
+                                    "h": 161,
+                                    "w": 161
+                                }
+                            ]
+                        },
+                        "small": {
+                            "faces": [
+                                {
+                                    "x": 173,
+                                    "y": 177,
+                                    "h": 114,
+                                    "w": 114
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 886598182867656704,
+                    "id_str": "886598182867656704",
+                    "indices": [
+                        24,
+                        47
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DE3UWZRVYAAjvNu.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DE3UWZRVYAAjvNu.jpg",
+                    "url": "https://t.co/kT4LEHid8V",
+                    "display_url": "pic.twitter.com/kT4LEHid8V",
+                    "expanded_url": "https://twitter.com/6FyvfGvLH4EGhKa/status/886598350560034816/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 960,
+                            "h": 544,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 960,
+                            "h": 544,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 385,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "features": {
+                        "orig": {
+                            "faces": [
+                                {
+                                    "x": 245,
+                                    "y": 250,
+                                    "h": 161,
+                                    "w": 161
+                                }
+                            ]
+                        },
+                        "medium": {
+                            "faces": [
+                                {
+                                    "x": 245,
+                                    "y": 250,
+                                    "h": 161,
+                                    "w": 161
+                                }
+                            ]
+                        },
+                        "large": {
+                            "faces": [
+                                {
+                                    "x": 245,
+                                    "y": 250,
+                                    "h": 161,
+                                    "w": 161
+                                }
+                            ]
+                        },
+                        "small": {
+                            "faces": [
+                                {
+                                    "x": 173,
+                                    "y": 177,
+                                    "h": 114,
+                                    "w": 114
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 886596537001754624,
+        "in_reply_to_status_id_str": "886596537001754624",
+        "in_reply_to_user_id": 2605475454,
+        "in_reply_to_user_id_str": "2605475454",
+        "in_reply_to_screen_name": "Sakuya524",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/886641419791745025/Jcv-cBZq_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/886641419791745025/Jcv-cBZq_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/884687283978346497/1499953037",
+    "profile_link_color": "19CF86",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "has_custom_timelines": true,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "customer_service_state": "none",
+    "translator_type": "none"
+}

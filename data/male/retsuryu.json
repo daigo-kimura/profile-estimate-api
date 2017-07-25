@@ -1,0 +1,377 @@
+{
+    "id": 541980288,
+    "id_str": "541980288",
+    "name": "\u22bf\u70c8\u9f8d",
+    "screen_name": "retsuryu",
+    "location": "\u305f\u3044\u3088\u3046\u306e\u3044\u3048",
+    "description": "\u8996\u7dda\u306f\u7537\u76ee\u7dda\u3001\u601d\u8003\u306f\u5973\u76ee\u7dda\u306a\u4eba\u3067\u3059\u3002\u666e\u6bb5\u306f\u5bb6\u3060\u3068\u30c6\u30ec\u30d3(\u4e3b\u306b\u30d0\u30e9\u30a8\u30c6\u30a3)\u3092\u89b3\u3066\u3001\u5916\u3067\u306f\u30b2\u30fc\u30bb\u30f3\u306e\u30b2\u30fc\u30e0(\u4e09\u56fd\u5fd7\u3001LoV4)\u3092\u30e1\u30a4\u30f3\u306b\u3057\u3066\u307e\u3059\u3002\u4e43\u6728\u5742/\u6b05/\u30ad\u30b9\u30de\u30a4\u3092\u4e2d\u5fc3\u306b\u597d\u304d\u306a\u4e8b\u3092\u597d\u304d\u306a\u6642\u306b\u545f\u304f\u306e\u304c\u30e2\u30c3\u30c8\u30fc\u3002\u8a73\u7d30\u306f\u30c4\u30a4\u30d7\u30ed\u3078\u2192",
+    "url": "https://t.co/TLKODT7d7f",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/TLKODT7d7f",
+                    "expanded_url": "http://twpf.jp/retsuryu",
+                    "display_url": "twpf.jp/retsuryu",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 594,
+    "fast_followers_count": 0,
+    "normal_followers_count": 594,
+    "friends_count": 2149,
+    "listed_count": 6,
+    "created_at": "Sat Mar 31 18:59:06 +0000 2012",
+    "favourites_count": 105630,
+    "utc_offset": 32400,
+    "time_zone": "Tokyo",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 67297,
+    "media_count": 918,
+    "lang": "ja",
+    "status": {
+        "created_at": "Wed Jul 19 18:39:15 +0000 2017",
+        "id": 887743653531209728,
+        "id_str": "887743653531209728",
+        "text": "RT @InaedaKei: \u771f\u590f\u306e\u6e05\u59eb\uff06\u30de\u30ea\u30fc\u3067\u3059\u3000#FGO https://t.co/eq2zjg3NBp",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "FGO",
+                    "indices": [
+                        27,
+                        31
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "InaedaKei",
+                    "name": "\u7a32\u679d\u7530",
+                    "id": 108972298,
+                    "id_str": "108972298",
+                    "indices": [
+                        3,
+                        13
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 887653117117947905,
+                    "id_str": "887653117117947905",
+                    "indices": [
+                        32,
+                        55
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFGTzpmVYAE8JdC.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFGTzpmVYAE8JdC.jpg",
+                    "url": "https://t.co/eq2zjg3NBp",
+                    "display_url": "pic.twitter.com/eq2zjg3NBp",
+                    "expanded_url": "https://twitter.com/InaedaKei/status/887653120217497600/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 850,
+                            "h": 770,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 616,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 850,
+                            "h": 770,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 887653120217497600,
+                    "source_status_id_str": "887653120217497600",
+                    "source_user_id": 108972298,
+                    "source_user_id_str": "108972298",
+                    "features": {
+                        "orig": {
+                            "faces": []
+                        },
+                        "large": {
+                            "faces": []
+                        },
+                        "small": {
+                            "faces": []
+                        },
+                        "medium": {
+                            "faces": []
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 887653117117947905,
+                    "id_str": "887653117117947905",
+                    "indices": [
+                        32,
+                        55
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFGTzpmVYAE8JdC.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFGTzpmVYAE8JdC.jpg",
+                    "url": "https://t.co/eq2zjg3NBp",
+                    "display_url": "pic.twitter.com/eq2zjg3NBp",
+                    "expanded_url": "https://twitter.com/InaedaKei/status/887653120217497600/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 850,
+                            "h": 770,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 616,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 850,
+                            "h": 770,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 887653120217497600,
+                    "source_status_id_str": "887653120217497600",
+                    "source_user_id": 108972298,
+                    "source_user_id_str": "108972298",
+                    "features": {
+                        "orig": {
+                            "faces": []
+                        },
+                        "large": {
+                            "faces": []
+                        },
+                        "small": {
+                            "faces": []
+                        },
+                        "medium": {
+                            "faces": []
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://yubitter.com/\" rel=\"nofollow\">yubitter</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Jul 19 12:39:30 +0000 2017",
+            "id": 887653120217497600,
+            "id_str": "887653120217497600",
+            "text": "\u771f\u590f\u306e\u6e05\u59eb\uff06\u30de\u30ea\u30fc\u3067\u3059\u3000#FGO https://t.co/eq2zjg3NBp",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "FGO",
+                        "indices": [
+                            12,
+                            16
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 887653117117947905,
+                        "id_str": "887653117117947905",
+                        "indices": [
+                            17,
+                            40
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFGTzpmVYAE8JdC.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFGTzpmVYAE8JdC.jpg",
+                        "url": "https://t.co/eq2zjg3NBp",
+                        "display_url": "pic.twitter.com/eq2zjg3NBp",
+                        "expanded_url": "https://twitter.com/InaedaKei/status/887653120217497600/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 850,
+                                "h": 770,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 616,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 850,
+                                "h": 770,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "orig": {
+                                "faces": []
+                            },
+                            "large": {
+                                "faces": []
+                            },
+                            "small": {
+                                "faces": []
+                            },
+                            "medium": {
+                                "faces": []
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 887653117117947905,
+                        "id_str": "887653117117947905",
+                        "indices": [
+                            17,
+                            40
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFGTzpmVYAE8JdC.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFGTzpmVYAE8JdC.jpg",
+                        "url": "https://t.co/eq2zjg3NBp",
+                        "display_url": "pic.twitter.com/eq2zjg3NBp",
+                        "expanded_url": "https://twitter.com/InaedaKei/status/887653120217497600/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 850,
+                                "h": 770,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 616,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 850,
+                                "h": 770,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "orig": {
+                                "faces": []
+                            },
+                            "large": {
+                                "faces": []
+                            },
+                            "small": {
+                                "faces": []
+                            },
+                            "medium": {
+                                "faces": []
+                            }
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://janetter.net/\" rel=\"nofollow\">Janetter</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 8109,
+            "favorite_count": 19189,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja",
+            "supplemental_language": null
+        },
+        "is_quote_status": false,
+        "retweet_count": 8109,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/756151047/3f55cca1169982bc75ef7c7668cb08a7.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/756151047/3f55cca1169982bc75ef7c7668cb08a7.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/749249856330346496/l4n0EdV5_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/749249856330346496/l4n0EdV5_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/541980288/1407525190",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "has_custom_timelines": true,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

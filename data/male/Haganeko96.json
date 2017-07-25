@@ -1,0 +1,107 @@
+{
+    "id": 2951592757,
+    "id_str": "2951592757",
+    "name": "\u6b6f\u304c\u732b",
+    "screen_name": "Haganeko96",
+    "location": "",
+    "description": "\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\u3002\u79fb\u884c\u5148\u2192\u3010@Haga_96\u3011",
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 2427,
+    "fast_followers_count": 0,
+    "normal_followers_count": 2427,
+    "friends_count": 2126,
+    "listed_count": 36,
+    "created_at": "Tue Dec 30 06:29:09 +0000 2014",
+    "favourites_count": 32024,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 50861,
+    "media_count": 3869,
+    "lang": "ja",
+    "status": {
+        "created_at": "Mon Feb 13 14:39:09 +0000 2017",
+        "id": 831150724469792768,
+        "id_str": "831150724469792768",
+        "text": "\u308d\u3042\u3093\u306c\u306e\u4e09\u6841\u30e9\u30b9\u30c8\u95d8\u6280 ( @roa26i \u30ad\u30e3\u30b9 https://t.co/089W9Cb1Px )",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Roa26I",
+                    "name": "\u308d\u3042\u3093\u306c(\u00b4\u00ba\u03c9\u00ba\uff40)",
+                    "id": 2383718551,
+                    "id_str": "2383718551",
+                    "indices": [
+                        15,
+                        22
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/089W9Cb1Px",
+                    "expanded_url": "http://cas.st/14b25cc7",
+                    "display_url": "cas.st/14b25cc7",
+                    "indices": [
+                        27,
+                        50
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitcasting.tv/\" rel=\"nofollow\">TwitCasting</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/827532376200802304/2Pdw0QB2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/827532376200802304/2Pdw0QB2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2951592757/1470786662",
+    "profile_link_color": "94D487",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "has_custom_timelines": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

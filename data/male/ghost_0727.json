@@ -1,0 +1,112 @@
+{
+    "id": 868605814637907968,
+    "id_str": "868605814637907968",
+    "name": "\u30ed\u30b0\u30a2\u30a6\u30c8",
+    "screen_name": "ghost_0727",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 40,
+    "fast_followers_count": 0,
+    "normal_followers_count": 40,
+    "friends_count": 187,
+    "listed_count": 0,
+    "created_at": "Sat May 27 23:12:18 +0000 2017",
+    "favourites_count": 159,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 311,
+    "media_count": 4,
+    "lang": "ja",
+    "status": {
+        "created_at": "Sat Jul 15 04:34:05 +0000 2017",
+        "id": 886081409391001601,
+        "id_str": "886081409391001601",
+        "text": "\u300e\u6975\u9650\u306e\u95d8\u6280\u5834\u3010\u30ce\u30fc\u30b3\u30f3\u3011\u300f\u306e\u30de\u30eb\u30c1\u52df\u96c6\u4e2d\uff01\n(2017-07-15 13:34:05)\n#\u30d1\u30ba\u30c9\u30e9 #HIROBA\nhttps://t.co/fOjQGFCeei",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "\u30d1\u30ba\u30c9\u30e9",
+                    "indices": [
+                        45,
+                        50
+                    ]
+                },
+                {
+                    "text": "HIROBA",
+                    "indices": [
+                        51,
+                        58
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/fOjQGFCeei",
+                    "expanded_url": "http://hiroba.party/jump.html?type=hiroba&hiroba_game_id=15&q=%E6%A5%B5%E9%99%90%E3%81%AE%E9%97%98%E6%8A%80%E5%A0%B4%E3%80%90%E3%83%8E%E3%83%BC%E3%82%B3%E3%83%B3%E3%80%91",
+                    "display_url": "hiroba.party/jump.html?type\u2026",
+                    "indices": [
+                        59,
+                        82
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.appbank.net/\" rel=\"nofollow\">HIROBA</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/879501404427046912/O__mZORk_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/879501404427046912/O__mZORk_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/868605814637907968/1495926926",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "has_custom_timelines": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "customer_service_state": "none",
+    "translator_type": "none"
+}

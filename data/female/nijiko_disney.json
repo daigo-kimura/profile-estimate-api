@@ -1,0 +1,361 @@
+{
+    "id": 2472200760,
+    "id_str": "2472200760",
+    "name": "\u3071\u3093\u3077\u304d\u3093\u3002",
+    "screen_name": "nijiko_disney",
+    "location": "\u4e0d\u601d\u8b70\u306a\u30ab\u30dc\u30c1\u30e3\u306e\u5c4b\u6577",
+    "description": "Halloween\u3068Easter\u3092\u611b\u3057\u3066\u3084\u307e\u306a\u3044\u30df\u30ad\u30df\u30cb\u306e\u30e9\u30d6\u30e9\u30d6\u304c\u4e3b\u98df\u306a\u71d5\u5c3e\u304f\u3093\u5927\u597d\u304d\u30df\u30ad\u30f2\u30bf\u3002\u3067\u3082\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u307f\u3093\u306a\u597d\u304d(*\u00b4\uff70`*)\u73fe\u5728\u5e74\u30d1\u5207\u308c(\uff1b\uff1b)\u304a\u6c17\u8efd\u306b\u30d5\u30a9\u30ed\u30fc\u30df\u30fc\u2661\u30d5\u30a9\u30ed\u30d0\u6c17\u307e\u3050\u308c\u30b4\u30e1\u30f3\u306a\u3055\u3044\uff01",
+    "url": "https://t.co/kXc4aNHN8h",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/kXc4aNHN8h",
+                    "expanded_url": "http://twpf.jp/nijiko_disney",
+                    "display_url": "twpf.jp/nijiko_disney",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 642,
+    "fast_followers_count": 0,
+    "normal_followers_count": 642,
+    "friends_count": 375,
+    "listed_count": 7,
+    "created_at": "Thu May 01 09:15:20 +0000 2014",
+    "favourites_count": 2090,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 5682,
+    "media_count": 942,
+    "lang": "ja",
+    "status": {
+        "created_at": "Wed Jul 19 23:16:42 +0000 2017",
+        "id": 887813476814540800,
+        "id_str": "887813476814540800",
+        "text": "RT @kurokuma824: \u6d77\u306e\u65e5\u306b\u63cf\u3044\u3066\u305f\u3084\u3064\u3002\n\n\u6d77\u3068\u3044\u3048\u3070\uff01 https://t.co/hwDdn0uL63",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "kurokuma824",
+                    "name": "\u30af\u30ed\u30af\u30de",
+                    "id": 513302391,
+                    "id_str": "513302391",
+                    "indices": [
+                        3,
+                        15
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 887677401999695872,
+                    "id_str": "887677401999695872",
+                    "indices": [
+                        37,
+                        60
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFGp5N1VYAAmx9Y.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFGp5N1VYAAmx9Y.jpg",
+                    "url": "https://t.co/hwDdn0uL63",
+                    "display_url": "pic.twitter.com/hwDdn0uL63",
+                    "expanded_url": "https://twitter.com/kurokuma824/status/887677412653154305/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 800,
+                            "h": 1900,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 505,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 286,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 887677412653154305,
+                    "source_status_id_str": "887677412653154305",
+                    "source_user_id": 513302391,
+                    "source_user_id_str": "513302391",
+                    "features": {
+                        "orig": {
+                            "faces": []
+                        },
+                        "large": {
+                            "faces": []
+                        },
+                        "medium": {
+                            "faces": []
+                        },
+                        "small": {
+                            "faces": []
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 887677401999695872,
+                    "id_str": "887677401999695872",
+                    "indices": [
+                        37,
+                        60
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFGp5N1VYAAmx9Y.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFGp5N1VYAAmx9Y.jpg",
+                    "url": "https://t.co/hwDdn0uL63",
+                    "display_url": "pic.twitter.com/hwDdn0uL63",
+                    "expanded_url": "https://twitter.com/kurokuma824/status/887677412653154305/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 800,
+                            "h": 1900,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 505,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 286,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 887677412653154305,
+                    "source_status_id_str": "887677412653154305",
+                    "source_user_id": 513302391,
+                    "source_user_id_str": "513302391",
+                    "features": {
+                        "orig": {
+                            "faces": []
+                        },
+                        "large": {
+                            "faces": []
+                        },
+                        "medium": {
+                            "faces": []
+                        },
+                        "small": {
+                            "faces": []
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Jul 19 14:16:02 +0000 2017",
+            "id": 887677412653154305,
+            "id_str": "887677412653154305",
+            "text": "\u6d77\u306e\u65e5\u306b\u63cf\u3044\u3066\u305f\u3084\u3064\u3002\n\n\u6d77\u3068\u3044\u3048\u3070\uff01 https://t.co/hwDdn0uL63",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 887677401999695872,
+                        "id_str": "887677401999695872",
+                        "indices": [
+                            20,
+                            43
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFGp5N1VYAAmx9Y.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFGp5N1VYAAmx9Y.jpg",
+                        "url": "https://t.co/hwDdn0uL63",
+                        "display_url": "pic.twitter.com/hwDdn0uL63",
+                        "expanded_url": "https://twitter.com/kurokuma824/status/887677412653154305/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 800,
+                                "h": 1900,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 505,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 286,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "orig": {
+                                "faces": []
+                            },
+                            "large": {
+                                "faces": []
+                            },
+                            "medium": {
+                                "faces": []
+                            },
+                            "small": {
+                                "faces": []
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 887677401999695872,
+                        "id_str": "887677401999695872",
+                        "indices": [
+                            20,
+                            43
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFGp5N1VYAAmx9Y.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFGp5N1VYAAmx9Y.jpg",
+                        "url": "https://t.co/hwDdn0uL63",
+                        "display_url": "pic.twitter.com/hwDdn0uL63",
+                        "expanded_url": "https://twitter.com/kurokuma824/status/887677412653154305/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 800,
+                                "h": 1900,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 505,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 286,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "orig": {
+                                "faces": []
+                            },
+                            "large": {
+                                "faces": []
+                            },
+                            "medium": {
+                                "faces": []
+                            },
+                            "small": {
+                                "faces": []
+                            }
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 429,
+            "favorite_count": 1827,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja",
+            "supplemental_language": null
+        },
+        "is_quote_status": false,
+        "retweet_count": 429,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/790586581463674880/Kx0hkUKk_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/790586581463674880/Kx0hkUKk_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2472200760/1485412529",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "has_custom_timelines": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

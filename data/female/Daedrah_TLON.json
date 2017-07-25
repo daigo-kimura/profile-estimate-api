@@ -1,0 +1,111 @@
+{
+    "id": 2890838893,
+    "id_str": "2890838893",
+    "name": "Daedrah",
+    "screen_name": "Daedrah_TLON",
+    "location": "Tokyo, Japan",
+    "description": "I'm Daedrah. I'm very picky with whom I give my energy to. I prefer to reserve my time, intensity and spirit exclusively to those who reflect sincerity.",
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 64,
+    "fast_followers_count": 0,
+    "normal_followers_count": 64,
+    "friends_count": 47,
+    "listed_count": 7,
+    "created_at": "Wed Nov 05 13:00:12 +0000 2014",
+    "favourites_count": 423,
+    "utc_offset": 32400,
+    "time_zone": "Tokyo",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1710,
+    "media_count": 71,
+    "lang": "ja",
+    "status": {
+        "created_at": "Thu Mar 02 07:34:28 +0000 2017",
+        "id": 837204442009092098,
+        "id_str": "837204442009092098",
+        "text": "Have you heard \u2018So&amp;Such Mix #3: Moose Dawa\u2019 by So&amp;Such on #SoundCloud? #np https://t.co/Jl1e9itV7A",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SoundCloud",
+                    "indices": [
+                        66,
+                        77
+                    ]
+                },
+                {
+                    "text": "np",
+                    "indices": [
+                        79,
+                        82
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Jl1e9itV7A",
+                    "expanded_url": "https://soundcloud.com/soandsuch/sosuch-mix-3-moose-dawa?utm_source=soundcloud&utm_campaign=share&utm_medium=twitter",
+                    "display_url": "soundcloud.com/soandsuch/sosu\u2026",
+                    "indices": [
+                        83,
+                        106
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/816552925052878848/A2pc-C0W_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/816552925052878848/A2pc-C0W_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2890838893/1481452197",
+    "profile_link_color": "ABB8C2",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "has_custom_timelines": true,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

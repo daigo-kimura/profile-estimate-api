@@ -1,0 +1,109 @@
+{
+    "id": 2227557037,
+    "id_str": "2227557037",
+    "name": "\u82e5\u57ce\u516b\u5343\u4ee3",
+    "screen_name": "tamanegi85",
+    "location": "\u6a2a\u6d5c",
+    "description": "\u7f8e\u5473\u3057\u3044\u3082\u306e\u3092\u98df\u3079\u305f\u3089\u6ce3\u304d\u307e\u3059\u3002\u5143\u5927\u8846\u6f14\u5287\u5f79\u8005 \u3002\u73fe\u5728\u306f\u58f0\u512a\u3001 \u4f5c\u5bb6\u3001\u6f14\u51fa\u5bb6\u3001\u5360\u3044\u5e2b\u3092\u3057\u3066\u307e\u3059\u3002                  \u30d7\u30ed\u30d5\u753b\u306fStoneCricket   \u5f69\u30ce\u5bb6\u306e\u831c\u3061\u3083\u3093",
+    "url": "https://t.co/afB1Ieqv2J",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/afB1Ieqv2J",
+                    "expanded_url": "http://twpf.jp/tamanegi85",
+                    "display_url": "twpf.jp/tamanegi85",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 638,
+    "fast_followers_count": 0,
+    "normal_followers_count": 638,
+    "friends_count": 418,
+    "listed_count": 13,
+    "created_at": "Tue Dec 03 01:59:37 +0000 2013",
+    "favourites_count": 157,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 10383,
+    "media_count": 762,
+    "lang": "ja",
+    "status": {
+        "created_at": "Wed Jul 19 16:38:36 +0000 2017",
+        "id": 887713293351108608,
+        "id_str": "887713293351108608",
+        "text": "@ens_mackey \u3042\u308a\u304c\u3068\u30fc",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ens_mackey",
+                    "name": "\u307e\u3063\u304d\u3043",
+                    "id": 294033107,
+                    "id_str": "294033107",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 887524609871847425,
+        "in_reply_to_status_id_str": "887524609871847425",
+        "in_reply_to_user_id": 294033107,
+        "in_reply_to_user_id_str": "294033107",
+        "in_reply_to_screen_name": "ens_mackey",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/864008235375763458/ZXLNRMqA_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/864008235375763458/ZXLNRMqA_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2227557037/1494830595",
+    "profile_link_color": "F5ABB5",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "has_custom_timelines": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

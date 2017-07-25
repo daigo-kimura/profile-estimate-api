@@ -1,0 +1,475 @@
+{
+    "id": 1722675078,
+    "id_str": "1722675078",
+    "name": "\u96f7\u9cf4\u306eksk",
+    "screen_name": "k_kysk",
+    "location": "\u5175\u5eab\u770c\u795e\u6238\u5e02",
+    "description": "\u5f85\u3066\uff0c\u3057\u304b\u3057\u3066\u5e0c\u671b\u305b\u3088\u3002/ KUBA\u30a2\u30cb\u30e1\u7814\u7a76\u4f1a\u7814\u7a76\u54e1 (https://t.co/ADgDlEHujF)",
+    "url": "https://t.co/rWmeiOrwKe",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/rWmeiOrwKe",
+                    "expanded_url": "http://twpf.jp/k_kysk",
+                    "display_url": "twpf.jp/k_kysk",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": [
+                {
+                    "url": "https://t.co/ADgDlEHujF",
+                    "expanded_url": "https://sites.google.com/site/kubaanimationworkshop/home",
+                    "display_url": "sites.google.com/site/kubaanima\u2026",
+                    "indices": [
+                        29,
+                        52
+                    ]
+                }
+            ]
+        }
+    },
+    "protected": false,
+    "followers_count": 536,
+    "fast_followers_count": 0,
+    "normal_followers_count": 536,
+    "friends_count": 506,
+    "listed_count": 21,
+    "created_at": "Mon Sep 02 15:46:46 +0000 2013",
+    "favourites_count": 37728,
+    "utc_offset": 32400,
+    "time_zone": "Tokyo",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 68336,
+    "media_count": 2664,
+    "lang": "ja",
+    "status": {
+        "created_at": "Wed Jul 19 16:19:14 +0000 2017",
+        "id": 887708420769406976,
+        "id_str": "887708420769406976",
+        "text": "RT @Tokyo_Seoul: \u53f0\u6e7e\u306e\u4eba\u304c\u4e2d\u56fd\uff08\u5927\u9678\uff09\u306e\u5929\u5b89\u9580\u3067\u5199\u771f\u3092\u64ae\u308b\u3068\u304d\uff0c\u3053\u306e\u30dd\u30fc\u30ba\u3068\u3053\u306e\u89d2\u5ea6\u3067\u64ae\u308b\u3089\u3057\u304f\uff0c\u305d\u3046\u3059\u308b\u3068\u5f8c\u308d\u306e\u30b9\u30ed\u30fc\u30ac\u30f3\u304c\u300c\u4e2d\u83ef\u6c11\u56fd\u4e07\u6b73\u300d\u306b\u306a\u308b\u3068\u3044\u3046\u3053\u3068\u3089\u3057\u3044 https://t.co/zB2ztya75T",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Tokyo_Seoul",
+                    "name": "Motohiko Sakazaki",
+                    "id": 54560489,
+                    "id_str": "54560489",
+                    "indices": [
+                        3,
+                        15
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 887632950770061312,
+                    "id_str": "887632950770061312",
+                    "indices": [
+                        92,
+                        115
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFGBd0GU0AAupsl.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFGBd0GU0AAupsl.jpg",
+                    "url": "https://t.co/zB2ztya75T",
+                    "display_url": "pic.twitter.com/zB2ztya75T",
+                    "expanded_url": "https://twitter.com/Tokyo_Seoul/status/887632956436602880/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 440,
+                            "h": 590,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 440,
+                            "h": 590,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 440,
+                            "h": 590,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 887632956436602880,
+                    "source_status_id_str": "887632956436602880",
+                    "source_user_id": 54560489,
+                    "source_user_id_str": "54560489",
+                    "features": {
+                        "large": {
+                            "faces": []
+                        },
+                        "orig": {
+                            "faces": []
+                        },
+                        "medium": {
+                            "faces": []
+                        },
+                        "small": {
+                            "faces": []
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 887632950770061312,
+                    "id_str": "887632950770061312",
+                    "indices": [
+                        92,
+                        115
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFGBd0GU0AAupsl.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFGBd0GU0AAupsl.jpg",
+                    "url": "https://t.co/zB2ztya75T",
+                    "display_url": "pic.twitter.com/zB2ztya75T",
+                    "expanded_url": "https://twitter.com/Tokyo_Seoul/status/887632956436602880/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 440,
+                            "h": 590,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 440,
+                            "h": 590,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 440,
+                            "h": 590,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 887632956436602880,
+                    "source_status_id_str": "887632956436602880",
+                    "source_user_id": 54560489,
+                    "source_user_id_str": "54560489",
+                    "features": {
+                        "large": {
+                            "faces": []
+                        },
+                        "orig": {
+                            "faces": []
+                        },
+                        "medium": {
+                            "faces": []
+                        },
+                        "small": {
+                            "faces": []
+                        }
+                    }
+                },
+                {
+                    "id": 887632952242262017,
+                    "id_str": "887632952242262017",
+                    "indices": [
+                        92,
+                        115
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFGBd5lU0AEw5u-.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFGBd5lU0AEw5u-.jpg",
+                    "url": "https://t.co/zB2ztya75T",
+                    "display_url": "pic.twitter.com/zB2ztya75T",
+                    "expanded_url": "https://twitter.com/Tokyo_Seoul/status/887632956436602880/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 440,
+                            "h": 627,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 440,
+                            "h": 627,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 440,
+                            "h": 627,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 887632956436602880,
+                    "source_status_id_str": "887632956436602880",
+                    "source_user_id": 54560489,
+                    "source_user_id_str": "54560489",
+                    "features": {
+                        "small": {
+                            "faces": []
+                        },
+                        "medium": {
+                            "faces": []
+                        },
+                        "large": {
+                            "faces": []
+                        },
+                        "orig": {
+                            "faces": []
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Jul 19 11:19:22 +0000 2017",
+            "id": 887632956436602880,
+            "id_str": "887632956436602880",
+            "text": "\u53f0\u6e7e\u306e\u4eba\u304c\u4e2d\u56fd\uff08\u5927\u9678\uff09\u306e\u5929\u5b89\u9580\u3067\u5199\u771f\u3092\u64ae\u308b\u3068\u304d\uff0c\u3053\u306e\u30dd\u30fc\u30ba\u3068\u3053\u306e\u89d2\u5ea6\u3067\u64ae\u308b\u3089\u3057\u304f\uff0c\u305d\u3046\u3059\u308b\u3068\u5f8c\u308d\u306e\u30b9\u30ed\u30fc\u30ac\u30f3\u304c\u300c\u4e2d\u83ef\u6c11\u56fd\u4e07\u6b73\u300d\u306b\u306a\u308b\u3068\u3044\u3046\u3053\u3068\u3089\u3057\u3044 https://t.co/zB2ztya75T",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 887632950770061312,
+                        "id_str": "887632950770061312",
+                        "indices": [
+                            75,
+                            98
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFGBd0GU0AAupsl.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFGBd0GU0AAupsl.jpg",
+                        "url": "https://t.co/zB2ztya75T",
+                        "display_url": "pic.twitter.com/zB2ztya75T",
+                        "expanded_url": "https://twitter.com/Tokyo_Seoul/status/887632956436602880/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 440,
+                                "h": 590,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 440,
+                                "h": 590,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 440,
+                                "h": 590,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "large": {
+                                "faces": []
+                            },
+                            "orig": {
+                                "faces": []
+                            },
+                            "medium": {
+                                "faces": []
+                            },
+                            "small": {
+                                "faces": []
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 887632950770061312,
+                        "id_str": "887632950770061312",
+                        "indices": [
+                            75,
+                            98
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFGBd0GU0AAupsl.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFGBd0GU0AAupsl.jpg",
+                        "url": "https://t.co/zB2ztya75T",
+                        "display_url": "pic.twitter.com/zB2ztya75T",
+                        "expanded_url": "https://twitter.com/Tokyo_Seoul/status/887632956436602880/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 440,
+                                "h": 590,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 440,
+                                "h": 590,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 440,
+                                "h": 590,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "large": {
+                                "faces": []
+                            },
+                            "orig": {
+                                "faces": []
+                            },
+                            "medium": {
+                                "faces": []
+                            },
+                            "small": {
+                                "faces": []
+                            }
+                        }
+                    },
+                    {
+                        "id": 887632952242262017,
+                        "id_str": "887632952242262017",
+                        "indices": [
+                            75,
+                            98
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFGBd5lU0AEw5u-.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFGBd5lU0AEw5u-.jpg",
+                        "url": "https://t.co/zB2ztya75T",
+                        "display_url": "pic.twitter.com/zB2ztya75T",
+                        "expanded_url": "https://twitter.com/Tokyo_Seoul/status/887632956436602880/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 440,
+                                "h": 627,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 440,
+                                "h": 627,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 440,
+                                "h": 627,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "small": {
+                                "faces": []
+                            },
+                            "medium": {
+                                "faces": []
+                            },
+                            "large": {
+                                "faces": []
+                            },
+                            "orig": {
+                                "faces": []
+                            }
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 12302,
+            "favorite_count": 14885,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja",
+            "supplemental_language": null
+        },
+        "is_quote_status": false,
+        "retweet_count": 12302,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181110329/Ppm3y8_A.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181110329/Ppm3y8_A.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/836086950553509888/z8nFwYA4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/836086950553509888/z8nFwYA4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1722675078/1488173805",
+    "profile_link_color": "ABB8C2",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "has_custom_timelines": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

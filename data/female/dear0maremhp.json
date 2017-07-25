@@ -1,0 +1,777 @@
+{
+    "id": 268678815,
+    "id_str": "268678815",
+    "name": "\u9280\u6cb3\u6a5f\u653b\u968a\u30de\u30b8\u30a7\u30b9\u30c6\u30a3\u30c3\u30af\u304d\u308a\u3084",
+    "screen_name": "dear0maremhp",
+    "location": "\u4ec4\u6697\u3044\u6c34\u306e\u5e95",
+    "description": "\u5207\u4e5f\u3068\u3044\u3044\u307e\u3059\u3002\u6210\u4eba\u6e08\u8150\u2640\u3002\u30ab\u30fc\u30d3\u30a3\u3068\u30de\u30b8\u30a7\u30d7\u30ea\u3068\u5fcd\u305f\u307e\u3068\u30eb\u30d1\u30f3\u4e09\u4e16\u3068\u30d1\u30c1\u30f3\u30b3\u30b9\u30ed\u30c3\u30c8\u304c\u5927\u597d\u304d\u3002\u96d1\u591a\u57a2\u3067\u3059\u3002\u30d5\u30a9\u30ed\u30fc\u591a\u3044\u3051\u3069\u307b\u3068\u3093\u3069bot\u3068\u516c\u5f0f\u57a2\u3067\u3059\u3002\u30d1\u30c1\u306f\u30ea\u30f3\u30b0\u30b7\u30ea\u30fc\u30ba\u3068\u6d77\u3092\u3088\u304f\u6253\u3064\u3088\u3002\u85e4\u5546\u4e8b\u3068Daiichi\u597d\u304d\u3002\u305d\u968aNo.169",
+    "url": "https://t.co/AIg4EoyYTq",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/AIg4EoyYTq",
+                    "expanded_url": "http://twpf.jp/dear0maremhp",
+                    "display_url": "twpf.jp/dear0maremhp",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 332,
+    "fast_followers_count": 0,
+    "normal_followers_count": 332,
+    "friends_count": 1225,
+    "listed_count": 5,
+    "created_at": "Sat Mar 19 07:30:38 +0000 2011",
+    "favourites_count": 35445,
+    "utc_offset": 32400,
+    "time_zone": "Tokyo",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 41981,
+    "media_count": 1929,
+    "lang": "ja",
+    "status": {
+        "created_at": "Wed Jul 19 17:54:29 +0000 2017",
+        "id": 887732391128645632,
+        "id_str": "887732391128645632",
+        "text": "RT @takasaki_sister: \u3053\u306e\u6d41\u308c\u8349 https://t.co/i0Rmus39gJ",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "takasaki_sister",
+                    "name": "\u305f\u304b\u3055\u304d\u59c9\u8cb4\uff20\u738b\u306e\u5668\u5927\u962a8 N31",
+                    "id": 941445462,
+                    "id_str": "941445462",
+                    "indices": [
+                        3,
+                        19
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 887251269538029569,
+                    "id_str": "887251269538029569",
+                    "indices": [
+                        27,
+                        50
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFAmVCtUIAExmya.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFAmVCtUIAExmya.jpg",
+                    "url": "https://t.co/i0Rmus39gJ",
+                    "display_url": "pic.twitter.com/i0Rmus39gJ",
+                    "expanded_url": "https://twitter.com/takasaki_sister/status/887251293282095104/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1080,
+                            "h": 1061,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 668,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1061,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 887251293282095104,
+                    "source_status_id_str": "887251293282095104",
+                    "source_user_id": 941445462,
+                    "source_user_id_str": "941445462",
+                    "features": {
+                        "medium": {
+                            "faces": [
+                                {
+                                    "x": 263,
+                                    "y": 334,
+                                    "h": 120,
+                                    "w": 120
+                                },
+                                {
+                                    "x": 425,
+                                    "y": 267,
+                                    "h": 149,
+                                    "w": 149
+                                }
+                            ]
+                        },
+                        "small": {
+                            "faces": [
+                                {
+                                    "x": 165,
+                                    "y": 210,
+                                    "h": 75,
+                                    "w": 75
+                                },
+                                {
+                                    "x": 267,
+                                    "y": 168,
+                                    "h": 93,
+                                    "w": 93
+                                }
+                            ]
+                        },
+                        "large": {
+                            "faces": [
+                                {
+                                    "x": 263,
+                                    "y": 334,
+                                    "h": 120,
+                                    "w": 120
+                                },
+                                {
+                                    "x": 425,
+                                    "y": 267,
+                                    "h": 149,
+                                    "w": 149
+                                }
+                            ]
+                        },
+                        "orig": {
+                            "faces": [
+                                {
+                                    "x": 263,
+                                    "y": 334,
+                                    "h": 120,
+                                    "w": 120
+                                },
+                                {
+                                    "x": 425,
+                                    "y": 267,
+                                    "h": 149,
+                                    "w": 149
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 887251269538029569,
+                    "id_str": "887251269538029569",
+                    "indices": [
+                        27,
+                        50
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFAmVCtUIAExmya.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFAmVCtUIAExmya.jpg",
+                    "url": "https://t.co/i0Rmus39gJ",
+                    "display_url": "pic.twitter.com/i0Rmus39gJ",
+                    "expanded_url": "https://twitter.com/takasaki_sister/status/887251293282095104/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1080,
+                            "h": 1061,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 668,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1061,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 887251293282095104,
+                    "source_status_id_str": "887251293282095104",
+                    "source_user_id": 941445462,
+                    "source_user_id_str": "941445462",
+                    "features": {
+                        "medium": {
+                            "faces": [
+                                {
+                                    "x": 263,
+                                    "y": 334,
+                                    "h": 120,
+                                    "w": 120
+                                },
+                                {
+                                    "x": 425,
+                                    "y": 267,
+                                    "h": 149,
+                                    "w": 149
+                                }
+                            ]
+                        },
+                        "small": {
+                            "faces": [
+                                {
+                                    "x": 165,
+                                    "y": 210,
+                                    "h": 75,
+                                    "w": 75
+                                },
+                                {
+                                    "x": 267,
+                                    "y": 168,
+                                    "h": 93,
+                                    "w": 93
+                                }
+                            ]
+                        },
+                        "large": {
+                            "faces": [
+                                {
+                                    "x": 263,
+                                    "y": 334,
+                                    "h": 120,
+                                    "w": 120
+                                },
+                                {
+                                    "x": 425,
+                                    "y": 267,
+                                    "h": 149,
+                                    "w": 149
+                                }
+                            ]
+                        },
+                        "orig": {
+                            "faces": [
+                                {
+                                    "x": 263,
+                                    "y": 334,
+                                    "h": 120,
+                                    "w": 120
+                                },
+                                {
+                                    "x": 425,
+                                    "y": 267,
+                                    "h": 149,
+                                    "w": 149
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 887251283316416513,
+                    "id_str": "887251283316416513",
+                    "indices": [
+                        27,
+                        50
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFAmV2CVoAEP-Kj.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFAmV2CVoAEP-Kj.jpg",
+                    "url": "https://t.co/i0Rmus39gJ",
+                    "display_url": "pic.twitter.com/i0Rmus39gJ",
+                    "expanded_url": "https://twitter.com/takasaki_sister/status/887251293282095104/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 616,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 978,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 978,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 887251293282095104,
+                    "source_status_id_str": "887251293282095104",
+                    "source_user_id": 941445462,
+                    "source_user_id_str": "941445462",
+                    "features": {
+                        "small": {
+                            "faces": [
+                                {
+                                    "x": 449,
+                                    "y": 197,
+                                    "h": 37,
+                                    "w": 37
+                                },
+                                {
+                                    "x": 403,
+                                    "y": 176,
+                                    "h": 74,
+                                    "w": 74
+                                }
+                            ]
+                        },
+                        "large": {
+                            "faces": [
+                                {
+                                    "x": 714,
+                                    "y": 314,
+                                    "h": 60,
+                                    "w": 60
+                                },
+                                {
+                                    "x": 641,
+                                    "y": 281,
+                                    "h": 119,
+                                    "w": 119
+                                }
+                            ]
+                        },
+                        "orig": {
+                            "faces": [
+                                {
+                                    "x": 714,
+                                    "y": 314,
+                                    "h": 60,
+                                    "w": 60
+                                },
+                                {
+                                    "x": 641,
+                                    "y": 281,
+                                    "h": 119,
+                                    "w": 119
+                                }
+                            ]
+                        },
+                        "medium": {
+                            "faces": [
+                                {
+                                    "x": 714,
+                                    "y": 314,
+                                    "h": 60,
+                                    "w": 60
+                                },
+                                {
+                                    "x": 641,
+                                    "y": 281,
+                                    "h": 119,
+                                    "w": 119
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Tue Jul 18 10:02:47 +0000 2017",
+            "id": 887251293282095104,
+            "id_str": "887251293282095104",
+            "text": "\u3053\u306e\u6d41\u308c\u8349 https://t.co/i0Rmus39gJ",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 887251269538029569,
+                        "id_str": "887251269538029569",
+                        "indices": [
+                            6,
+                            29
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFAmVCtUIAExmya.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFAmVCtUIAExmya.jpg",
+                        "url": "https://t.co/i0Rmus39gJ",
+                        "display_url": "pic.twitter.com/i0Rmus39gJ",
+                        "expanded_url": "https://twitter.com/takasaki_sister/status/887251293282095104/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1080,
+                                "h": 1061,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 668,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1080,
+                                "h": 1061,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 263,
+                                        "y": 334,
+                                        "h": 120,
+                                        "w": 120
+                                    },
+                                    {
+                                        "x": 425,
+                                        "y": 267,
+                                        "h": 149,
+                                        "w": 149
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 165,
+                                        "y": 210,
+                                        "h": 75,
+                                        "w": 75
+                                    },
+                                    {
+                                        "x": 267,
+                                        "y": 168,
+                                        "h": 93,
+                                        "w": 93
+                                    }
+                                ]
+                            },
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 263,
+                                        "y": 334,
+                                        "h": 120,
+                                        "w": 120
+                                    },
+                                    {
+                                        "x": 425,
+                                        "y": 267,
+                                        "h": 149,
+                                        "w": 149
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 263,
+                                        "y": 334,
+                                        "h": 120,
+                                        "w": 120
+                                    },
+                                    {
+                                        "x": 425,
+                                        "y": 267,
+                                        "h": 149,
+                                        "w": 149
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 887251269538029569,
+                        "id_str": "887251269538029569",
+                        "indices": [
+                            6,
+                            29
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFAmVCtUIAExmya.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFAmVCtUIAExmya.jpg",
+                        "url": "https://t.co/i0Rmus39gJ",
+                        "display_url": "pic.twitter.com/i0Rmus39gJ",
+                        "expanded_url": "https://twitter.com/takasaki_sister/status/887251293282095104/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1080,
+                                "h": 1061,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 668,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1080,
+                                "h": 1061,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 263,
+                                        "y": 334,
+                                        "h": 120,
+                                        "w": 120
+                                    },
+                                    {
+                                        "x": 425,
+                                        "y": 267,
+                                        "h": 149,
+                                        "w": 149
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 165,
+                                        "y": 210,
+                                        "h": 75,
+                                        "w": 75
+                                    },
+                                    {
+                                        "x": 267,
+                                        "y": 168,
+                                        "h": 93,
+                                        "w": 93
+                                    }
+                                ]
+                            },
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 263,
+                                        "y": 334,
+                                        "h": 120,
+                                        "w": 120
+                                    },
+                                    {
+                                        "x": 425,
+                                        "y": 267,
+                                        "h": 149,
+                                        "w": 149
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 263,
+                                        "y": 334,
+                                        "h": 120,
+                                        "w": 120
+                                    },
+                                    {
+                                        "x": 425,
+                                        "y": 267,
+                                        "h": 149,
+                                        "w": 149
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "id": 887251283316416513,
+                        "id_str": "887251283316416513",
+                        "indices": [
+                            6,
+                            29
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFAmV2CVoAEP-Kj.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFAmV2CVoAEP-Kj.jpg",
+                        "url": "https://t.co/i0Rmus39gJ",
+                        "display_url": "pic.twitter.com/i0Rmus39gJ",
+                        "expanded_url": "https://twitter.com/takasaki_sister/status/887251293282095104/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 680,
+                                "h": 616,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1080,
+                                "h": 978,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1080,
+                                "h": 978,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 449,
+                                        "y": 197,
+                                        "h": 37,
+                                        "w": 37
+                                    },
+                                    {
+                                        "x": 403,
+                                        "y": 176,
+                                        "h": 74,
+                                        "w": 74
+                                    }
+                                ]
+                            },
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 714,
+                                        "y": 314,
+                                        "h": 60,
+                                        "w": 60
+                                    },
+                                    {
+                                        "x": 641,
+                                        "y": 281,
+                                        "h": 119,
+                                        "w": 119
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 714,
+                                        "y": 314,
+                                        "h": 60,
+                                        "w": 60
+                                    },
+                                    {
+                                        "x": 641,
+                                        "y": 281,
+                                        "h": 119,
+                                        "w": 119
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 714,
+                                        "y": 314,
+                                        "h": 60,
+                                        "w": 60
+                                    },
+                                    {
+                                        "x": 641,
+                                        "y": 281,
+                                        "h": 119,
+                                        "w": 119
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 5390,
+            "favorite_count": 6725,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja",
+            "supplemental_language": null
+        },
+        "is_quote_status": false,
+        "retweet_count": 5390,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/863390083101020160/jYAt-sCI_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/863390083101020160/jYAt-sCI_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/268678815/1480268287",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "has_custom_timelines": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

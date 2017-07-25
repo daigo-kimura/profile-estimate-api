@@ -1,0 +1,99 @@
+{
+    "id": 842657985973301248,
+    "id_str": "842657985973301248",
+    "name": "\u672c\u4e38\u5927\u597d\u304d\u5be9\u795e\u8005bot",
+    "screen_name": "hnml_b",
+    "location": "\u672c\u4e38",
+    "description": "\u79c1\u306f\u5be9\u795e\u8005\u3092\u3057\u3066\u3044\u307e\u3059\u3002\n\u672c\u4e38\u306b\u3044\u308b\u7686\u306f\u5bb6\u65cf\u3060\u3068\u601d\u3063\u3066\u3044\u307e\u3059\n\u273f\n\u975e\u516c\u5f0f\u5200\u5263\u4e71\u821ebot\u3002\u634f\u9020\u30fb\u95c7\u5815\u3061\u30fb\u604b\u611b\u306a\u3069\u306e\u8981\u7d20\u304c\u3042\u308a\u307e\u3059\u3002\n\u306a\u308a\u304d\u308a\u534a\u624b\u52d5\u3002\u5200\u5263\u7537\u58eb\u306e\u4f1a\u8a71\u306f\u81ea\u52d5\u3002\n\u30ea\u30d7\u53d7\u3051\u4ed8\u3051\u307e\u3059\u3002\u30c4\u30a4\u30d7\u30ed\u8aad\u3093\u3067\u306d\uff01\n\u4e2d\u306e\u4eba @abokado1_10",
+    "url": "https://t.co/2UfPyhud4L",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/2UfPyhud4L",
+                    "expanded_url": "http://twpf.jp/hnml_b",
+                    "display_url": "twpf.jp/hnml_b",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 5,
+    "fast_followers_count": 0,
+    "normal_followers_count": 5,
+    "friends_count": 11,
+    "listed_count": 0,
+    "created_at": "Fri Mar 17 08:44:54 +0000 2017",
+    "favourites_count": 1,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2348,
+    "media_count": 2,
+    "lang": "ja",
+    "status": {
+        "created_at": "Thu Jul 20 00:09:43 +0000 2017",
+        "id": 887826820984299520,
+        "id_str": "887826820984299520",
+        "text": "\u6b4c\u3063\u305f\u308a\u7d75\u3092\u63cf\u3044\u305f\u308a\u3059\u308b\u3053\u3068\u306f\u597d\u304d\u3060\u3088\u3002\n\u3067\u3082\u6b4c\u58f0\u306f\u3042\u307e\u308a\u805e\u304b\u305b\u305f\u304f\u306a\u3044\u306a\u3042\u3002\u3084\u3063\u3071\u308a\u6065\u305a\u304b\u3057\u304f\u3066...",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/842664008461180928/cItQTPmF_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/842664008461180928/cItQTPmF_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/842657985973301248/1489742101",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "has_custom_timelines": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "customer_service_state": "none",
+    "translator_type": "none"
+}

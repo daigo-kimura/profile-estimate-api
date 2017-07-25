@@ -1,0 +1,633 @@
+{
+    "id": 2919626341,
+    "id_str": "2919626341",
+    "name": "Show@\u8272\u677egirl\u306f\u3057\u3070\u3089\u304f\u4f4e\u6d6e\u4e0a",
+    "screen_name": "0625show",
+    "location": "\u4e5d\u5dde\u8150\u6cbc\u677e\u8358\u306e\u7ba1\u7406\u4eba       \u5225\u8358\u306f\u30bb\u30af\u30cb\u30e3\u30f3\u306e\u304a\u8179\u3068\u5c3b",
+    "description": "\u7cbe\u795e\u5e74\u9f62\u5e7c\u5150\u30a2\u30e9\u30e9\u8150\u5973\u5b50(\u7b11)/\u4e00\u677e,\u30ab\u30e9\u677egirl\uff01/\uff16\u3064\u5b50\u5927\u597d\u7269\uff01/\u7279\u64ae\u5927\u597d\u304d/\u8a95\u751f\u65e5\u306f(\u3080\u3064\u3054625)\u3068\u899a\u3048\u3066\u304f\u3060\u3055\u3044\u2665/\u7121\u8a00\uff8c\uff6b\uff9b\uff70OK\u2606/\u8da3\u5473\u306e\u5408\u3046\u4eba\u306e\u307f\u76f8\u4e92\uff8c\uff6b\uff9b\uff70\u3057\u307e\u3059/\u4eba\u6570\u3001\u304a\u91d1\u7a3c\u304e,\u95a2\u4fc2\u306a\u3044\u65b9\u306e\uff8c\uff6b\uff9b\uff70\u306f\uff8c\uff9e\uff9b\uff6f\uff78\u3057\u307e\u3059/\u7121\u8a00\uff8c\uff6b\uff9b\uff70rt\uff7a\uff92\u3001\uff72\uff72\uff88\u3059\u307f\u307e\u305b\u3093(\u00b4\u0414`|||)\u8a73\u3057\u3044\u30d7\u30ed\u30d5\u30a3\u30fc\u30eb\u3053\u3061\u3089\u2193",
+    "url": "https://t.co/5gDpLgpk1b",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/5gDpLgpk1b",
+                    "expanded_url": "http://twpf.jp/0625show",
+                    "display_url": "twpf.jp/0625show",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 196,
+    "fast_followers_count": 0,
+    "normal_followers_count": 196,
+    "friends_count": 884,
+    "listed_count": 4,
+    "created_at": "Fri Dec 05 12:40:09 +0000 2014",
+    "favourites_count": 28077,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 11212,
+    "media_count": 275,
+    "lang": "ja",
+    "status": {
+        "created_at": "Wed Jul 19 23:54:26 +0000 2017",
+        "id": 887822972794281984,
+        "id_str": "887822972794281984",
+        "text": "RT @mebari1050: \u5206\u5272\u3057\u305f\u65b9\u304c\u3044\u3044\u6c17\u304c\u3057\u305f https://t.co/s0WqiLRAqa",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "mebari1050",
+                    "name": "\u3081\u3070\u30ea\uff20\uff76\uff9e\uff80\uff76\uff9e\uff80",
+                    "id": 96350540,
+                    "id_str": "96350540",
+                    "indices": [
+                        3,
+                        14
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 777468841400020992,
+                    "id_str": "777468841400020992",
+                    "indices": [
+                        29,
+                        52
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CsofysOVMAAe-bT.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CsofysOVMAAe-bT.jpg",
+                    "url": "https://t.co/s0WqiLRAqa",
+                    "display_url": "pic.twitter.com/s0WqiLRAqa",
+                    "expanded_url": "https://twitter.com/mebari1050/status/777468946161119232/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 353,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1000,
+                            "h": 1924,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 624,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 777468946161119232,
+                    "source_status_id_str": "777468946161119232",
+                    "source_user_id": 96350540,
+                    "source_user_id_str": "96350540",
+                    "features": {
+                        "orig": {
+                            "faces": [
+                                {
+                                    "x": 289,
+                                    "y": 1078,
+                                    "h": 278,
+                                    "w": 278
+                                }
+                            ]
+                        },
+                        "small": {
+                            "faces": [
+                                {
+                                    "x": 102,
+                                    "y": 380,
+                                    "h": 98,
+                                    "w": 98
+                                }
+                            ]
+                        },
+                        "large": {
+                            "faces": [
+                                {
+                                    "x": 289,
+                                    "y": 1078,
+                                    "h": 278,
+                                    "w": 278
+                                }
+                            ]
+                        },
+                        "medium": {
+                            "faces": [
+                                {
+                                    "x": 180,
+                                    "y": 672,
+                                    "h": 173,
+                                    "w": 173
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 777468841400020992,
+                    "id_str": "777468841400020992",
+                    "indices": [
+                        29,
+                        52
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CsofysOVMAAe-bT.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CsofysOVMAAe-bT.jpg",
+                    "url": "https://t.co/s0WqiLRAqa",
+                    "display_url": "pic.twitter.com/s0WqiLRAqa",
+                    "expanded_url": "https://twitter.com/mebari1050/status/777468946161119232/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 353,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1000,
+                            "h": 1924,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 624,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 777468946161119232,
+                    "source_status_id_str": "777468946161119232",
+                    "source_user_id": 96350540,
+                    "source_user_id_str": "96350540",
+                    "features": {
+                        "orig": {
+                            "faces": [
+                                {
+                                    "x": 289,
+                                    "y": 1078,
+                                    "h": 278,
+                                    "w": 278
+                                }
+                            ]
+                        },
+                        "small": {
+                            "faces": [
+                                {
+                                    "x": 102,
+                                    "y": 380,
+                                    "h": 98,
+                                    "w": 98
+                                }
+                            ]
+                        },
+                        "large": {
+                            "faces": [
+                                {
+                                    "x": 289,
+                                    "y": 1078,
+                                    "h": 278,
+                                    "w": 278
+                                }
+                            ]
+                        },
+                        "medium": {
+                            "faces": [
+                                {
+                                    "x": 180,
+                                    "y": 672,
+                                    "h": 173,
+                                    "w": 173
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 777468862056980481,
+                    "id_str": "777468862056980481",
+                    "indices": [
+                        29,
+                        52
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Csofz5LVYAEJgVL.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Csofz5LVYAEJgVL.jpg",
+                    "url": "https://t.co/s0WqiLRAqa",
+                    "display_url": "pic.twitter.com/s0WqiLRAqa",
+                    "expanded_url": "https://twitter.com/mebari1050/status/777468946161119232/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1000,
+                            "h": 2043,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 333,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 587,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 777468946161119232,
+                    "source_status_id_str": "777468946161119232",
+                    "source_user_id": 96350540,
+                    "source_user_id_str": "96350540",
+                    "features": {
+                        "large": {
+                            "faces": [
+                                {
+                                    "x": 39,
+                                    "y": 1209,
+                                    "h": 91,
+                                    "w": 91
+                                }
+                            ]
+                        },
+                        "small": {
+                            "faces": [
+                                {
+                                    "x": 12,
+                                    "y": 402,
+                                    "h": 30,
+                                    "w": 30
+                                }
+                            ]
+                        },
+                        "medium": {
+                            "faces": [
+                                {
+                                    "x": 22,
+                                    "y": 709,
+                                    "h": 53,
+                                    "w": 53
+                                }
+                            ]
+                        },
+                        "orig": {
+                            "faces": [
+                                {
+                                    "x": 39,
+                                    "y": 1209,
+                                    "h": 91,
+                                    "w": 91
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Sun Sep 18 11:26:56 +0000 2016",
+            "id": 777468946161119232,
+            "id_str": "777468946161119232",
+            "text": "\u5206\u5272\u3057\u305f\u65b9\u304c\u3044\u3044\u6c17\u304c\u3057\u305f https://t.co/s0WqiLRAqa",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 777468841400020992,
+                        "id_str": "777468841400020992",
+                        "indices": [
+                            13,
+                            36
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CsofysOVMAAe-bT.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CsofysOVMAAe-bT.jpg",
+                        "url": "https://t.co/s0WqiLRAqa",
+                        "display_url": "pic.twitter.com/s0WqiLRAqa",
+                        "expanded_url": "https://twitter.com/mebari1050/status/777468946161119232/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 353,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1000,
+                                "h": 1924,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 624,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 289,
+                                        "y": 1078,
+                                        "h": 278,
+                                        "w": 278
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 102,
+                                        "y": 380,
+                                        "h": 98,
+                                        "w": 98
+                                    }
+                                ]
+                            },
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 289,
+                                        "y": 1078,
+                                        "h": 278,
+                                        "w": 278
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 180,
+                                        "y": 672,
+                                        "h": 173,
+                                        "w": 173
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 777468841400020992,
+                        "id_str": "777468841400020992",
+                        "indices": [
+                            13,
+                            36
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CsofysOVMAAe-bT.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CsofysOVMAAe-bT.jpg",
+                        "url": "https://t.co/s0WqiLRAqa",
+                        "display_url": "pic.twitter.com/s0WqiLRAqa",
+                        "expanded_url": "https://twitter.com/mebari1050/status/777468946161119232/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 353,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1000,
+                                "h": 1924,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 624,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 289,
+                                        "y": 1078,
+                                        "h": 278,
+                                        "w": 278
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 102,
+                                        "y": 380,
+                                        "h": 98,
+                                        "w": 98
+                                    }
+                                ]
+                            },
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 289,
+                                        "y": 1078,
+                                        "h": 278,
+                                        "w": 278
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 180,
+                                        "y": 672,
+                                        "h": 173,
+                                        "w": 173
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "id": 777468862056980481,
+                        "id_str": "777468862056980481",
+                        "indices": [
+                            13,
+                            36
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Csofz5LVYAEJgVL.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Csofz5LVYAEJgVL.jpg",
+                        "url": "https://t.co/s0WqiLRAqa",
+                        "display_url": "pic.twitter.com/s0WqiLRAqa",
+                        "expanded_url": "https://twitter.com/mebari1050/status/777468946161119232/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1000,
+                                "h": 2043,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 333,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 587,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 39,
+                                        "y": 1209,
+                                        "h": 91,
+                                        "w": 91
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 12,
+                                        "y": 402,
+                                        "h": 30,
+                                        "w": 30
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 22,
+                                        "y": 709,
+                                        "h": 53,
+                                        "w": 53
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 39,
+                                        "y": 1209,
+                                        "h": 91,
+                                        "w": 91
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 8127,
+            "favorite_count": 22798,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja",
+            "supplemental_language": null
+        },
+        "is_quote_status": false,
+        "retweet_count": 8127,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/868388740128882688/JRnZb74T_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/868388740128882688/JRnZb74T_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2919626341/1477317893",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "has_custom_timelines": true,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

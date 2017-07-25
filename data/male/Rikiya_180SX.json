@@ -1,0 +1,118 @@
+{
+    "id": 3233499258,
+    "id_str": "3233499258",
+    "name": "\u308a\u304d\u3084\u301c180SX\u7d0d\u8eca\u5f85\u3061\u301c",
+    "screen_name": "Rikiya_180SX",
+    "location": "\u7fa4\u99ac\u770c \u9091\u697d\u753a",
+    "description": "\u793e\u4f1a\u4eba1\u5e74\u76ee/\u5009\u5eab\u306e\u4e2d/\u611b\u8eca:\u30d1\u30c3\u30bdTRD\u5ec3\u8eca\u3002\u5ce0/\u8eca/\u97f3\u30b2\u30fc\u307e\u3063\u305f\u308a\u52e2/\u30a2\u30cb\u30e1\u5168\u822c\u597d\u304d/\u6d0b\u697d/Ariana Grande/180SX\u7d0d\u8eca\u5f85\u3061\u3002\u5922\u304c\u53f6\u3046\u3002\u8272\u3005\u306a\u5834\u6240\u306b\u51fa\u6ca1\u3057\u3066\u307e\u3075\u301c\u3002/\u72ec\u308a\u8a00\u591a\u3081/\u5468\u308a\u306e\u4eba\u306b\u611f\u8b1d/\u7121\u8a00\u30d5\u30a9\u30ed\u30fc\u3059\u308b\u5834\u5408\u304c\u3042\u308a\u307e\u3059\u3002",
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 367,
+    "fast_followers_count": 0,
+    "normal_followers_count": 367,
+    "friends_count": 251,
+    "listed_count": 0,
+    "created_at": "Tue Jun 02 13:39:44 +0000 2015",
+    "favourites_count": 1715,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 5723,
+    "media_count": 202,
+    "lang": "ja",
+    "status": {
+        "created_at": "Thu Jul 20 01:11:25 +0000 2017",
+        "id": 887842346963881984,
+        "id_str": "887842346963881984",
+        "text": "\u3042\u30fc\u3057\u3093\u3069\u3044\n\u4eca\u65e5\u660e\u65e5\u3063\u3066\u9811\u5f35\u308a\u6642\u3060\u306a\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "502ded26db997e09",
+            "url": "https://api.twitter.com/1.1/geo/id/502ded26db997e09.json",
+            "place_type": "city",
+            "name": "\u8db3\u5229\u5e02",
+            "full_name": "\u6803\u6728 \u8db3\u5229\u5e02",
+            "country_code": "JP",
+            "country": "\u65e5\u672c",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            139.361001,
+                            36.270297
+                        ],
+                        [
+                            139.548632,
+                            36.270297
+                        ],
+                        [
+                            139.548632,
+                            36.445719
+                        ],
+                        [
+                            139.361001,
+                            36.445719
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/816514856794738688/IJ-fd1XY_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/816514856794738688/IJ-fd1XY_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3233499258/1499138683",
+    "profile_link_color": "43EF6E",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "has_custom_timelines": true,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

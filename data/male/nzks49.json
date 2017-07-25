@@ -1,0 +1,371 @@
+{
+    "id": 408314341,
+    "id_str": "408314341",
+    "name": "\u3046\u3048\u307d\u3093",
+    "screen_name": "nzks49",
+    "location": "\u9759\u5ca1 \u5c71\u68a8",
+    "description": "\u30b2\u30fc\u30e0\u3001\u6f2b\u753b\u3001\u6b27\u5dde\u30b5\u30c3\u30ab\u30fc\u7b49\u304c\u597d\u304d\u306a\u5927\u5b663\u5e74\u751f\u3067\u3059\u3002\u6c17\u8efd\u306a\u7d61\u307f\u5f85\u3063\u3066\u307e\u3059\u203c\ufe0e",
+    "url": "https://t.co/emyBp7Hgr7",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/emyBp7Hgr7",
+                    "expanded_url": "http://twpf.jp/nzks49",
+                    "display_url": "twpf.jp/nzks49",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 691,
+    "fast_followers_count": 0,
+    "normal_followers_count": 691,
+    "friends_count": 756,
+    "listed_count": 8,
+    "created_at": "Wed Nov 09 08:05:00 +0000 2011",
+    "favourites_count": 1262,
+    "utc_offset": 32400,
+    "time_zone": "Tokyo",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 21434,
+    "media_count": 512,
+    "lang": "ja",
+    "status": {
+        "created_at": "Wed Jul 19 15:48:33 +0000 2017",
+        "id": 887700694953730048,
+        "id_str": "887700694953730048",
+        "text": "RT @ArsenalTerje: Iwobi equalises against Bayern in added time. Lovely goal https://t.co/7yTYKmyDjG",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ArsenalTerje",
+                    "name": "Terje",
+                    "id": 30366332,
+                    "id_str": "30366332",
+                    "indices": [
+                        3,
+                        16
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 887665209376198662,
+                    "id_str": "887665209376198662",
+                    "indices": [
+                        76,
+                        99
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/887665209376198662/pu/img/WtJ4fPfcqm9eJymc.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/887665209376198662/pu/img/WtJ4fPfcqm9eJymc.jpg",
+                    "url": "https://t.co/7yTYKmyDjG",
+                    "display_url": "pic.twitter.com/7yTYKmyDjG",
+                    "expanded_url": "https://twitter.com/ArsenalTerje/status/887665345967869953/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1024,
+                            "h": 512,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 300,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 340,
+                            "h": 170,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 887665345967869953,
+                    "source_status_id_str": "887665345967869953",
+                    "source_user_id": 30366332,
+                    "source_user_id_str": "30366332",
+                    "features": {}
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 887665209376198662,
+                    "id_str": "887665209376198662",
+                    "indices": [
+                        76,
+                        99
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/887665209376198662/pu/img/WtJ4fPfcqm9eJymc.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/887665209376198662/pu/img/WtJ4fPfcqm9eJymc.jpg",
+                    "url": "https://t.co/7yTYKmyDjG",
+                    "display_url": "pic.twitter.com/7yTYKmyDjG",
+                    "expanded_url": "https://twitter.com/ArsenalTerje/status/887665345967869953/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "large": {
+                            "w": 1024,
+                            "h": 512,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 300,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 340,
+                            "h": 170,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 887665345967869953,
+                    "source_status_id_str": "887665345967869953",
+                    "source_user_id": 30366332,
+                    "source_user_id_str": "30366332",
+                    "video_info": {
+                        "aspect_ratio": [
+                            2,
+                            1
+                        ],
+                        "duration_millis": 42867,
+                        "variants": [
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/887665209376198662/pu/vid/1440x720/lqdq5IbQ4xbYOG7Q.mp4"
+                            },
+                            {
+                                "bitrate": 320000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/887665209376198662/pu/vid/360x180/JbWGE_dDr3ZujKYo.mp4"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/887665209376198662/pu/pl/jtQG-ajFnJDl46Tr.m3u8"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/887665209376198662/pu/vid/720x360/V0PlsGcOLaPlkkFh.mp4"
+                            }
+                        ]
+                    },
+                    "features": {},
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Jul 19 13:28:05 +0000 2017",
+            "id": 887665345967869953,
+            "id_str": "887665345967869953",
+            "text": "Iwobi equalises against Bayern in added time. Lovely goal https://t.co/7yTYKmyDjG",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 887665209376198662,
+                        "id_str": "887665209376198662",
+                        "indices": [
+                            58,
+                            81
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/887665209376198662/pu/img/WtJ4fPfcqm9eJymc.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/887665209376198662/pu/img/WtJ4fPfcqm9eJymc.jpg",
+                        "url": "https://t.co/7yTYKmyDjG",
+                        "display_url": "pic.twitter.com/7yTYKmyDjG",
+                        "expanded_url": "https://twitter.com/ArsenalTerje/status/887665345967869953/video/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1024,
+                                "h": 512,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 600,
+                                "h": 300,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 340,
+                                "h": 170,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {}
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 887665209376198662,
+                        "id_str": "887665209376198662",
+                        "indices": [
+                            58,
+                            81
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/887665209376198662/pu/img/WtJ4fPfcqm9eJymc.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/887665209376198662/pu/img/WtJ4fPfcqm9eJymc.jpg",
+                        "url": "https://t.co/7yTYKmyDjG",
+                        "display_url": "pic.twitter.com/7yTYKmyDjG",
+                        "expanded_url": "https://twitter.com/ArsenalTerje/status/887665345967869953/video/1",
+                        "type": "video",
+                        "sizes": {
+                            "large": {
+                                "w": 1024,
+                                "h": 512,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 600,
+                                "h": 300,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 340,
+                                "h": 170,
+                                "resize": "fit"
+                            }
+                        },
+                        "video_info": {
+                            "aspect_ratio": [
+                                2,
+                                1
+                            ],
+                            "duration_millis": 42867,
+                            "variants": [
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/887665209376198662/pu/vid/1440x720/lqdq5IbQ4xbYOG7Q.mp4"
+                                },
+                                {
+                                    "bitrate": 320000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/887665209376198662/pu/vid/360x180/JbWGE_dDr3ZujKYo.mp4"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/887665209376198662/pu/pl/jtQG-ajFnJDl46Tr.m3u8"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/887665209376198662/pu/vid/720x360/V0PlsGcOLaPlkkFh.mp4"
+                                }
+                            ]
+                        },
+                        "features": {},
+                        "additional_media_info": {
+                            "monetizable": false
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 3572,
+            "favorite_count": 4740,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en",
+            "supplemental_language": null
+        },
+        "is_quote_status": false,
+        "retweet_count": 3572,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "3A0963",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/586166792822788097/A6L4r9si.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/586166792822788097/A6L4r9si.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/569903928418906112/feEzi_cU_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/569903928418906112/feEzi_cU_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/408314341/1452761293",
+    "profile_link_color": "37064F",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "has_custom_timelines": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

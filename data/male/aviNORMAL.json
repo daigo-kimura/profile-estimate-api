@@ -1,0 +1,111 @@
+{
+    "id": 3087692803,
+    "id_str": "3087692803",
+    "name": "a v i",
+    "screen_name": "aviNORMAL",
+    "location": "FUKUOKA",
+    "description": "\u3042\u3073\u3063\u3066\u8aad\u307f\u307e\u3059\u3002",
+    "url": "https://t.co/uMqK0dBJlK",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/uMqK0dBJlK",
+                    "expanded_url": "http://twpf.jp/aviNORMAL",
+                    "display_url": "twpf.jp/aviNORMAL",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 201,
+    "fast_followers_count": 0,
+    "normal_followers_count": 201,
+    "friends_count": 303,
+    "listed_count": 4,
+    "created_at": "Mon Mar 16 03:00:34 +0000 2015",
+    "favourites_count": 508,
+    "utc_offset": -25200,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4314,
+    "media_count": 726,
+    "lang": "ja",
+    "status": {
+        "created_at": "Thu Jul 20 00:05:23 +0000 2017",
+        "id": 887825728133185536,
+        "id_str": "887825728133185536",
+        "text": "\u6c17\u306b\u306a\u308b https://t.co/Huh7BfG8lU",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Huh7BfG8lU",
+                    "expanded_url": "https://twitter.com/gigazine/status/887295902964080641",
+                    "display_url": "twitter.com/gigazine/statu\u2026",
+                    "indices": [
+                        5,
+                        28
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 887295902964080641,
+        "quoted_status_id_str": "887295902964080641",
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/716008438837284864/bNhC-cwX.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/716008438837284864/bNhC-cwX.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/877183380105773056/t1wZYKQ4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/877183380105773056/t1wZYKQ4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3087692803/1488828831",
+    "profile_link_color": "000000",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "has_custom_timelines": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

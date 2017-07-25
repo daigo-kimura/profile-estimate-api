@@ -1,0 +1,117 @@
+{
+    "id": 2801835960,
+    "id_str": "2801835960",
+    "name": "\u304f\u307f\u3053\uff20\u30c4\u30a4\u6d88\u3057",
+    "screen_name": "njir_n_skn",
+    "location": "\u5317\u306e\u307b\u3046",
+    "description": "",
+    "url": "https://t.co/PtbBbxP9hb",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/PtbBbxP9hb",
+                    "expanded_url": "http://twpf.jp/njir_n_skn",
+                    "display_url": "twpf.jp/njir_n_skn",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 28,
+    "fast_followers_count": 0,
+    "normal_followers_count": 28,
+    "friends_count": 88,
+    "listed_count": 0,
+    "created_at": "Wed Sep 10 14:08:55 +0000 2014",
+    "favourites_count": 8518,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 757,
+    "media_count": 87,
+    "lang": "ja",
+    "status": {
+        "created_at": "Thu Jul 20 01:14:49 +0000 2017",
+        "id": 887843203059040256,
+        "id_str": "887843203059040256",
+        "text": "#NowPlaying \u718a\u306e\u60d1\u661f by \u30d5\u30b8\u30d5\u30a1\u30d6\u30ea\u30c3\u30af \u266b https://t.co/Rs9cQyPDeh",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "NowPlaying",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Rs9cQyPDeh",
+                    "expanded_url": "http://spoti.fi/2th2HR4",
+                    "display_url": "spoti.fi/2th2HR4",
+                    "indices": [
+                        31,
+                        54
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://spotify.com\" rel=\"nofollow\">Spotify</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/734748965896224771/9y0XLo8f_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/734748965896224771/9y0XLo8f_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2801835960/1497911311",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "has_custom_timelines": true,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

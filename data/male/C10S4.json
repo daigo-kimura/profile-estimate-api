@@ -1,0 +1,129 @@
+{
+    "id": 349465183,
+    "id_str": "349465183",
+    "name": "\u62b9\u8336",
+    "screen_name": "C10S4",
+    "location": "(:3[\u8d70\u308c\uff01\u30e9\u30c3\u30d4\u30f3\u30b0\u96fb\u8eca]",
+    "description": "\u6ecb\u8cc0\u770c\u7523\u8336\u84495000\u5146%\u4f7f\u7528\u3002\u5317\u6d77\u9053\u306f\u3044\u3044\u305e\u3002\u4e57\uff06\u964d\uff06\u99c5 (\u30c4\u30a4\u30d5\u30a3\u30fc\u30eb https://t.co/fNoRsJMotC \u6700\u7d42\u66f4\u65b02016-11-1)",
+    "url": "https://t.co/fKv8ZcKDq6",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/fKv8ZcKDq6",
+                    "expanded_url": "http://yaplog.jp/special-rapid/",
+                    "display_url": "yaplog.jp/special-rapid/",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": [
+                {
+                    "url": "https://t.co/fNoRsJMotC",
+                    "expanded_url": "http://twpf.jp/C10S4",
+                    "display_url": "twpf.jp/C10S4",
+                    "indices": [
+                        37,
+                        60
+                    ]
+                }
+            ]
+        }
+    },
+    "protected": false,
+    "followers_count": 1044,
+    "fast_followers_count": 0,
+    "normal_followers_count": 1044,
+    "friends_count": 711,
+    "listed_count": 46,
+    "created_at": "Sat Aug 06 04:15:24 +0000 2011",
+    "favourites_count": 13648,
+    "utc_offset": 32400,
+    "time_zone": "Tokyo",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 339538,
+    "media_count": 4420,
+    "lang": "ja",
+    "status": {
+        "created_at": "Wed Jul 19 15:00:58 +0000 2017",
+        "id": 887688722027749376,
+        "id_str": "887688722027749376",
+        "text": "@C10S4 @keyC10 07-19\u306e\u30dd\u30b9\u30c8\u6570\uff1a56 (\u3046\u3061RT\uff1a20)",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "C10S4",
+                    "name": "\u62b9\u8336",
+                    "id": 349465183,
+                    "id_str": "349465183",
+                    "indices": [
+                        0,
+                        6
+                    ]
+                },
+                {
+                    "screen_name": "keyC10",
+                    "name": "\u9375\u5c71\u62b9\u8336",
+                    "id": 828804332,
+                    "id_str": "828804332",
+                    "indices": [
+                        7,
+                        14
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"https://twihaialert.net/\" rel=\"nofollow\">\u30c4\u30a4\u5ec3\u3042\u3089\u30fc\u3068</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 349465183,
+        "in_reply_to_user_id_str": "349465183",
+        "in_reply_to_screen_name": "C10S4",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": true,
+    "profile_background_color": "B2DFDA",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/566789458/llxyx8xmjavgdxu4i9ly.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/566789458/llxyx8xmjavgdxu4i9ly.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/875709588187762688/03h7Gt88_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/875709588187762688/03h7Gt88_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/349465183/1488976376",
+    "profile_link_color": "4A913C",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "has_custom_timelines": false,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

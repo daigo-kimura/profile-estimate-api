@@ -1,0 +1,460 @@
+{
+    "id": 264312016,
+    "id_str": "264312016",
+    "name": "\u96fb\u6483\u304a\u5144\u3055\u3093",
+    "screen_name": "britzbrother",
+    "location": "\u57fc\u7389\u770c",
+    "description": "\u30d1\u30c1\u516d\u5e74\u3001\u30b9\u30ed\u56db\u5e74\u306e\u521d\u5fc3\u8005\u3067\u3059\u03c3(^_^;) \u30a2\u30d7\u30ea\u306f\u5343\u30e1\u30e2\u3001\u30b0\u30ea\u30e2\u30a2\u3001\u5929\u30af\u30e9\u3084\u3063\u3066\u307e\u3059\u3002\u8239\u56e3\u306f\u300e\u30ab\u30b5\u30d6\u30e9\u30f3\u30ab\u300f(\u30fb\u03c9\u30fb)\u30ce  \u30d5\u30a9\u30ed\u30fc\u306f\u3057\u307e\u3059\u304c\u3001\u653b\u7565\u3001\u30d3\u30b8\u30cd\u30b9\u3001\u30a8\u30ed\u57a2\u306f\u8208\u5473\u304c\u3042\u308a\u307e\u305b\u3093\u3002\u7121\u8a00\u30d5\u30a9\u30ed\u30fc\u5931\u793c\u3002PC\u306f\u30a2\u30ea\u30b9\u30bd\u30d5\u30c8\u3001NEXTON.key\u306f\u3042\u308b\u7a0b\u5ea6\u30d7\u30ec\u30a4\u6e08\u307f\ud83d\udc4d\u7d61\u307f\u6b53\u8fce\u3001\u3088\u308d\u3057\u304f\u3067\u3059\u266a",
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 178,
+    "fast_followers_count": 0,
+    "normal_followers_count": 178,
+    "friends_count": 245,
+    "listed_count": 0,
+    "created_at": "Fri Mar 11 17:59:40 +0000 2011",
+    "favourites_count": 3208,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 842,
+    "media_count": 71,
+    "lang": "ja",
+    "status": {
+        "created_at": "Thu Jul 20 01:19:30 +0000 2017",
+        "id": 887844381440462848,
+        "id_str": "887844381440462848",
+        "text": "RT @shakerizero: \u307e\u3063\u305f\u304f\uff65\uff65\uff65\u6ce3\u304d\u866b\u306a\u306e\u306f\u524d\u304b\u3089\u5909\u308f\u3063\u3066\u306a\u3044\u306e\u3088\uff08\u203b6\u7ae0\u8ef8\uff09 https://t.co/O8nbqp06Td",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "shakerizero",
+                    "name": "\u3057\u3083\u3051\u6ca2",
+                    "id": 741121583067041792,
+                    "id_str": "741121583067041792",
+                    "indices": [
+                        3,
+                        15
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 887667074499190784,
+                    "id_str": "887667074499190784",
+                    "indices": [
+                        48,
+                        71
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFGggE5VoAAqKdA.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFGggE5VoAAqKdA.jpg",
+                    "url": "https://t.co/O8nbqp06Td",
+                    "display_url": "pic.twitter.com/O8nbqp06Td",
+                    "expanded_url": "https://twitter.com/shakerizero/status/887667292896608256/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 919,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1569,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 521,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 887667292896608256,
+                    "source_status_id_str": "887667292896608256",
+                    "source_user_id": 741121583067041792,
+                    "source_user_id_str": "741121583067041792",
+                    "features": {
+                        "medium": {
+                            "faces": [
+                                {
+                                    "x": 536,
+                                    "y": 203,
+                                    "h": 104,
+                                    "w": 104
+                                }
+                            ]
+                        },
+                        "orig": {
+                            "faces": [
+                                {
+                                    "x": 1047,
+                                    "y": 397,
+                                    "h": 203,
+                                    "w": 203
+                                }
+                            ]
+                        },
+                        "large": {
+                            "faces": [
+                                {
+                                    "x": 915,
+                                    "y": 347,
+                                    "h": 177,
+                                    "w": 177
+                                }
+                            ]
+                        },
+                        "small": {
+                            "faces": [
+                                {
+                                    "x": 304,
+                                    "y": 115,
+                                    "h": 58,
+                                    "w": 58
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 887667074499190784,
+                    "id_str": "887667074499190784",
+                    "indices": [
+                        48,
+                        71
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFGggE5VoAAqKdA.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFGggE5VoAAqKdA.jpg",
+                    "url": "https://t.co/O8nbqp06Td",
+                    "display_url": "pic.twitter.com/O8nbqp06Td",
+                    "expanded_url": "https://twitter.com/shakerizero/status/887667292896608256/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 919,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1569,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 521,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 887667292896608256,
+                    "source_status_id_str": "887667292896608256",
+                    "source_user_id": 741121583067041792,
+                    "source_user_id_str": "741121583067041792",
+                    "features": {
+                        "medium": {
+                            "faces": [
+                                {
+                                    "x": 536,
+                                    "y": 203,
+                                    "h": 104,
+                                    "w": 104
+                                }
+                            ]
+                        },
+                        "orig": {
+                            "faces": [
+                                {
+                                    "x": 1047,
+                                    "y": 397,
+                                    "h": 203,
+                                    "w": 203
+                                }
+                            ]
+                        },
+                        "large": {
+                            "faces": [
+                                {
+                                    "x": 915,
+                                    "y": 347,
+                                    "h": 177,
+                                    "w": 177
+                                }
+                            ]
+                        },
+                        "small": {
+                            "faces": [
+                                {
+                                    "x": 304,
+                                    "y": 115,
+                                    "h": 58,
+                                    "w": 58
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Jul 19 13:35:49 +0000 2017",
+            "id": 887667292896608256,
+            "id_str": "887667292896608256",
+            "text": "\u307e\u3063\u305f\u304f\uff65\uff65\uff65\u6ce3\u304d\u866b\u306a\u306e\u306f\u524d\u304b\u3089\u5909\u308f\u3063\u3066\u306a\u3044\u306e\u3088\uff08\u203b6\u7ae0\u8ef8\uff09 https://t.co/O8nbqp06Td",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 887667074499190784,
+                        "id_str": "887667074499190784",
+                        "indices": [
+                            31,
+                            54
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFGggE5VoAAqKdA.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFGggE5VoAAqKdA.jpg",
+                        "url": "https://t.co/O8nbqp06Td",
+                        "display_url": "pic.twitter.com/O8nbqp06Td",
+                        "expanded_url": "https://twitter.com/shakerizero/status/887667292896608256/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1200,
+                                "h": 919,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1569,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 521,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 536,
+                                        "y": 203,
+                                        "h": 104,
+                                        "w": 104
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 1047,
+                                        "y": 397,
+                                        "h": 203,
+                                        "w": 203
+                                    }
+                                ]
+                            },
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 915,
+                                        "y": 347,
+                                        "h": 177,
+                                        "w": 177
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 304,
+                                        "y": 115,
+                                        "h": 58,
+                                        "w": 58
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 887667074499190784,
+                        "id_str": "887667074499190784",
+                        "indices": [
+                            31,
+                            54
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFGggE5VoAAqKdA.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFGggE5VoAAqKdA.jpg",
+                        "url": "https://t.co/O8nbqp06Td",
+                        "display_url": "pic.twitter.com/O8nbqp06Td",
+                        "expanded_url": "https://twitter.com/shakerizero/status/887667292896608256/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1200,
+                                "h": 919,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1569,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 521,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 536,
+                                        "y": 203,
+                                        "h": 104,
+                                        "w": 104
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 1047,
+                                        "y": 397,
+                                        "h": 203,
+                                        "w": 203
+                                    }
+                                ]
+                            },
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 915,
+                                        "y": 347,
+                                        "h": 177,
+                                        "w": 177
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 304,
+                                        "y": 115,
+                                        "h": 58,
+                                        "w": 58
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 296,
+            "favorite_count": 931,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja",
+            "supplemental_language": null
+        },
+        "is_quote_status": false,
+        "retweet_count": 296,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/867746852954886144/nXJBRQGF_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/867746852954886144/nXJBRQGF_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/264312016/1498055412",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "has_custom_timelines": true,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

@@ -1,0 +1,155 @@
+{
+    "id": 759036149687984130,
+    "id_str": "759036149687984130",
+    "name": "\u91ce\u7363\u9db4\u821e\u7dda\u306b\u65b0\u5f62\u5f0f\u3092(\u56f0\u60d1)",
+    "screen_name": "tokai_stations",
+    "location": "\u6771\u6d77\u8feb\u771f\u5927\u5b66\u9644\u5c5e\u9ad8\u7b49\u5b66\u6821\uff11\u5e74\u6deb\u5922\u79d1\uff19\u7d44\uff11\uff19\u756a",
+    "description": "\u6771\u6d77STATIONS\u3067\u3059\u3002\u4e2d\u90e8\uff65\u95a2\u897f\u306e\u9244\u9053\u3001\u7279\u306b\u99c5\u306b\u7279\u5316\u3059\u308b\u3088\u3046\u7687\u7d002662\u5e74\u306b\u88fd\u9020\u3055\u308c\u305f\u771f\u6838\u751f\u7269\u3002\u6700\u8fd1\u30a2\u30cb\u30e1\u306b\u624b\u3092\u51fa\u3057\u305f\u3089\u3057\u3044\u3002\u306a\u304a\u672a\u5b8c\u5168(\u306b\u308f\u304b)\u306a\u306e\u3067\u81f3\u3089\u306a\u3044\u70b9\u304c\u3042\u308a\u307e\u3059\u304c\u3054\u5bb9\u8d66\u4e0b\u3055\u3044\u3002",
+    "url": "https://t.co/vXJ0I2fTAQ",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/vXJ0I2fTAQ",
+                    "expanded_url": "http://s.ameblo.jp/nagoya-chugakusei",
+                    "display_url": "s.ameblo.jp/nagoya-chugaku\u2026",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 1252,
+    "fast_followers_count": 0,
+    "normal_followers_count": 1252,
+    "friends_count": 1271,
+    "listed_count": 30,
+    "created_at": "Fri Jul 29 14:41:35 +0000 2016",
+    "favourites_count": 17377,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 31356,
+    "media_count": 2715,
+    "lang": "ja",
+    "status": {
+        "created_at": "Wed Jul 19 22:55:37 +0000 2017",
+        "id": 887808172420993024,
+        "id_str": "887808172420993024",
+        "text": "\u4eca\u65e5\u306f\u901a\u904e\u82b8\u3057\u306a\u3044\u305e (@ \u540d\u9244\u540d\u53e4\u5c4b\u99c5 in \u540d\u53e4\u5c4b\u5e02, \u611b\u77e5\u770c) https://t.co/Ip9Z6qYIJy",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Ip9Z6qYIJy",
+                    "expanded_url": "https://www.swarmapp.com/c/j2BxeeAT5V4",
+                    "display_url": "swarmapp.com/c/j2BxeeAT5V4",
+                    "indices": [
+                        35,
+                        58
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                35.17004226,
+                136.88406535
+            ]
+        },
+        "coordinates": {
+            "type": "Point",
+            "coordinates": [
+                136.88406535,
+                35.17004226
+            ]
+        },
+        "place": {
+            "id": "d11899c51981283a",
+            "url": "https://api.twitter.com/1.1/geo/id/d11899c51981283a.json",
+            "place_type": "city",
+            "name": "\u540d\u53e4\u5c4b\u5e02 \u4e2d\u6751\u533a",
+            "full_name": "\u611b\u77e5 \u540d\u53e4\u5c4b\u5e02 \u4e2d\u6751\u533a",
+            "country_code": "JP",
+            "country": "\u65e5\u672c",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            136.834336005073,
+                            35.1427100006125
+                        ],
+                        [
+                            136.900606995939,
+                            35.1427100006125
+                        ],
+                        [
+                            136.900606995939,
+                            35.1884150042648
+                        ],
+                        [
+                            136.834336005073,
+                            35.1884150042648
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/882511457711149059/gGZVfHz6_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/882511457711149059/gGZVfHz6_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/759036149687984130/1499680542",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "has_custom_timelines": true,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "customer_service_state": "none",
+    "translator_type": "none"
+}

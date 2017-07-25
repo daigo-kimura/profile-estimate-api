@@ -1,0 +1,109 @@
+{
+    "id": 2524628863,
+    "id_str": "2524628863",
+    "name": "\u305f\u3064\u304d",
+    "screen_name": "tacchan_0416",
+    "location": "\u9ad8\u6821\u4ee5\u4e0a\u5927\u5b66\u672a\u6e80",
+    "description": "\u97ee\u9ad8\u2192\u5c71\u68a8CS\n\u962a\u5927\u7406\u5b66\u90e8\u5fd7\u671b\n\n\u539f\u56e0\u306f\u305f\u3044\u3066\u3044\u81ea\u5206\u306b\u3042\u308b\n\nTwitter\u306b\u3044\u308b\u3051\u3069LINE\u898b\u306a\u3044\u3001\u3088\u304f\u3042\u308a\u307e\u3059\u3002",
+    "url": "https://t.co/wUOGkKvOiH",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/wUOGkKvOiH",
+                    "expanded_url": "http://twpf.jp/tacchan_0416",
+                    "display_url": "twpf.jp/tacchan_0416",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 142,
+    "fast_followers_count": 0,
+    "normal_followers_count": 142,
+    "friends_count": 179,
+    "listed_count": 0,
+    "created_at": "Mon May 26 09:35:43 +0000 2014",
+    "favourites_count": 2446,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7090,
+    "media_count": 232,
+    "lang": "ja",
+    "status": {
+        "created_at": "Tue Jul 18 01:06:50 +0000 2017",
+        "id": 887116417429938176,
+        "id_str": "887116417429938176",
+        "text": "@hiradaira_ \u306a\u3089\u30aa\u30c3\u30b1\u30fc",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "hiradaira_",
+                    "name": "\u7533\u3057\u8a33\u30ca\u30a4\u30c1\u30f3\u30b2\u30fc\u30eb",
+                    "id": 753148610087260160,
+                    "id_str": "753148610087260160",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 887115567873662976,
+        "in_reply_to_status_id_str": "887115567873662976",
+        "in_reply_to_user_id": 753148610087260160,
+        "in_reply_to_user_id_str": "753148610087260160",
+        "in_reply_to_screen_name": "hiradaira_",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/876079428891168769/eqfaTuDV_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/876079428891168769/eqfaTuDV_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2524628863/1493388479",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "has_custom_timelines": false,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

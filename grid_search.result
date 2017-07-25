@@ -1,0 +1,145 @@
+alpha	hidden_layer_sizes
+{'alpha': 1e-06, 'hidden_layer_sizes': (10, 2)}
+1e-06	(10, 2)
+# Accuracy Score
+0.773962804006
+{'alpha': 1e-05, 'hidden_layer_sizes': (10, 2)}
+1e-05	(10, 2)
+# Accuracy Score
+0.776108726753
+{'alpha': 0.0001, 'hidden_layer_sizes': (10, 2)}
+0.0001	(10, 2)
+# Accuracy Score
+0.773962804006
+{'alpha': 0.001, 'hidden_layer_sizes': (10, 2)}
+0.001	(10, 2)
+# Accuracy Score
+0.772532188841
+{'alpha': 0.01, 'hidden_layer_sizes': (10, 2)}
+0.01	(10, 2)
+# Accuracy Score
+0.774678111588
+{'alpha': 0.1, 'hidden_layer_sizes': (10, 2)}
+0.1	(10, 2)
+# Accuracy Score
+0.778254649499
+{'alpha': 1e-06, 'hidden_layer_sizes': (10, 3)}
+1e-06	(10, 3)
+# Accuracy Score
+0.776824034335
+{'alpha': 1e-05, 'hidden_layer_sizes': (10, 3)}
+1e-05	(10, 3)
+# Accuracy Score
+0.776108726753
+{'alpha': 0.0001, 'hidden_layer_sizes': (10, 3)}
+0.0001	(10, 3)
+# Accuracy Score
+0.778254649499
+{'alpha': 0.001, 'hidden_layer_sizes': (10, 3)}
+0.001	(10, 3)
+# Accuracy Score
+0.781115879828
+{'alpha': 0.01, 'hidden_layer_sizes': (10, 3)}
+0.01	(10, 3)
+# Accuracy Score
+0.776824034335
+{'alpha': 0.1, 'hidden_layer_sizes': (10, 3)}
+0.1	(10, 3)
+# Accuracy Score
+0.778254649499
+{'alpha': 1e-06, 'hidden_layer_sizes': (10, 4)}
+1e-06	(10, 4)
+# Accuracy Score
+0.778969957082
+{'alpha': 1e-05, 'hidden_layer_sizes': (10, 4)}
+1e-05	(10, 4)
+# Accuracy Score
+0.778254649499
+{'alpha': 0.0001, 'hidden_layer_sizes': (10, 4)}
+0.0001	(10, 4)
+# Accuracy Score
+0.785407725322
+{'alpha': 0.001, 'hidden_layer_sizes': (10, 4)}
+0.001	(10, 4)
+# Accuracy Score
+0.778254649499
+{'alpha': 0.01, 'hidden_layer_sizes': (10, 4)}
+0.01	(10, 4)
+# Accuracy Score
+0.781831187411
+{'alpha': 0.1, 'hidden_layer_sizes': (10, 4)}
+0.1	(10, 4)
+# Accuracy Score
+0.763233190272
+{'alpha': 1e-06, 'hidden_layer_sizes': (20, 2)}
+1e-06	(20, 2)
+# Accuracy Score
+0.780400572246
+{'alpha': 1e-05, 'hidden_layer_sizes': (20, 2)}
+1e-05	(20, 2)
+# Accuracy Score
+0.778254649499
+{'alpha': 0.0001, 'hidden_layer_sizes': (20, 2)}
+0.0001	(20, 2)
+# Accuracy Score
+0.782546494993
+{'alpha': 0.001, 'hidden_layer_sizes': (20, 2)}
+0.001	(20, 2)
+# Accuracy Score
+0.761087267525
+{'alpha': 0.01, 'hidden_layer_sizes': (20, 2)}
+0.01	(20, 2)
+# Accuracy Score
+0.772532188841
+{'alpha': 0.1, 'hidden_layer_sizes': (20, 2)}
+0.1	(20, 2)
+# Accuracy Score
+0.783261802575
+{'alpha': 1e-06, 'hidden_layer_sizes': (20, 3)}
+1e-06	(20, 3)
+# Accuracy Score
+0.777539341917
+{'alpha': 1e-05, 'hidden_layer_sizes': (20, 3)}
+1e-05	(20, 3)
+# Accuracy Score
+0.776108726753
+{'alpha': 0.0001, 'hidden_layer_sizes': (20, 3)}
+0.0001	(20, 3)
+# Accuracy Score
+0.765379113019
+{'alpha': 0.001, 'hidden_layer_sizes': (20, 3)}
+0.001	(20, 3)
+# Accuracy Score
+0.772532188841
+{'alpha': 0.01, 'hidden_layer_sizes': (20, 3)}
+0.01	(20, 3)
+# Accuracy Score
+0.778254649499
+{'alpha': 0.1, 'hidden_layer_sizes': (20, 3)}
+0.1	(20, 3)
+# Accuracy Score
+0.778969957082
+{'alpha': 1e-06, 'hidden_layer_sizes': (20, 4)}
+1e-06	(20, 4)
+# Accuracy Score
+0.778969957082
+{'alpha': 1e-05, 'hidden_layer_sizes': (20, 4)}
+1e-05	(20, 4)
+# Accuracy Score
+0.781115879828
+{'alpha': 0.0001, 'hidden_layer_sizes': (20, 4)}
+0.0001	(20, 4)
+# Accuracy Score
+0.776108726753
+{'alpha': 0.001, 'hidden_layer_sizes': (20, 4)}
+0.001	(20, 4)
+# Accuracy Score
+0.774678111588
+{'alpha': 0.01, 'hidden_layer_sizes': (20, 4)}
+0.01	(20, 4)
+# Accuracy Score
+0.777539341917
+{'alpha': 0.1, 'hidden_layer_sizes': (20, 4)}
+0.1	(20, 4)
+# Accuracy Score
+0.768240343348

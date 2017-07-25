@@ -1,0 +1,361 @@
+{
+    "id": 727140124635451394,
+    "id_str": "727140124635451394",
+    "name": "Canary(\u590f\u30b3\u30f3\u7d20\u6674\u3089\u3057\u304b\u3063\u305f\ud83e\udd23)",
+    "screen_name": "Seiko_Canary",
+    "location": "\u8a73\u3057\u304f\u306f\u30c4\u30a4\u30d5\u30a3\u30fc\u30eb\u898b\u3066\u304f\u3060\u3055\u3044",
+    "description": "80\u5e74\u4ee3\u5973\u6027\u30a2\u30a4\u30c9\u30eb\u30d5\u30a1\u30f3/#\u677e\u7530\u8056\u5b50 #\u5357\u91ce\u967d\u5b50 #\u6cb3\u5408\u5948\u4fdd\u5b50 #\u4e2d\u68ee\u660e\u83dc #80\u5e74\u4ee3 #\u5ca1\u7530\u6709\u5e0c\u5b50/80\u5e74\u4ee3\u306f\u5272\u3068\u5e45\u5e83\u304f\u8074\u304f/\u65c5\ud83d\uddfb\u597d\u304d/\u30d3\u30fc\u30eb\ud83c\udf7a\u597d\u304d/#teamakina No.202 / #\u5948\u4fdd\u5b50\u592a\u3082\u3082\u30d5\u30a1\u30f3\u30af\u30e9\u30d6/ \u30aa\u30d5\u4f1a\ud83c\udf89\u3084\u3063\u3066\u307e\u3059/Canary\u3082\u3057\u304f\u306f\u30ab\u30ca\u30ea\u30fc\u3068\u304a\u547c\u3073\u304f\u3060\u3055\u3044\uff01 /7\u30fb9\u6b66\u9053\u9928\u53c2\u6226\uff01/",
+    "url": "https://t.co/hYawfOqncI",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/hYawfOqncI",
+                    "expanded_url": "http://twpf.jp/Seiko_Canary",
+                    "display_url": "twpf.jp/Seiko_Canary",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 788,
+    "fast_followers_count": 0,
+    "normal_followers_count": 788,
+    "friends_count": 706,
+    "listed_count": 3,
+    "created_at": "Mon May 02 14:18:10 +0000 2016",
+    "favourites_count": 28917,
+    "utc_offset": 32400,
+    "time_zone": "Osaka",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 13011,
+    "media_count": 1102,
+    "lang": "ja",
+    "status": {
+        "created_at": "Wed Jul 19 13:34:01 +0000 2017",
+        "id": 887666838804377602,
+        "id_str": "887666838804377602",
+        "text": "RT @yasinominonaka2: \u30b9\u30c6\u30fc\u30b8\u4ee5\u5916\u3067\u3082\u71b1\u3044\u7389\u7f6e\u3055\u3093\n\n\u7389\u7f6e\u6d69\u4e8c\uff0f\u5b89\u5168\u5730\u5e2f https://t.co/IZFOMOIip5",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "yasinominonaka2",
+                    "name": "\u305f\u30fc\u3061\u3083\u3093\u6885\u91cc",
+                    "id": 768085631851343876,
+                    "id_str": "768085631851343876",
+                    "indices": [
+                        3,
+                        19
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 887665373570408449,
+                    "id_str": "887665373570408449",
+                    "indices": [
+                        47,
+                        70
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/887665373570408449/pu/img/jxe11GeF8hGictM6.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/887665373570408449/pu/img/jxe11GeF8hGictM6.jpg",
+                    "url": "https://t.co/IZFOMOIip5",
+                    "display_url": "pic.twitter.com/IZFOMOIip5",
+                    "expanded_url": "https://twitter.com/yasinominonaka2/status/887665900509253633/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 338,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 340,
+                            "h": 191,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 800,
+                            "h": 450,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 887665900509253633,
+                    "source_status_id_str": "887665900509253633",
+                    "source_user_id": 768085631851343876,
+                    "source_user_id_str": "768085631851343876",
+                    "features": {}
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 887665373570408449,
+                    "id_str": "887665373570408449",
+                    "indices": [
+                        47,
+                        70
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/887665373570408449/pu/img/jxe11GeF8hGictM6.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/887665373570408449/pu/img/jxe11GeF8hGictM6.jpg",
+                    "url": "https://t.co/IZFOMOIip5",
+                    "display_url": "pic.twitter.com/IZFOMOIip5",
+                    "expanded_url": "https://twitter.com/yasinominonaka2/status/887665900509253633/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 338,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 340,
+                            "h": 191,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 800,
+                            "h": 450,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 887665900509253633,
+                    "source_status_id_str": "887665900509253633",
+                    "source_user_id": 768085631851343876,
+                    "source_user_id_str": "768085631851343876",
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 88455,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/887665373570408449/pu/pl/ZnevcjWqy3N7Anjt.m3u8"
+                            },
+                            {
+                                "bitrate": 320000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/887665373570408449/pu/vid/320x180/mL_s_8yHVTfoZulN.mp4"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/887665373570408449/pu/vid/640x360/QFwpiYxNJlNE_z9h.mp4"
+                            }
+                        ]
+                    },
+                    "features": {},
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Jul 19 13:30:17 +0000 2017",
+            "id": 887665900509253633,
+            "id_str": "887665900509253633",
+            "text": "\u30b9\u30c6\u30fc\u30b8\u4ee5\u5916\u3067\u3082\u71b1\u3044\u7389\u7f6e\u3055\u3093\n\n\u7389\u7f6e\u6d69\u4e8c\uff0f\u5b89\u5168\u5730\u5e2f https://t.co/IZFOMOIip5",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 887665373570408449,
+                        "id_str": "887665373570408449",
+                        "indices": [
+                            26,
+                            49
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/887665373570408449/pu/img/jxe11GeF8hGictM6.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/887665373570408449/pu/img/jxe11GeF8hGictM6.jpg",
+                        "url": "https://t.co/IZFOMOIip5",
+                        "display_url": "pic.twitter.com/IZFOMOIip5",
+                        "expanded_url": "https://twitter.com/yasinominonaka2/status/887665900509253633/video/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 600,
+                                "h": 338,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 340,
+                                "h": 191,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 800,
+                                "h": 450,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {}
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 887665373570408449,
+                        "id_str": "887665373570408449",
+                        "indices": [
+                            26,
+                            49
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/887665373570408449/pu/img/jxe11GeF8hGictM6.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/887665373570408449/pu/img/jxe11GeF8hGictM6.jpg",
+                        "url": "https://t.co/IZFOMOIip5",
+                        "display_url": "pic.twitter.com/IZFOMOIip5",
+                        "expanded_url": "https://twitter.com/yasinominonaka2/status/887665900509253633/video/1",
+                        "type": "video",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 600,
+                                "h": 338,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 340,
+                                "h": 191,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 800,
+                                "h": 450,
+                                "resize": "fit"
+                            }
+                        },
+                        "video_info": {
+                            "aspect_ratio": [
+                                16,
+                                9
+                            ],
+                            "duration_millis": 88455,
+                            "variants": [
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/887665373570408449/pu/pl/ZnevcjWqy3N7Anjt.m3u8"
+                                },
+                                {
+                                    "bitrate": 320000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/887665373570408449/pu/vid/320x180/mL_s_8yHVTfoZulN.mp4"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/887665373570408449/pu/vid/640x360/QFwpiYxNJlNE_z9h.mp4"
+                                }
+                            ]
+                        },
+                        "features": {},
+                        "additional_media_info": {
+                            "monetizable": false
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 6,
+            "favorite_count": 10,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja",
+            "supplemental_language": null
+        },
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/880642335046021121/Y9ybdY8p_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/880642335046021121/Y9ybdY8p_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/727140124635451394/1473515445",
+    "profile_link_color": "FAB81E",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "has_custom_timelines": true,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

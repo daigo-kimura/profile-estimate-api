@@ -1,0 +1,381 @@
+{
+    "id": 148834584,
+    "id_str": "148834584",
+    "name": "Solidus-Null",
+    "screen_name": "solidus_null",
+    "location": "\u7bb1\u306e\u4e2d\u306e\u5287\u5834",
+    "description": "\u30b2\u30fc\u30e0\u3084\u6620\u753b\u3092\u597d\u307f\u307e\u3059\u3002\u8208\u5473\u3092\u60f9\u3044\u305f\u545f\u304d\u3084\u611f\u60f3\u306a\u3069\u306e\u5099\u5fd8\u9332\u306b\u3057\u3066\u3044\u307e\u3059\u3002",
+    "url": "https://t.co/WgoBVJ6fWz",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/WgoBVJ6fWz",
+                    "expanded_url": "http://twpf.jp/solidus_null",
+                    "display_url": "twpf.jp/solidus_null",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 507,
+    "fast_followers_count": 0,
+    "normal_followers_count": 507,
+    "friends_count": 1646,
+    "listed_count": 9,
+    "created_at": "Thu May 27 18:37:18 +0000 2010",
+    "favourites_count": 24253,
+    "utc_offset": 32400,
+    "time_zone": "Tokyo",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 12913,
+    "media_count": 55,
+    "lang": "ja",
+    "status": {
+        "created_at": "Wed Jul 19 15:02:23 +0000 2017",
+        "id": 887689077562023936,
+        "id_str": "887689077562023936",
+        "text": "RT @doope_jp: \u4e0d\u6c17\u5473\u306a\u30af\u30ea\u30fc\u30c1\u30e3\u30fc\u3068\u5bfe\u5cd9\u3059\u308b\u30bb\u30d0\u30b9\u30c1\u30e3\u30f3\u3092\u63cf\u3044\u305f\u300c\u30b5\u30a4\u30b3\u30d6\u30ec\u30a4\u30af2\u300d\u306e\u30b2\u30fc\u30e0\u30d7\u30ec\u30a4\u30c8\u30ec\u30fc\u30e9\u30fc\u201cSurvive\u201d\u304c\u304a\u62ab\u9732\u76ee - https://t.co/JWGYWBoxVp https://t.co/wUEBP8KNRA",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "doope_jp",
+                    "name": "doope!",
+                    "id": 109424552,
+                    "id_str": "109424552",
+                    "indices": [
+                        3,
+                        12
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/JWGYWBoxVp",
+                    "expanded_url": "http://doope.jp/2017/0767166.html",
+                    "display_url": "doope.jp/2017/0767166.h\u2026",
+                    "indices": [
+                        78,
+                        101
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 887679966170697729,
+                    "id_str": "887679966170697729",
+                    "indices": [
+                        102,
+                        125
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFGsOeHV0AE5S9z.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFGsOeHV0AE5S9z.jpg",
+                    "url": "https://t.co/wUEBP8KNRA",
+                    "display_url": "pic.twitter.com/wUEBP8KNRA",
+                    "expanded_url": "https://twitter.com/doope_jp/status/887679968179765248/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 700,
+                            "h": 354,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 700,
+                            "h": 354,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 344,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 887679968179765248,
+                    "source_status_id_str": "887679968179765248",
+                    "source_user_id": 109424552,
+                    "source_user_id_str": "109424552",
+                    "features": {
+                        "orig": {
+                            "faces": []
+                        },
+                        "large": {
+                            "faces": []
+                        },
+                        "medium": {
+                            "faces": []
+                        },
+                        "small": {
+                            "faces": []
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 887679966170697729,
+                    "id_str": "887679966170697729",
+                    "indices": [
+                        102,
+                        125
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFGsOeHV0AE5S9z.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFGsOeHV0AE5S9z.jpg",
+                    "url": "https://t.co/wUEBP8KNRA",
+                    "display_url": "pic.twitter.com/wUEBP8KNRA",
+                    "expanded_url": "https://twitter.com/doope_jp/status/887679968179765248/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 700,
+                            "h": 354,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 700,
+                            "h": 354,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 344,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 887679968179765248,
+                    "source_status_id_str": "887679968179765248",
+                    "source_user_id": 109424552,
+                    "source_user_id_str": "109424552",
+                    "features": {
+                        "orig": {
+                            "faces": []
+                        },
+                        "large": {
+                            "faces": []
+                        },
+                        "medium": {
+                            "faces": []
+                        },
+                        "small": {
+                            "faces": []
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Jul 19 14:26:11 +0000 2017",
+            "id": 887679968179765248,
+            "id_str": "887679968179765248",
+            "text": "\u4e0d\u6c17\u5473\u306a\u30af\u30ea\u30fc\u30c1\u30e3\u30fc\u3068\u5bfe\u5cd9\u3059\u308b\u30bb\u30d0\u30b9\u30c1\u30e3\u30f3\u3092\u63cf\u3044\u305f\u300c\u30b5\u30a4\u30b3\u30d6\u30ec\u30a4\u30af2\u300d\u306e\u30b2\u30fc\u30e0\u30d7\u30ec\u30a4\u30c8\u30ec\u30fc\u30e9\u30fc\u201cSurvive\u201d\u304c\u304a\u62ab\u9732\u76ee - https://t.co/JWGYWBoxVp https://t.co/wUEBP8KNRA",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/JWGYWBoxVp",
+                        "expanded_url": "http://doope.jp/2017/0767166.html",
+                        "display_url": "doope.jp/2017/0767166.h\u2026",
+                        "indices": [
+                            64,
+                            87
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 887679966170697729,
+                        "id_str": "887679966170697729",
+                        "indices": [
+                            88,
+                            111
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFGsOeHV0AE5S9z.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFGsOeHV0AE5S9z.jpg",
+                        "url": "https://t.co/wUEBP8KNRA",
+                        "display_url": "pic.twitter.com/wUEBP8KNRA",
+                        "expanded_url": "https://twitter.com/doope_jp/status/887679968179765248/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 700,
+                                "h": 354,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 700,
+                                "h": 354,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 344,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "orig": {
+                                "faces": []
+                            },
+                            "large": {
+                                "faces": []
+                            },
+                            "medium": {
+                                "faces": []
+                            },
+                            "small": {
+                                "faces": []
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 887679966170697729,
+                        "id_str": "887679966170697729",
+                        "indices": [
+                            88,
+                            111
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFGsOeHV0AE5S9z.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFGsOeHV0AE5S9z.jpg",
+                        "url": "https://t.co/wUEBP8KNRA",
+                        "display_url": "pic.twitter.com/wUEBP8KNRA",
+                        "expanded_url": "https://twitter.com/doope_jp/status/887679968179765248/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 700,
+                                "h": 354,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 700,
+                                "h": 354,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 344,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "orig": {
+                                "faces": []
+                            },
+                            "large": {
+                                "faces": []
+                            },
+                            "medium": {
+                                "faces": []
+                            },
+                            "small": {
+                                "faces": []
+                            }
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://doope.jp\" rel=\"nofollow\">doope!</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 44,
+            "favorite_count": 31,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja",
+            "supplemental_language": null
+        },
+        "is_quote_status": false,
+        "retweet_count": 44,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/629165508386930688/u4q8kIts_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/629165508386930688/u4q8kIts_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/148834584/1395941502",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "has_custom_timelines": true,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

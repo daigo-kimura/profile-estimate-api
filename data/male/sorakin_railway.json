@@ -1,0 +1,108 @@
+{
+    "id": 1954215102,
+    "id_str": "1954215102",
+    "name": "Sorakin",
+    "screen_name": "sorakin_railway",
+    "location": "\u5927\u962a\u5e9c\u679a\u65b9\u5e02",
+    "description": "\u9244\u9053\u3068\u6f14\u5287\u304c\u597d\u304d\u3068\u3044\u3046\u3061\u3087\u3063\u3068\u5909\u308f\u3063\u305f\u9ad8\u68213\u5e74\u751f\u3002\u4eac\u962a\u3084\uff2a\uff32\u306a\u3069\u3001\u666e\u6bb5\u306e\u9244\u9053\u3092\u64ae\u3063\u305f\u308a\u4e57\u3063\u305f\u308a\u3002\u8a73\u3057\u304f\u306f\u30c4\u30a4\u30d5\u30a3\u30fc\u30eb\u3067\u3010https://t.co/v91O7JP3AT\u3011",
+    "url": "https://t.co/zP8UCaqn2d",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/zP8UCaqn2d",
+                    "expanded_url": "http://blogs.yahoo.co.jp/sorakin_railway",
+                    "display_url": "blogs.yahoo.co.jp/sorakin_railway",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": [
+                {
+                    "url": "https://t.co/v91O7JP3AT",
+                    "expanded_url": "http://twpf.jp/sorakin_railway",
+                    "display_url": "twpf.jp/sorakin_railway",
+                    "indices": [
+                        60,
+                        83
+                    ]
+                }
+            ]
+        }
+    },
+    "protected": false,
+    "followers_count": 569,
+    "fast_followers_count": 0,
+    "normal_followers_count": 569,
+    "friends_count": 481,
+    "listed_count": 10,
+    "created_at": "Fri Oct 11 13:58:12 +0000 2013",
+    "favourites_count": 2324,
+    "utc_offset": 32400,
+    "time_zone": "Tokyo",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 24929,
+    "media_count": 1623,
+    "lang": "ja",
+    "status": {
+        "created_at": "Sat Jul 01 13:47:31 +0000 2017",
+        "id": 881147257206198272,
+        "id_str": "881147257206198272",
+        "text": "\u505c\u7559\u6240\u3054\u3068\u306e\u5468\u8fba\u65bd\u8a2d\u6848\u5185\u30fb\u5ba3\u4f1d\u3082\u4e00\u90e8\u5909\u308f\u3063\u3066\u305f\u306d",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/816542930831745024/dGRAv-4P_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/816542930831745024/dGRAv-4P_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1954215102/1484485208",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "has_custom_timelines": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

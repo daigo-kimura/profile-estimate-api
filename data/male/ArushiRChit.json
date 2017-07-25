@@ -1,0 +1,130 @@
+{
+    "id": 107363819,
+    "id_str": "107363819",
+    "name": "\u65b0\u4ee3\u3042\u308b\u3057 + \u03b1",
+    "screen_name": "ArushiRChit",
+    "location": "\u672d\u5e4c\u8fd1\u90ca",
+    "description": "\u25c6EuKjTfTZvQ \u30cb\u30b3\u30e1\u30c9\u8074\u304d\u5c02 \u8a73\u3057\u304f\u306f\u2192https://t.co/bOSUvJf85U\u3078\uff0fskype\u3042\u308a\u307e\u3059",
+    "url": "https://t.co/67ZD95nfIu",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/67ZD95nfIu",
+                    "expanded_url": "http://niishiro.blog.fc2.com/",
+                    "display_url": "niishiro.blog.fc2.com",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": [
+                {
+                    "url": "https://t.co/bOSUvJf85U",
+                    "expanded_url": "http://twpf.jp/ArushiRChit",
+                    "display_url": "twpf.jp/ArushiRChit",
+                    "indices": [
+                        25,
+                        48
+                    ]
+                }
+            ]
+        }
+    },
+    "protected": false,
+    "followers_count": 345,
+    "fast_followers_count": 0,
+    "normal_followers_count": 345,
+    "friends_count": 326,
+    "listed_count": 33,
+    "created_at": "Fri Jan 22 09:36:18 +0000 2010",
+    "favourites_count": 1252,
+    "utc_offset": 32400,
+    "time_zone": "Tokyo",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 40134,
+    "media_count": 705,
+    "lang": "ja",
+    "status": {
+        "created_at": "Wed Jul 19 14:36:17 +0000 2017",
+        "id": 887682511307919361,
+        "id_str": "887682511307919361",
+        "text": "https://t.co/M81DI9d6q9 \u306e719\u884c\u76ee \u304b\u3089 https://t.co/XL2xgt3zda",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/M81DI9d6q9",
+                    "expanded_url": "https://docs.google.com/spreadsheets/d/1cdIz9drmolM-LfNZHMV1Du_kDlH9E0G51hMnL71rK0w/edit?usp=sharing",
+                    "display_url": "docs.google.com/spreadsheets/d\u2026",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                },
+                {
+                    "url": "https://t.co/XL2xgt3zda",
+                    "expanded_url": "https://twitter.com/ArushiRChit/status/887681821877575680",
+                    "display_url": "twitter.com/ArushiRChit/st\u2026",
+                    "indices": [
+                        34,
+                        57
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://janetter.net/\" rel=\"nofollow\">Janetter dev</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 887681821877575680,
+        "quoted_status_id_str": "887681821877575680",
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "0B437E",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/560751453921226753/s-r8aEE0.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/560751453921226753/s-r8aEE0.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/806151542097088512/lsBEOiM0_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/806151542097088512/lsBEOiM0_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/107363819/1422523846",
+    "profile_link_color": "137AE7",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "has_custom_timelines": false,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

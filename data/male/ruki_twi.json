@@ -1,0 +1,109 @@
+{
+    "id": 2166812592,
+    "id_str": "2166812592",
+    "name": "\u6d41\u8f1d",
+    "screen_name": "ruki_twi",
+    "location": "\u5fa1\u5f71\u753a",
+    "description": "\u6b8b\u5ff5\u306a\u771f\u9762\u76ee\u7cfb\u30af\u30ba\u306e\u793e\u4f1a\u4eba",
+    "url": "https://t.co/iulHBukOli",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/iulHBukOli",
+                    "expanded_url": "http://twpf.jp/ruki_twi",
+                    "display_url": "twpf.jp/ruki_twi",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 37,
+    "fast_followers_count": 0,
+    "normal_followers_count": 37,
+    "friends_count": 39,
+    "listed_count": 3,
+    "created_at": "Thu Oct 31 15:31:46 +0000 2013",
+    "favourites_count": 1880,
+    "utc_offset": 32400,
+    "time_zone": "Tokyo",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 546,
+    "media_count": 2,
+    "lang": "ja",
+    "status": {
+        "created_at": "Thu Jul 20 00:59:58 +0000 2017",
+        "id": 887839464487231488,
+        "id_str": "887839464487231488",
+        "text": "@chiroru0u0 \u767d\u3061\u308d\u308b\u304b\u3089\u9ed2\u3061\u308d\u308b\u306b\u306a\u3063\u3061\u3083\u3044\u305d\u3046...",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "chiroru0u0",
+                    "name": "\u6728\u82fa\u3061\u308d\u308b@9/16",
+                    "id": 1430640062,
+                    "id_str": "1430640062",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://janetter.net/\" rel=\"nofollow\">Janetter</a>",
+        "in_reply_to_status_id": 887825996409217024,
+        "in_reply_to_status_id_str": "887825996409217024",
+        "in_reply_to_user_id": 1430640062,
+        "in_reply_to_user_id_str": "1430640062",
+        "in_reply_to_screen_name": "chiroru0u0",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/607784417583497216/RM-Dvlqp_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/607784417583497216/RM-Dvlqp_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2166812592/1444109650",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "has_custom_timelines": false,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

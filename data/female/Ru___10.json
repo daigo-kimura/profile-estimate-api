@@ -1,0 +1,109 @@
+{
+    "id": 3505524560,
+    "id_str": "3505524560",
+    "name": "\u308b\u3045\u30fc\u3066\u3043\u3093",
+    "screen_name": "Ru___10",
+    "location": "0805.0810.0812",
+    "description": "\u2665\u2026\u63a8\u3057\u3074\u304c\u597d\u304d\u3074\u2026\u2665",
+    "url": "https://t.co/VsGyZ76EMU",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/VsGyZ76EMU",
+                    "expanded_url": "http://twpf.jp/Ru___10",
+                    "display_url": "twpf.jp/Ru___10",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 247,
+    "fast_followers_count": 0,
+    "normal_followers_count": 247,
+    "friends_count": 213,
+    "listed_count": 22,
+    "created_at": "Wed Sep 09 15:23:37 +0000 2015",
+    "favourites_count": 14414,
+    "utc_offset": -25200,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 19266,
+    "media_count": 21,
+    "lang": "ja",
+    "status": {
+        "created_at": "Wed Jul 19 13:34:04 +0000 2017",
+        "id": 887666854696697856,
+        "id_str": "887666854696697856",
+        "text": "@yumimin_93373 \u96ea\u898b\u3055\u3093\u304c\u697d\u3057\u3093\u3067\u308b\u59ff\u3092\u898b\u308c\u305f\u3089\u79c1\u306f\u6e80\u8db3\u3067\u3059",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "yumimin_93373",
+                    "name": "\u30d0\u30d6\u898b",
+                    "id": 752552417305112576,
+                    "id_str": "752552417305112576",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 887666463670063104,
+        "in_reply_to_status_id_str": "887666463670063104",
+        "in_reply_to_user_id": 752552417305112576,
+        "in_reply_to_user_id_str": "752552417305112576",
+        "in_reply_to_screen_name": "yumimin_93373",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FFCC4D",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/813198941105754112/Ep1Zxd0i_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/813198941105754112/Ep1Zxd0i_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3505524560/1499186346",
+    "profile_link_color": "91D2FA",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "has_custom_timelines": true,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

@@ -1,0 +1,397 @@
+{
+    "id": 752734801,
+    "id_str": "752734801",
+    "name": "\u30ea\u30cd",
+    "screen_name": "RINE0913",
+    "location": "",
+    "description": "\u30a2\u30cb\u30aa\u30bf\u306e\u3088\u3046\u306a\u306a\u3044\u3088\u3046\u306a\u66d6\u6627\u306a\u5974",
+    "url": "https://t.co/wcauOfXlmC",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/wcauOfXlmC",
+                    "expanded_url": "http://twpf.jp/RINE0913",
+                    "display_url": "twpf.jp/RINE0913",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 648,
+    "fast_followers_count": 0,
+    "normal_followers_count": 648,
+    "friends_count": 800,
+    "listed_count": 5,
+    "created_at": "Sun Aug 12 08:23:55 +0000 2012",
+    "favourites_count": 2431,
+    "utc_offset": -25200,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 24727,
+    "media_count": 2256,
+    "lang": "ja",
+    "status": {
+        "created_at": "Tue Jul 04 23:16:51 +0000 2017",
+        "id": 882377698579959808,
+        "id_str": "882377698579959808",
+        "text": "RT @sega_pso2: \u3010\u300ePSO2\u300f5\u5468\u5e74\u8a18\u5ff5Twitter\u30d7\u30ec\u30bc\u30f3\u30c8\u7b2c1\u5f3e\uff01\u3011\u516c\u5f0f\u3092\u30d5\u30a9\u30ed\u30fc\uff06\u672c\u30c4\u30a4\u30fc\u30c8\u3092\u30ea\u30c4\u30a4\u30fc\u30c8\u3067\u3001\u8c6a\u83ef\u8cde\u54c1\u304c\u62bd\u9078\u3067\u5f53\u305f\u308b\uff01 https://t.co/rkSkSf2fzc #PSO2 https://t.co/87Ch3ufln6",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "PSO2",
+                    "indices": [
+                        102,
+                        107
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "sega_pso2",
+                    "name": "PhantasyStarOnline2",
+                    "id": 344743202,
+                    "id_str": "344743202",
+                    "indices": [
+                        3,
+                        13
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/rkSkSf2fzc",
+                    "expanded_url": "http://pso2.jp/players/news/?id=11482",
+                    "display_url": "pso2.jp/players/news/?\u2026",
+                    "indices": [
+                        78,
+                        101
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 882102682617397249,
+                    "id_str": "882102682617397249",
+                    "indices": [
+                        108,
+                        131
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DD3bt1zUQAE0216.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DD3bt1zUQAE0216.jpg",
+                    "url": "https://t.co/87Ch3ufln6",
+                    "display_url": "pic.twitter.com/87Ch3ufln6",
+                    "expanded_url": "https://twitter.com/sega_pso2/status/882102685918347265/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 647,
+                            "h": 210,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 647,
+                            "h": 210,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 647,
+                            "h": 210,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 882102685918347265,
+                    "source_status_id_str": "882102685918347265",
+                    "source_user_id": 344743202,
+                    "source_user_id_str": "344743202",
+                    "features": {
+                        "medium": {
+                            "faces": []
+                        },
+                        "orig": {
+                            "faces": []
+                        },
+                        "large": {
+                            "faces": []
+                        },
+                        "small": {
+                            "faces": []
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 882102682617397249,
+                    "id_str": "882102682617397249",
+                    "indices": [
+                        108,
+                        131
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DD3bt1zUQAE0216.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DD3bt1zUQAE0216.jpg",
+                    "url": "https://t.co/87Ch3ufln6",
+                    "display_url": "pic.twitter.com/87Ch3ufln6",
+                    "expanded_url": "https://twitter.com/sega_pso2/status/882102685918347265/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 647,
+                            "h": 210,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 647,
+                            "h": 210,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 647,
+                            "h": 210,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 882102685918347265,
+                    "source_status_id_str": "882102685918347265",
+                    "source_user_id": 344743202,
+                    "source_user_id_str": "344743202",
+                    "features": {
+                        "medium": {
+                            "faces": []
+                        },
+                        "orig": {
+                            "faces": []
+                        },
+                        "large": {
+                            "faces": []
+                        },
+                        "small": {
+                            "faces": []
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Tue Jul 04 05:04:03 +0000 2017",
+            "id": 882102685918347265,
+            "id_str": "882102685918347265",
+            "text": "\u3010\u300ePSO2\u300f5\u5468\u5e74\u8a18\u5ff5Twitter\u30d7\u30ec\u30bc\u30f3\u30c8\u7b2c1\u5f3e\uff01\u3011\u516c\u5f0f\u3092\u30d5\u30a9\u30ed\u30fc\uff06\u672c\u30c4\u30a4\u30fc\u30c8\u3092\u30ea\u30c4\u30a4\u30fc\u30c8\u3067\u3001\u8c6a\u83ef\u8cde\u54c1\u304c\u62bd\u9078\u3067\u5f53\u305f\u308b\uff01 https://t.co/rkSkSf2fzc #PSO2 https://t.co/87Ch3ufln6",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "PSO2",
+                        "indices": [
+                            87,
+                            92
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/rkSkSf2fzc",
+                        "expanded_url": "http://pso2.jp/players/news/?id=11482",
+                        "display_url": "pso2.jp/players/news/?\u2026",
+                        "indices": [
+                            63,
+                            86
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 882102682617397249,
+                        "id_str": "882102682617397249",
+                        "indices": [
+                            93,
+                            116
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DD3bt1zUQAE0216.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DD3bt1zUQAE0216.jpg",
+                        "url": "https://t.co/87Ch3ufln6",
+                        "display_url": "pic.twitter.com/87Ch3ufln6",
+                        "expanded_url": "https://twitter.com/sega_pso2/status/882102685918347265/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 647,
+                                "h": 210,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 647,
+                                "h": 210,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 647,
+                                "h": 210,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "medium": {
+                                "faces": []
+                            },
+                            "orig": {
+                                "faces": []
+                            },
+                            "large": {
+                                "faces": []
+                            },
+                            "small": {
+                                "faces": []
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 882102682617397249,
+                        "id_str": "882102682617397249",
+                        "indices": [
+                            93,
+                            116
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DD3bt1zUQAE0216.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DD3bt1zUQAE0216.jpg",
+                        "url": "https://t.co/87Ch3ufln6",
+                        "display_url": "pic.twitter.com/87Ch3ufln6",
+                        "expanded_url": "https://twitter.com/sega_pso2/status/882102685918347265/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 647,
+                                "h": 210,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 647,
+                                "h": 210,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 647,
+                                "h": 210,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "medium": {
+                                "faces": []
+                            },
+                            "orig": {
+                                "faces": []
+                            },
+                            "large": {
+                                "faces": []
+                            },
+                            "small": {
+                                "faces": []
+                            }
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://pso2.jp/players/\" rel=\"nofollow\">PSO2Twitter</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 23040,
+            "favorite_count": 3231,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja",
+            "supplemental_language": null
+        },
+        "is_quote_status": false,
+        "retweet_count": 23040,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "9266CC",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/666488574544506881/xw6s7Y6P.png",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/666488574544506881/xw6s7Y6P.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/811161198804615168/u_noAyBQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/811161198804615168/u_noAyBQ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/752734801/1458906866",
+    "profile_link_color": "9266CC",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "has_custom_timelines": false,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

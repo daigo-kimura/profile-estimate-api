@@ -1,0 +1,128 @@
+{
+    "id": 2936074465,
+    "id_str": "2936074465",
+    "name": "\u30a2\u30b7\u30a2\u30b7",
+    "screen_name": "_ashiashi",
+    "location": "",
+    "description": "TrySail\u5fdc\u63f4\u3057\u3066\u307e\u3059\u3002\u8ad6\u6587\u3068\u53cb\u9054\u3002\u30d7\u30ec\u30bc\u30f3\u306f\u82e6\u624b\u3002\u30a2\u30cb\u30e1\u306b\u672c\u6c17\u3002\u30ed\u30fc\u30c9\u30d0\u30a4\u30af\u306b\u5f31\u6c17\u3002\u30d5\u30a9\u30ed\u30fc\u304a\u6c17\u8efd\u306b\u3069\u3046\u305e(^^)",
+    "url": "https://t.co/kyQkH0VMH3",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/kyQkH0VMH3",
+                    "expanded_url": "http://twpf.jp/_ashiashi",
+                    "display_url": "twpf.jp/_ashiashi",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 150,
+    "fast_followers_count": 0,
+    "normal_followers_count": 150,
+    "friends_count": 188,
+    "listed_count": 4,
+    "created_at": "Fri Dec 19 12:47:10 +0000 2014",
+    "favourites_count": 8780,
+    "utc_offset": 32400,
+    "time_zone": "Tokyo",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 9990,
+    "media_count": 688,
+    "lang": "ja",
+    "status": {
+        "created_at": "Wed Jul 19 15:10:42 +0000 2017",
+        "id": 887691172033908737,
+        "id_str": "887691172033908737",
+        "text": "\u7269\u6301\u3061\u3044\u3044\u30bb\u30a4\u30eb\n\n\u590f\u5ddd\u690e\u83dc \u300c\u30b5\u30d7\u30e9\u30a4\u30ba\u3063\u3066\u610f\u5916\u306b\u6c17\u3065\u304b\u306a\u3044\u300d\n \u21d2 https://t.co/gZJXYNHjRO #\u30a2\u30e1\u30d6\u30ed @ameba_official\u3055\u3093\u304b\u3089",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "\u30a2\u30e1\u30d6\u30ed",
+                    "indices": [
+                        60,
+                        65
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ameba_official",
+                    "name": "\u3010\u516c\u5f0f\u3011\u30a2\u30e1\u30d6\u30ed\u30c8\u30d4\u30c3\u30af\u30b9",
+                    "id": 1948793370,
+                    "id_str": "1948793370",
+                    "indices": [
+                        66,
+                        81
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/gZJXYNHjRO",
+                    "expanded_url": "http://ameblo.jp/natsukawashiinablog/entry-12294165049.html",
+                    "display_url": "ameblo.jp/natsukawashiin\u2026",
+                    "indices": [
+                        36,
+                        59
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/705062235056439296/6guia_IE_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/705062235056439296/6guia_IE_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2936074465/1497273954",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "has_custom_timelines": true,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

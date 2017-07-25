@@ -1,0 +1,109 @@
+{
+    "id": 467531937,
+    "id_str": "467531937",
+    "name": "\u30ef\u30ac\u30de\u30de\u738b\u5b50\u30b5\u30de\u2654",
+    "screen_name": "princewagamama",
+    "location": "\u30ef\u30ac\u30de\u30de\u738b\u56fd",
+    "description": "\u305f\u3076\u3093\u3001\u305f\u3060\u306e\u308f\u304c\u307e\u307e\u3002",
+    "url": "https://t.co/MBqri60Dl6",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/MBqri60Dl6",
+                    "expanded_url": "http://twpf.jp/princewagamama",
+                    "display_url": "twpf.jp/princewagamama",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 110,
+    "fast_followers_count": 0,
+    "normal_followers_count": 110,
+    "friends_count": 24,
+    "listed_count": 5,
+    "created_at": "Wed Jan 18 15:32:35 +0000 2012",
+    "favourites_count": 12,
+    "utc_offset": 32400,
+    "time_zone": "Tokyo",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 14536,
+    "media_count": 1963,
+    "lang": "ja",
+    "status": {
+        "created_at": "Thu Jul 20 01:15:10 +0000 2017",
+        "id": 887843291084996608,
+        "id_str": "887843291084996608",
+        "text": "@622Ytyia \u8ab0\u305d\u308c",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "622Ytyia",
+                    "name": "\u5929\u4f7f\u306e\u3088\u3046\u306a\u60aa\u9b54",
+                    "id": 841275056026148864,
+                    "id_str": "841275056026148864",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 887841006166474752,
+        "in_reply_to_status_id_str": "887841006166474752",
+        "in_reply_to_user_id": 841275056026148864,
+        "in_reply_to_user_id_str": "841275056026148864",
+        "in_reply_to_screen_name": "622Ytyia",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/878792356836724736/j3ncxx-r_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/878792356836724736/j3ncxx-r_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/467531937/1470396433",
+    "profile_link_color": "DD2E44",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "has_custom_timelines": false,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

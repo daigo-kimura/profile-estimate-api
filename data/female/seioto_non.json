@@ -1,0 +1,199 @@
+{
+    "id": 819528515993247744,
+    "id_str": "819528515993247744",
+    "name": "\u97f3",
+    "screen_name": "seioto_non",
+    "location": "\u5922\u306e\u5916\u3078",
+    "description": "",
+    "url": "https://t.co/fqXYjIhMfE",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/fqXYjIhMfE",
+                    "expanded_url": "http://twpf.jp/seioto_non",
+                    "display_url": "twpf.jp/seioto_non",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 388,
+    "fast_followers_count": 0,
+    "normal_followers_count": 388,
+    "friends_count": 473,
+    "listed_count": 1,
+    "created_at": "Thu Jan 12 12:56:39 +0000 2017",
+    "favourites_count": 193,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 193,
+    "media_count": 10,
+    "lang": "ja",
+    "status": {
+        "created_at": "Fri Jul 14 11:50:15 +0000 2017",
+        "id": 885828788013064192,
+        "id_str": "885828788013064192",
+        "text": "RT @gintama_film: .@TwitterJP\u3055\u3093 \ud83c\udfa5#\u6620\u753b\u9280\u9b42 \u516c\u958b\u8a18\u5ff5\ud83c\udf8aTwitter\u306b\u3066\u8c6a\u83ef\u30ad\u30e3\u30b9\u30c8\u30fb\u30b9\u30bf\u30c3\u30d5\u304c\u96c6\u7d50\u3057\u3066\u751f\u30c8\u30fc\u30af\u4e2d\uff01 https://t.co/B8RREtCSH7",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "\u6620\u753b\u9280\u9b42",
+                    "indices": [
+                        33,
+                        38
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "gintama_film",
+                    "name": "\u6620\u753b\u300e\u9280\u9b42\u300f\u516c\u5f0f",
+                    "id": 742990922053476353,
+                    "id_str": "742990922053476353",
+                    "indices": [
+                        3,
+                        16
+                    ]
+                },
+                {
+                    "screen_name": "TwitterJP",
+                    "name": "Twitter Japan",
+                    "id": 7080152,
+                    "id_str": "7080152",
+                    "indices": [
+                        19,
+                        29
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/B8RREtCSH7",
+                    "expanded_url": "https://www.pscp.tv/w/bDdOiDF4a2pEQnh6YlduUXp8MW1yR21tb1JWUndHeaXTBoz-DOlDjfR9E8lICgJOVBNevvJJ27ld__9DsBLa",
+                    "display_url": "pscp.tv/w/bDdOiDF4a2pE\u2026",
+                    "indices": [
+                        76,
+                        99
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Jul 14 11:18:59 +0000 2017",
+            "id": 885820919251255296,
+            "id_str": "885820919251255296",
+            "text": ".@TwitterJP\u3055\u3093 \ud83c\udfa5#\u6620\u753b\u9280\u9b42 \u516c\u958b\u8a18\u5ff5\ud83c\udf8aTwitter\u306b\u3066\u8c6a\u83ef\u30ad\u30e3\u30b9\u30c8\u30fb\u30b9\u30bf\u30c3\u30d5\u304c\u96c6\u7d50\u3057\u3066\u751f\u30c8\u30fc\u30af\u4e2d\uff01 https://t.co/B8RREtCSH7",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "\u6620\u753b\u9280\u9b42",
+                        "indices": [
+                            15,
+                            20
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "TwitterJP",
+                        "name": "Twitter Japan",
+                        "id": 7080152,
+                        "id_str": "7080152",
+                        "indices": [
+                            1,
+                            11
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/B8RREtCSH7",
+                        "expanded_url": "https://www.pscp.tv/w/bDdOiDF4a2pEQnh6YlduUXp8MW1yR21tb1JWUndHeaXTBoz-DOlDjfR9E8lICgJOVBNevvJJ27ld__9DsBLa",
+                        "display_url": "pscp.tv/w/bDdOiDF4a2pE\u2026",
+                        "indices": [
+                            58,
+                            81
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 7777,
+            "favorite_count": 11582,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja",
+            "supplemental_language": null
+        },
+        "is_quote_status": false,
+        "retweet_count": 7777,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/831832075632193536/k-x8jzfP_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/831832075632193536/k-x8jzfP_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/819528515993247744/1500419897",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "has_custom_timelines": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "customer_service_state": "none",
+    "translator_type": "none"
+}

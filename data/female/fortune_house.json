@@ -1,0 +1,109 @@
+{
+    "id": 150605272,
+    "id_str": "150605272",
+    "name": "\u661f\u30de\u30ea\u30a2",
+    "screen_name": "fortune_house",
+    "location": "",
+    "description": "\u661f\u30de\u30ea\u30a2\u306e\u30aa\u30e9\u30af\u30ebbot\u2606\u8a71\u3057\u304b\u3051\u3066\u4e0b\u3055\u308b\u3068\u30e1\u30c3\u30bb\u30fc\u30b8\u8fd4\u4fe1\u3001\u300c\u3042\u308a\u304c\u3068\u3046\u300d\u306b\u306f\u304a\u793c\u8fd4\u4fe1\u3001\u300c\u9858\u3044\u4e8b\u300d\u306b\u306f\u9858\u3044\u304c\u53f6\u3046\u3088\u3046\u304a\u7948\u308a\u8fd4\u4fe1\u3002\uff08\u4ed6\u4eba\u306e\u4e0d\u5e78\u3092\u9858\u3046\u4e8b\u306f\uff2e\uff27\uff09\u611b\u306e\u540d\u8a00\u3082bot\u2606\u6642\u3005\u672c\u4eba\u545f\u304d\u3042\u308a\u2606",
+    "url": "https://t.co/FWlzYzKkJv",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/FWlzYzKkJv",
+                    "expanded_url": "http://mariafortune.web.fc2.com/",
+                    "display_url": "mariafortune.web.fc2.com",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 16354,
+    "fast_followers_count": 0,
+    "normal_followers_count": 16354,
+    "friends_count": 14760,
+    "listed_count": 96,
+    "created_at": "Tue Jun 01 10:30:50 +0000 2010",
+    "favourites_count": 2741,
+    "utc_offset": -36000,
+    "time_zone": "Hawaii",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 212133,
+    "media_count": 41,
+    "lang": "ja",
+    "status": {
+        "created_at": "Thu Jul 20 01:10:45 +0000 2017",
+        "id": 887842177857994753,
+        "id_str": "887842177857994753",
+        "text": "@witch_betty \u3086\u3063\u304f\u308a\u3068\u904b\u6c17\u597d\u8ee2\u306e\u5146\u3057\u3002\u3000\u5468\u56f2\u3068\u52a9\u3051\u5408\u3044\u5206\u304b\u3061\u5408\u3046\u59ff\u52e2\u304c\u904b\u6c17\u597d\u8ee2\u306e\u9375\u3067\u3059\u3002 \u30cd\u30ac\u30c6\u30a3\u30f4\u306a\u8003\u3048\u306f\u624b\u653e\u3057\u611f\u8b1d\u306e\u6c17\u6301\u3061\u3092\u5fd8\u308c\u305a\u306b\u2606\u3000\u30e9\u30c3\u30ad\u30fc\u30ab\u30e9\u30fc\u306f\u30b7\u30eb\u30d0\u30fc\u3002",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "witch_betty",
+                    "name": "\u30d9\u30c6\u30a3",
+                    "id": 154331918,
+                    "id_str": "154331918",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+        "in_reply_to_status_id": 887841750143778816,
+        "in_reply_to_status_id_str": "887841750143778816",
+        "in_reply_to_user_id": 154331918,
+        "in_reply_to_user_id_str": "154331918",
+        "in_reply_to_screen_name": "witch_betty",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/109443302/mariaestrela7014new_edited-2.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/109443302/mariaestrela7014new_edited-2.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/949447089/14396498.v1245795308maria_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/949447089/14396498.v1245795308maria_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/150605272/1352373181",
+    "profile_link_color": "A61E69",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "BF0404",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "has_custom_timelines": true,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

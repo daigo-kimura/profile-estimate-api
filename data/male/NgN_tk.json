@@ -1,0 +1,110 @@
+{
+    "id": 835349200158130176,
+    "id_str": "835349200158130176",
+    "name": "\ud83c\udf4b \u3068 \u3063 \u304d \u30fc \ud83c\udf4b",
+    "screen_name": "NgN_tk",
+    "location": "\u308c\u3082\u3093",
+    "description": "\u9577 \u6ca2 \u83dc \u3005 \u9999 \u306e \u81b5 \u81d3 \u3092 \u98df \u3079 \u305f \u3044 \u3002",
+    "url": "https://t.co/a5KNWnuYEB",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/a5KNWnuYEB",
+                    "expanded_url": "http://twpf.jp/NgN_tk",
+                    "display_url": "twpf.jp/NgN_tk",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 1367,
+    "fast_followers_count": 0,
+    "normal_followers_count": 1367,
+    "friends_count": 330,
+    "listed_count": 33,
+    "created_at": "Sat Feb 25 04:42:24 +0000 2017",
+    "favourites_count": 19406,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2043,
+    "media_count": 277,
+    "lang": "ja",
+    "status": {
+        "created_at": "Wed Jul 19 23:06:31 +0000 2017",
+        "id": 887810916850388992,
+        "id_str": "887810916850388992",
+        "text": "@49_ny taku\u304a\u306f\uff01",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "49_ny",
+                    "name": "taku\u25e2\u035f\uffe8\u2074\u2076",
+                    "id": 787927449090727936,
+                    "id_str": "787927449090727936",
+                    "indices": [
+                        0,
+                        6
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 887810678723035136,
+        "in_reply_to_status_id_str": "887810678723035136",
+        "in_reply_to_user_id": 787927449090727936,
+        "in_reply_to_user_id_str": "787927449090727936",
+        "in_reply_to_screen_name": "49_ny",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/887646313596166145/ehlSafs__normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/887646313596166145/ehlSafs__normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/835349200158130176/1495254625",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "has_custom_timelines": true,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "customer_service_state": "none",
+    "translator_type": "none"
+}

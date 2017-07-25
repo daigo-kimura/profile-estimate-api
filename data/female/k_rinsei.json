@@ -1,0 +1,108 @@
+{
+    "id": 230343198,
+    "id_str": "230343198",
+    "name": "\u51db@\u3051\u305b\u3089\u305b\u3089",
+    "screen_name": "k_rinsei",
+    "location": "\u7cbe\u795e\u3068\u6642\u306e\u90e8\u5c4b",
+    "description": "\u30c0\u30e1\u3067\u30a2\u30ec\u306a\u6210\u4eba\u6e08\u307f\u306e\u8150\u5973\u5b50\u306e\u58c1\u6253\u3061\u30a2\u30ab\u30a6\u30f3\u30c8\u3002\n\u597d\u304d\u306a\u3082\u306e\u6ca2\u5c71\u3002\u6700\u8fd1\u306f\u7a7a\u306e\u65c5(\u7279\u306b\u56db\u9a0e\u58eb)\u306b\u304a\u71b1\u3002\n\u8a73\u3057\u304f\u306f\u30c4\u30a4\u30d7\u30ed\u898b\u3066\u306d\u3002\n\u30ea\u30af\u30a8\u30b9\u30c8\u30dc\u30c3\u30af\u30b9\u2192https://t.co/NcQmwLavnj",
+    "url": "https://t.co/nNgPSbchsE",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/nNgPSbchsE",
+                    "expanded_url": "http://twpf.jp/k_rinsei",
+                    "display_url": "twpf.jp/k_rinsei",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": [
+                {
+                    "url": "https://t.co/NcQmwLavnj",
+                    "expanded_url": "http://privatter.net/m/k_rinsei",
+                    "display_url": "privatter.net/m/k_rinsei",
+                    "indices": [
+                        74,
+                        97
+                    ]
+                }
+            ]
+        }
+    },
+    "protected": false,
+    "followers_count": 166,
+    "fast_followers_count": 0,
+    "normal_followers_count": 166,
+    "friends_count": 281,
+    "listed_count": 7,
+    "created_at": "Sat Dec 25 03:49:09 +0000 2010",
+    "favourites_count": 919,
+    "utc_offset": 32400,
+    "time_zone": "Tokyo",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 28519,
+    "media_count": 571,
+    "lang": "ja",
+    "status": {
+        "created_at": "Wed Jul 19 12:52:47 +0000 2017",
+        "id": 887656463463628800,
+        "id_str": "887656463463628800",
+        "text": "\u30a2\u30c4\u30b5\u30cb  \u30de\u30b1\u30ba\n\n\u30ea\u30bb\u30a4\u30cb\u30e2  \u30de\u30b1\u30ba\n\n\u30b3\u30a4\u30d3\u30c8\u30f2  \u30ab\u30ef\u30a4\u30ac\u30ea\n\n\u30c8\u30ad\u30cb  \u30a4\u30b8\u30ef\u30eb\n\n\u30bd\u30a6\u30a4\u30a6\u30e2\u30ce\u30cb\n\n\u30ef\u30bf\u30b7\u30cf  \u30ca\u30ea\u30bf\u30a4",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 887647076514803715,
+        "in_reply_to_status_id_str": "887647076514803715",
+        "in_reply_to_user_id": 230343198,
+        "in_reply_to_user_id_str": "230343198",
+        "in_reply_to_screen_name": "k_rinsei",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "EDECE9",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/794376911145140225/5I6EamML_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/794376911145140225/5I6EamML_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/230343198/1429102496",
+    "profile_link_color": "088253",
+    "profile_sidebar_border_color": "D3D2CF",
+    "profile_sidebar_fill_color": "E3E2DE",
+    "profile_text_color": "634047",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "has_custom_timelines": false,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

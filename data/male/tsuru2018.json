@@ -1,0 +1,108 @@
+{
+    "id": 921061718,
+    "id_str": "921061718",
+    "name": "tsuru",
+    "screen_name": "tsuru2018",
+    "location": "",
+    "description": "\u30b9\u30de\u30d6\u30e9DX/\u30dd\u30b1\u30e2\u30f3\uff1a\u30103DS\u30d5\u30ec\u30f3\u30c9\u30b3\u30fc\u30c9:0146-9799-4118\u3011\u30b2\u30fc\u30e0\u304c\u597d\u304d\u3067\u3059\u3002\u30dd\u30b1\u30e2\u30f3\u306f\u30b5\u30af\u30e9\u30d0\u30c8\u30f3\u3092\u3088\u304f\u4f7f\u3063\u3066\u307e\u3059\u3002\u30b9\u30de\u30d6\u30e9DX\u306f\u30d5\u30a1\u30eb\u30b3\u30e1\u30a4\u30f3\u3067\u3059\u3002\u30dd\u30b1\u30e2\u30f3\u3068\u30b9\u30de\u30d6\u30e9DX\u4ee5\u5916\u3082\u8272\u3005\u3084\u308a\u307e\u3059\u3002",
+    "url": "https://t.co/9HCCzsmIf6",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/9HCCzsmIf6",
+                    "expanded_url": "http://twpf.jp/tsuru2018",
+                    "display_url": "twpf.jp/tsuru2018",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 46,
+    "fast_followers_count": 0,
+    "normal_followers_count": 46,
+    "friends_count": 46,
+    "listed_count": 2,
+    "created_at": "Fri Nov 02 13:49:44 +0000 2012",
+    "favourites_count": 282,
+    "utc_offset": 28800,
+    "time_zone": "Irkutsk",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1078,
+    "media_count": 47,
+    "lang": "ja",
+    "status": {
+        "created_at": "Sun Jul 16 02:42:04 +0000 2017",
+        "id": 886415609222672385,
+        "id_str": "886415609222672385",
+        "text": "@dokkanotizuzuki \u843d\u3061\u3066\u3082\u623b\u3059\u3060\u3051\u3060\u304b\u3089\u30ac\u30f3\u30ac\u30f3\u4f7f\u304a\u3046",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "dokkanotizuzuki",
+                    "name": "ryosuke",
+                    "id": 102321861,
+                    "id_str": "102321861",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 886198981168058369,
+        "in_reply_to_status_id_str": "886198981168058369",
+        "in_reply_to_user_id": 102321861,
+        "in_reply_to_user_id_str": "102321861",
+        "in_reply_to_screen_name": "dokkanotizuzuki",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_link_color": "89C9FA",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": true,
+    "has_custom_timelines": true,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

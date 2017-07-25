@@ -1,0 +1,109 @@
+{
+    "id": 572671911,
+    "id_str": "572671911",
+    "name": "\u3053\u3046\u3078\u3044",
+    "screen_name": "exusiabeatmania",
+    "location": "\u3046\u3064\u306e\u307f\u3084",
+    "description": "\u30e9\uff01/\u30e9\uff01\u30b5\uff01/\u591a\u6a5f\u7a2e/\u30dc/\u5bfa/\u30ea\u30d5/\u30dd\u30d7/\u30a6\u30cb/\u3046\u305f\u304b3rd/in\u7387\u6fc0\u4f4e",
+    "url": "https://t.co/nQ56hlhRlQ",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/nQ56hlhRlQ",
+                    "expanded_url": "http://twpf.jp/exusiabeatmania",
+                    "display_url": "twpf.jp/exusiabeatmania",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 482,
+    "fast_followers_count": 0,
+    "normal_followers_count": 482,
+    "friends_count": 534,
+    "listed_count": 10,
+    "created_at": "Sun May 06 12:37:30 +0000 2012",
+    "favourites_count": 1280,
+    "utc_offset": 28800,
+    "time_zone": "Irkutsk",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4631,
+    "media_count": 299,
+    "lang": "ja",
+    "status": {
+        "created_at": "Sun May 07 13:32:04 +0000 2017",
+        "id": 861212035895275520,
+        "id_str": "861212035895275520",
+        "text": "@MELODINIUM \u3042\u3056\u3063\u3059\u305d\u308c\u306b\u3057\u3066\u3082\u60b2\u3057\u3059\u304e\u308b",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "MELODINIUM",
+                    "name": "\u30d1\u30ef\u30d7\u30ed\u304a\u305f\u304f",
+                    "id": 1944064734,
+                    "id_str": "1944064734",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 861173069347381248,
+        "in_reply_to_status_id_str": "861173069347381248",
+        "in_reply_to_user_id": 1944064734,
+        "in_reply_to_user_id_str": "1944064734",
+        "in_reply_to_screen_name": "MELODINIUM",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/739460292069842944/izg7dv5W_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/739460292069842944/izg7dv5W_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/572671911/1447591458",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "has_custom_timelines": false,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

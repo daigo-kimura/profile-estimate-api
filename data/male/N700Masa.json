@@ -1,0 +1,348 @@
+{
+    "id": 1639984514,
+    "id_str": "1639984514",
+    "name": "series N700Masa",
+    "screen_name": "N700Masa",
+    "location": "",
+    "description": "\u6771\u6d77\u5730\u533a\u3092\u4e2d\u5fc3\u306b\u3001\u9244\u9053\u8eca\u4e21\u3084\u65c5\u5ba2\u6a5f\u3084\u8ecd\u7528\u6a5f\u306a\u3069\u306e\u822a\u7a7a\u6a5f\u3001\u30e2\u30fc\u30bf\u30fc\u30b9\u30dd\u30fc\u30c4\u306a\u3069\u306e\u5199\u771f\u3092\u601d\u3044\u3064\u304d\u3067\u64ae\u5f71\u3057\u305f\u308a\u3057\u3066\u3044\u308b\u4eba\u3002",
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 2517,
+    "fast_followers_count": 0,
+    "normal_followers_count": 2517,
+    "friends_count": 4064,
+    "listed_count": 12,
+    "created_at": "Fri Aug 02 08:48:28 +0000 2013",
+    "favourites_count": 201,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 5210,
+    "media_count": 835,
+    "lang": "ja",
+    "status": {
+        "created_at": "Wed Jul 19 11:05:55 +0000 2017",
+        "id": 887629571704496129,
+        "id_str": "887629571704496129",
+        "text": "RT @LyaujiLwaizuwia: 0\u7cfb\u65b0\u5e79\u7dda\u3068C-1\u3063\u3066\u540c\u3058\u6642\u4ee3\u3092\u611f\u3058\u308b\u306a\u3041...\u5782\u76f4\u5c3e\u7ffc\u4f55\u8272\u3060\u308d https://t.co/6hqB9q59oD",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "LyaujiLwaizuwia",
+                    "name": "Lyauji Lwaizuwia",
+                    "id": 761184500,
+                    "id_str": "761184500",
+                    "indices": [
+                        3,
+                        19
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 887228664881991681,
+                    "id_str": "887228664881991681",
+                    "indices": [
+                        54,
+                        77
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFARxRzV0AEW7rN.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFARxRzV0AEW7rN.jpg",
+                    "url": "https://t.co/6hqB9q59oD",
+                    "display_url": "pic.twitter.com/6hqB9q59oD",
+                    "expanded_url": "https://twitter.com/gcfe4e4fd7ln8r/status/887228676412121088/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 900,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1536,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 887228676412121088,
+                    "source_status_id_str": "887228676412121088",
+                    "source_user_id": 761184500,
+                    "source_user_id_str": "761184500",
+                    "features": {
+                        "medium": {
+                            "faces": []
+                        },
+                        "orig": {
+                            "faces": []
+                        },
+                        "large": {
+                            "faces": []
+                        },
+                        "small": {
+                            "faces": []
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 887228664881991681,
+                    "id_str": "887228664881991681",
+                    "indices": [
+                        54,
+                        77
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFARxRzV0AEW7rN.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFARxRzV0AEW7rN.jpg",
+                    "url": "https://t.co/6hqB9q59oD",
+                    "display_url": "pic.twitter.com/6hqB9q59oD",
+                    "expanded_url": "https://twitter.com/gcfe4e4fd7ln8r/status/887228676412121088/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 900,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1536,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 887228676412121088,
+                    "source_status_id_str": "887228676412121088",
+                    "source_user_id": 761184500,
+                    "source_user_id_str": "761184500",
+                    "features": {
+                        "medium": {
+                            "faces": []
+                        },
+                        "orig": {
+                            "faces": []
+                        },
+                        "large": {
+                            "faces": []
+                        },
+                        "small": {
+                            "faces": []
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Tue Jul 18 08:32:55 +0000 2017",
+            "id": 887228676412121088,
+            "id_str": "887228676412121088",
+            "text": "0\u7cfb\u65b0\u5e79\u7dda\u3068C-1\u3063\u3066\u540c\u3058\u6642\u4ee3\u3092\u611f\u3058\u308b\u306a\u3041...\u5782\u76f4\u5c3e\u7ffc\u4f55\u8272\u3060\u308d https://t.co/6hqB9q59oD",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 887228664881991681,
+                        "id_str": "887228664881991681",
+                        "indices": [
+                            33,
+                            56
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFARxRzV0AEW7rN.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFARxRzV0AEW7rN.jpg",
+                        "url": "https://t.co/6hqB9q59oD",
+                        "display_url": "pic.twitter.com/6hqB9q59oD",
+                        "expanded_url": "https://twitter.com/gcfe4e4fd7ln8r/status/887228676412121088/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 900,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1536,
+                                "h": 2048,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 510,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "medium": {
+                                "faces": []
+                            },
+                            "orig": {
+                                "faces": []
+                            },
+                            "large": {
+                                "faces": []
+                            },
+                            "small": {
+                                "faces": []
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 887228664881991681,
+                        "id_str": "887228664881991681",
+                        "indices": [
+                            33,
+                            56
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFARxRzV0AEW7rN.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFARxRzV0AEW7rN.jpg",
+                        "url": "https://t.co/6hqB9q59oD",
+                        "display_url": "pic.twitter.com/6hqB9q59oD",
+                        "expanded_url": "https://twitter.com/gcfe4e4fd7ln8r/status/887228676412121088/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 900,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1536,
+                                "h": 2048,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 510,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "medium": {
+                                "faces": []
+                            },
+                            "orig": {
+                                "faces": []
+                            },
+                            "large": {
+                                "faces": []
+                            },
+                            "small": {
+                                "faces": []
+                            }
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 66,
+            "favorite_count": 106,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja",
+            "supplemental_language": null
+        },
+        "is_quote_status": false,
+        "retweet_count": 66,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/883274995064909824/bGTjwvWm_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/883274995064909824/bGTjwvWm_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1639984514/1496997596",
+    "profile_link_color": "112299",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "has_custom_timelines": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

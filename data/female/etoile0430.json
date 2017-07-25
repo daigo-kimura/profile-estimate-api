@@ -1,0 +1,111 @@
+{
+    "id": 2541003678,
+    "id_str": "2541003678",
+    "name": "\u96ea\u539f\u85ab",
+    "screen_name": "etoile0430",
+    "location": "\u83ca\u3055\u3093\u306e\u3069\u3053\u304b",
+    "description": "\u30b2\u30fc\u30de\u30fc\u3067\u3059\u3002\u6c17\u8efd\u306b\u7d61\u3093\u3067\u304d\u3066\u304f\u3060\u3055\u308b\u3068\u6ce3\u3044\u3066\u559c\u3073\u307e\u3059\u3002\u30a2\u30a4\u30b3\u30f3\u306f\u98f4\u91cc\u69d8\u3067\u3042\u308a\u307e\u3059\uff01\n\u30c4\u30a4\u30d7\u30ed\u306b\u597d\u304d\u306a\u3082\u306e\u3068\u304b\u66f8\u3044\u3066\u307e\u3059\u306e\u3067\u3001\u30d5\u30a9\u30ed\u30fc\u306e\u53c2\u7167\u306b\u3057\u3066\u304f\u3060\u3055\u3044\u307e\u3057\u307e\u3057\u301c",
+    "url": "https://t.co/A28zsDXBGe",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/A28zsDXBGe",
+                    "expanded_url": "http://twpf.jp/etoile0430",
+                    "display_url": "twpf.jp/etoile0430",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 129,
+    "fast_followers_count": 0,
+    "normal_followers_count": 129,
+    "friends_count": 263,
+    "listed_count": 1,
+    "created_at": "Mon Jun 02 08:18:41 +0000 2014",
+    "favourites_count": 1213,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2138,
+    "media_count": 68,
+    "lang": "ja",
+    "status": {
+        "created_at": "Sat May 27 05:26:05 +0000 2017",
+        "id": 868337493149499392,
+        "id_str": "868337493149499392",
+        "text": "\u306f\u3058\u3001\u59cb\u3081\u308b\u3057\u304b\u2026\u7121\u3044\u306e\u3067\u306f\u2026\uff01\uff1f https://t.co/Y95k3M0Kjh",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Y95k3M0Kjh",
+                    "expanded_url": "https://twitter.com/magi_day/status/867983757948575745",
+                    "display_url": "twitter.com/magi_day/statu\u2026",
+                    "indices": [
+                        18,
+                        41
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 867983757948575745,
+        "quoted_status_id_str": "867983757948575745",
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/565786391913582592/GujOhxAo_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/565786391913582592/GujOhxAo_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2541003678/1488384229",
+    "profile_link_color": "4A62FF",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "has_custom_timelines": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

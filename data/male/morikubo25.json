@@ -1,0 +1,109 @@
+{
+    "id": 235083694,
+    "id_str": "235083694",
+    "name": "\u68ee\u4e45\u4fdd\u304a\u308f\u305f",
+    "screen_name": "morikubo25",
+    "location": "",
+    "description": "\u81ea\u5206\u3092\u9752\u6728\u7460\u7483\u5b50\u306e\u5f1f\u3060\u3068\u601d\u3044\u8fbc\u3093\u3067\u3044\u308b\u30b4\u30ea\u30e9\u3067\u3059\u3002\u674e\u8863\u83dc/\u5c0f\u6885/\u4e43\u3005\u3092\u62c5\u5f53\u3002\n\u8d14\u5c53\u7403\u56e3\u306f\u962a\u795e\u30bf\u30a4\u30ac\u30fc\u30b9\u3002\u30a2\u30a4\u30de\u30b9\u95a2\u9023\u3084\u65e5\u5e38\u3001\u96d1\u30b3\u30e9\u4f5c\u6210\u3001\u91ce\u7403\u306b\u3064\u3044\u3066\u3064\u3076\u3084\u3044\u3066\u3044\u304d\u307e\u3059\u3002\u8a73\u3057\u304f\u306f\u30c4\u30a4\u30d7\u30ed\u3092\u53c2\u7167\u3057\u3066\u304f\u3060\u3055\u3044\uff01\u5ea7\u53f3\u306e\u9298\u306f\u3010 \u53f3\u624b\u306b\u7460\u7483\u5b50\u3092\u5de6\u624b\u306b\u5343\u4f9d\u3092\u3011",
+    "url": "https://t.co/MBlQbyT5Dm",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/MBlQbyT5Dm",
+                    "expanded_url": "http://twpf.jp/morikubo25",
+                    "display_url": "twpf.jp/morikubo25",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 1355,
+    "fast_followers_count": 0,
+    "normal_followers_count": 1355,
+    "friends_count": 1368,
+    "listed_count": 20,
+    "created_at": "Fri Jan 07 09:13:42 +0000 2011",
+    "favourites_count": 1795,
+    "utc_offset": -25200,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 6381,
+    "media_count": 592,
+    "lang": "ja",
+    "status": {
+        "created_at": "Wed Jul 19 10:03:01 +0000 2017",
+        "id": 887613742208262144,
+        "id_str": "887613742208262144",
+        "text": "@claris_pr \u30af\u30fc\u30eb\u30d3\u30ba\u5148\u8f29",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "claris_pr",
+                    "name": "\u5996\u602a\u60d1\u661f\u30af\u30e9\u30ea\u30b9\u516c\u5f0f",
+                    "id": 824583092115427329,
+                    "id_str": "824583092115427329",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 887610225028603905,
+        "in_reply_to_status_id_str": "887610225028603905",
+        "in_reply_to_user_id": 824583092115427329,
+        "in_reply_to_user_id_str": "824583092115427329",
+        "in_reply_to_screen_name": "claris_pr",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/435951818/201003310255079dc.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/435951818/201003310255079dc.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/848009633054679040/X2uaddnk_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/848009633054679040/X2uaddnk_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/235083694/1470049569",
+    "profile_link_color": "89C9FA",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "has_custom_timelines": false,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

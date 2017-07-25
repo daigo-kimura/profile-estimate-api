@@ -1,0 +1,473 @@
+{
+    "id": 805075398274916354,
+    "id_str": "805075398274916354",
+    "name": "\u3044\u3044\u306d\u00ae",
+    "screen_name": "kkkjryuri",
+    "location": "\u6a2a\u6d5c\u770c",
+    "description": "\u3044\u3044\u306d\u3067\u3059\u3002\u30e9\u30fc\u95a2\u9023\u30a2\u30ab\u30a6\u30f3\u30c8\u3092\u4f5c\u308a\u307e\u3057\u305f\u3002\u7d75\u4f5c\u54c1\u3084\u5984\u60f3\u3092\u98df\u3079\u306a\u3044\u3068\u751f\u304d\u3089\u308c\u306a\u3044\u547d\u306a\u306e\u3067\u3059\u3002\u300e\u3044\u3044\u306d\u300f\u3055\u305b\u3066\u304f\u3060\u3055\u3044\u3002\u30c4\u30a4\u30d5\u30a3\u30fc\u30eb\u3082\u3069\u3046\u305e\u3002(\u3042\u3063\u3068\u3044\u3046\u9593\u306b\u307b\u3089\u4e09\u5341\u8def)",
+    "url": "https://t.co/zVjf6D6ciw",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/zVjf6D6ciw",
+                    "expanded_url": "http://twpf.jp/kkkjryuri",
+                    "display_url": "twpf.jp/kkkjryuri",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 41,
+    "fast_followers_count": 0,
+    "normal_followers_count": 41,
+    "friends_count": 42,
+    "listed_count": 0,
+    "created_at": "Sat Dec 03 15:45:07 +0000 2016",
+    "favourites_count": 5966,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1160,
+    "media_count": 7,
+    "lang": "ja",
+    "status": {
+        "created_at": "Wed Jul 19 12:53:35 +0000 2017",
+        "id": 887656663699734531,
+        "id_str": "887656663699734531",
+        "text": "RT @o_kami_49: \u96d1\u3060\u3051\u3069\u3053\u3046\u3044\u3046\u611f\u3058\u3060\u3063\u305f\n(\u9854\u3084\u3084\u30c8\u30ec\u30b9\u30fb\u80cc\u666f\u7b49\u306f\u304a\u501f\u308a\u3057\u307e\u3057\u305f) https://t.co/GG2VWCkXIq",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "o_kami_49",
+                    "name": "\u30aa\u30eb\u30bf\u30cb\u30ad\u306e\u5e55\u9593\u3067\u6b7b\u3093\u3060\u72fc\u4e38",
+                    "id": 81812396,
+                    "id_str": "81812396",
+                    "indices": [
+                        3,
+                        13
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 887605851661389825,
+                    "id_str": "887605851661389825",
+                    "indices": [
+                        50,
+                        73
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFFo0cDV0AEuuCi.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFFo0cDV0AEuuCi.jpg",
+                    "url": "https://t.co/GG2VWCkXIq",
+                    "display_url": "pic.twitter.com/GG2VWCkXIq",
+                    "expanded_url": "https://twitter.com/o_kami_49/status/887606198232469504/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1067,
+                            "h": 600,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 382,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1067,
+                            "h": 600,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 887606198232469504,
+                    "source_status_id_str": "887606198232469504",
+                    "source_user_id": 81812396,
+                    "source_user_id_str": "81812396",
+                    "features": {
+                        "large": {
+                            "faces": [
+                                {
+                                    "x": 454,
+                                    "y": 45,
+                                    "h": 147,
+                                    "w": 147
+                                }
+                            ]
+                        },
+                        "small": {
+                            "faces": [
+                                {
+                                    "x": 289,
+                                    "y": 28,
+                                    "h": 93,
+                                    "w": 93
+                                }
+                            ]
+                        },
+                        "medium": {
+                            "faces": [
+                                {
+                                    "x": 454,
+                                    "y": 45,
+                                    "h": 147,
+                                    "w": 147
+                                }
+                            ]
+                        },
+                        "orig": {
+                            "faces": [
+                                {
+                                    "x": 454,
+                                    "y": 45,
+                                    "h": 147,
+                                    "w": 147
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 887605851661389825,
+                    "id_str": "887605851661389825",
+                    "indices": [
+                        50,
+                        73
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFFo0cDV0AEuuCi.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFFo0cDV0AEuuCi.jpg",
+                    "url": "https://t.co/GG2VWCkXIq",
+                    "display_url": "pic.twitter.com/GG2VWCkXIq",
+                    "expanded_url": "https://twitter.com/o_kami_49/status/887606198232469504/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1067,
+                            "h": 600,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 382,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1067,
+                            "h": 600,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 887606198232469504,
+                    "source_status_id_str": "887606198232469504",
+                    "source_user_id": 81812396,
+                    "source_user_id_str": "81812396",
+                    "features": {
+                        "large": {
+                            "faces": [
+                                {
+                                    "x": 454,
+                                    "y": 45,
+                                    "h": 147,
+                                    "w": 147
+                                }
+                            ]
+                        },
+                        "small": {
+                            "faces": [
+                                {
+                                    "x": 289,
+                                    "y": 28,
+                                    "h": 93,
+                                    "w": 93
+                                }
+                            ]
+                        },
+                        "medium": {
+                            "faces": [
+                                {
+                                    "x": 454,
+                                    "y": 45,
+                                    "h": 147,
+                                    "w": 147
+                                }
+                            ]
+                        },
+                        "orig": {
+                            "faces": [
+                                {
+                                    "x": 454,
+                                    "y": 45,
+                                    "h": 147,
+                                    "w": 147
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Jul 19 09:33:03 +0000 2017",
+            "id": 887606198232469504,
+            "id_str": "887606198232469504",
+            "text": "\u96d1\u3060\u3051\u3069\u3053\u3046\u3044\u3046\u611f\u3058\u3060\u3063\u305f\n(\u9854\u3084\u3084\u30c8\u30ec\u30b9\u30fb\u80cc\u666f\u7b49\u306f\u304a\u501f\u308a\u3057\u307e\u3057\u305f) https://t.co/GG2VWCkXIq",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 887605851661389825,
+                        "id_str": "887605851661389825",
+                        "indices": [
+                            35,
+                            58
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFFo0cDV0AEuuCi.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFFo0cDV0AEuuCi.jpg",
+                        "url": "https://t.co/GG2VWCkXIq",
+                        "display_url": "pic.twitter.com/GG2VWCkXIq",
+                        "expanded_url": "https://twitter.com/o_kami_49/status/887606198232469504/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1067,
+                                "h": 600,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 382,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1067,
+                                "h": 600,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 454,
+                                        "y": 45,
+                                        "h": 147,
+                                        "w": 147
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 289,
+                                        "y": 28,
+                                        "h": 93,
+                                        "w": 93
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 454,
+                                        "y": 45,
+                                        "h": 147,
+                                        "w": 147
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 454,
+                                        "y": 45,
+                                        "h": 147,
+                                        "w": 147
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 887605851661389825,
+                        "id_str": "887605851661389825",
+                        "indices": [
+                            35,
+                            58
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFFo0cDV0AEuuCi.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFFo0cDV0AEuuCi.jpg",
+                        "url": "https://t.co/GG2VWCkXIq",
+                        "display_url": "pic.twitter.com/GG2VWCkXIq",
+                        "expanded_url": "https://twitter.com/o_kami_49/status/887606198232469504/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1067,
+                                "h": 600,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 382,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1067,
+                                "h": 600,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 454,
+                                        "y": 45,
+                                        "h": 147,
+                                        "w": 147
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 289,
+                                        "y": 28,
+                                        "h": 93,
+                                        "w": 93
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 454,
+                                        "y": 45,
+                                        "h": 147,
+                                        "w": 147
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 454,
+                                        "y": 45,
+                                        "h": 147,
+                                        "w": 147
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": 887457514064756736,
+            "in_reply_to_status_id_str": "887457514064756736",
+            "in_reply_to_user_id": 81812396,
+            "in_reply_to_user_id_str": "81812396",
+            "in_reply_to_screen_name": "o_kami_49",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 5565,
+            "favorite_count": 5188,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja",
+            "supplemental_language": null
+        },
+        "is_quote_status": false,
+        "retweet_count": 5565,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/805093268144865282/tKZG5rMj_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/805093268144865282/tKZG5rMj_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "has_custom_timelines": false,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "customer_service_state": "none",
+    "translator_type": "none"
+}

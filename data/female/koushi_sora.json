@@ -1,0 +1,474 @@
+{
+    "id": 847705684686684160,
+    "id_str": "847705684686684160",
+    "name": "\u7d05\u7d2b\u305d\u3089",
+    "screen_name": "koushi_sora",
+    "location": "\u3068\u3084\u307e\u306e\u5973 QR\u52e2&\u602a\u3057\u3044\u30a2\u30ab\u30a6\u30f3\u30c8\u306f\u30d6\u30ed\u30c3\u30af\u3057\u307e\u3059",
+    "description": "\u30ab\u30aa\u30b9\u304c\u597d\u7269\u306a\u30de\u30a4\u30ad\u30e3\u30e9\u52e2\u3002\u305d\u3089\u3068\u547c\u3093\u3067\u5927\u4e08\u592b\u3067\u3059\u3002\n\u30d7\u30ea\u30d1\u30e9\u4ee5\u5916\u2192 @kihonhamarc\n\u304a\u4e0b\u54c1\u2192\u30ea\u30d7orDM\u4e0b\u3055\u3044(\u76f8\u4e92\u306e\u307f/\u4eba\u5f62\u3067\u306a\u3044\u30ad\u30e3\u30e9\u542b\u307f\u307e\u3059)",
+    "url": "https://t.co/Z94m962pXa",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/Z94m962pXa",
+                    "expanded_url": "http://twpf.jp/koushi_sora",
+                    "display_url": "twpf.jp/koushi_sora",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 67,
+    "fast_followers_count": 0,
+    "normal_followers_count": 67,
+    "friends_count": 72,
+    "listed_count": 2,
+    "created_at": "Fri Mar 31 07:02:39 +0000 2017",
+    "favourites_count": 3258,
+    "utc_offset": -25200,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3529,
+    "media_count": 194,
+    "lang": "ja",
+    "status": {
+        "created_at": "Thu Jul 20 00:45:57 +0000 2017",
+        "id": 887835936393801728,
+        "id_str": "887835936393801728",
+        "text": "RT @erao520: \u3071\u3071\u3089\u5bbf\u306e\u5e38\u8b58\u3092\u4e00\u624b\u306b\u62c5\u3046\u306b\u306e\u3061\u3083\u3093\n\u901a\u9662\u751f\u6d3b\u3082\u8fd1\u3044 https://t.co/cMHTspSPUA",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "erao520",
+                    "name": "\u3048\u3089\u304a",
+                    "id": 872093101694885889,
+                    "id_str": "872093101694885889",
+                    "indices": [
+                        3,
+                        11
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 887681357517791232,
+                    "id_str": "887681357517791232",
+                    "indices": [
+                        40,
+                        63
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFGtfdSVoAACzqG.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFGtfdSVoAACzqG.jpg",
+                    "url": "https://t.co/cMHTspSPUA",
+                    "display_url": "pic.twitter.com/cMHTspSPUA",
+                    "expanded_url": "https://twitter.com/erao520/status/887681639718895617/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1308,
+                            "h": 899,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 467,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 825,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 887681639718895617,
+                    "source_status_id_str": "887681639718895617",
+                    "source_user_id": 872093101694885889,
+                    "source_user_id_str": "872093101694885889",
+                    "features": {
+                        "large": {
+                            "faces": [
+                                {
+                                    "x": 246,
+                                    "y": 481,
+                                    "h": 159,
+                                    "w": 159
+                                }
+                            ]
+                        },
+                        "small": {
+                            "faces": [
+                                {
+                                    "x": 127,
+                                    "y": 250,
+                                    "h": 82,
+                                    "w": 82
+                                }
+                            ]
+                        },
+                        "medium": {
+                            "faces": [
+                                {
+                                    "x": 225,
+                                    "y": 441,
+                                    "h": 145,
+                                    "w": 145
+                                }
+                            ]
+                        },
+                        "orig": {
+                            "faces": [
+                                {
+                                    "x": 246,
+                                    "y": 481,
+                                    "h": 159,
+                                    "w": 159
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 887681357517791232,
+                    "id_str": "887681357517791232",
+                    "indices": [
+                        40,
+                        63
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFGtfdSVoAACzqG.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFGtfdSVoAACzqG.jpg",
+                    "url": "https://t.co/cMHTspSPUA",
+                    "display_url": "pic.twitter.com/cMHTspSPUA",
+                    "expanded_url": "https://twitter.com/erao520/status/887681639718895617/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1308,
+                            "h": 899,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 467,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 825,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 887681639718895617,
+                    "source_status_id_str": "887681639718895617",
+                    "source_user_id": 872093101694885889,
+                    "source_user_id_str": "872093101694885889",
+                    "features": {
+                        "large": {
+                            "faces": [
+                                {
+                                    "x": 246,
+                                    "y": 481,
+                                    "h": 159,
+                                    "w": 159
+                                }
+                            ]
+                        },
+                        "small": {
+                            "faces": [
+                                {
+                                    "x": 127,
+                                    "y": 250,
+                                    "h": 82,
+                                    "w": 82
+                                }
+                            ]
+                        },
+                        "medium": {
+                            "faces": [
+                                {
+                                    "x": 225,
+                                    "y": 441,
+                                    "h": 145,
+                                    "w": 145
+                                }
+                            ]
+                        },
+                        "orig": {
+                            "faces": [
+                                {
+                                    "x": 246,
+                                    "y": 481,
+                                    "h": 159,
+                                    "w": 159
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Jul 19 14:32:49 +0000 2017",
+            "id": 887681639718895617,
+            "id_str": "887681639718895617",
+            "text": "\u3071\u3071\u3089\u5bbf\u306e\u5e38\u8b58\u3092\u4e00\u624b\u306b\u62c5\u3046\u306b\u306e\u3061\u3083\u3093\n\u901a\u9662\u751f\u6d3b\u3082\u8fd1\u3044 https://t.co/cMHTspSPUA",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 887681357517791232,
+                        "id_str": "887681357517791232",
+                        "indices": [
+                            27,
+                            50
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFGtfdSVoAACzqG.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFGtfdSVoAACzqG.jpg",
+                        "url": "https://t.co/cMHTspSPUA",
+                        "display_url": "pic.twitter.com/cMHTspSPUA",
+                        "expanded_url": "https://twitter.com/erao520/status/887681639718895617/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1308,
+                                "h": 899,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 467,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 825,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 246,
+                                        "y": 481,
+                                        "h": 159,
+                                        "w": 159
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 127,
+                                        "y": 250,
+                                        "h": 82,
+                                        "w": 82
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 225,
+                                        "y": 441,
+                                        "h": 145,
+                                        "w": 145
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 246,
+                                        "y": 481,
+                                        "h": 159,
+                                        "w": 159
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 887681357517791232,
+                        "id_str": "887681357517791232",
+                        "indices": [
+                            27,
+                            50
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFGtfdSVoAACzqG.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFGtfdSVoAACzqG.jpg",
+                        "url": "https://t.co/cMHTspSPUA",
+                        "display_url": "pic.twitter.com/cMHTspSPUA",
+                        "expanded_url": "https://twitter.com/erao520/status/887681639718895617/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1308,
+                                "h": 899,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 467,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 825,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 246,
+                                        "y": 481,
+                                        "h": 159,
+                                        "w": 159
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 127,
+                                        "y": 250,
+                                        "h": 82,
+                                        "w": 82
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 225,
+                                        "y": 441,
+                                        "h": 145,
+                                        "w": 145
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 246,
+                                        "y": 481,
+                                        "h": 159,
+                                        "w": 159
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 45,
+            "favorite_count": 51,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja",
+            "supplemental_language": null
+        },
+        "is_quote_status": false,
+        "retweet_count": 45,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/877560819931795456/TJ4pOe0y_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/877560819931795456/TJ4pOe0y_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/847705684686684160/1490947024",
+    "profile_link_color": "FF5884",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "has_custom_timelines": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "customer_service_state": "none",
+    "translator_type": "none"
+}

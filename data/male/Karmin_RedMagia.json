@@ -1,0 +1,503 @@
+{
+    "id": 269784678,
+    "id_str": "269784678",
+    "name": "\u2020\u771f\u7fa9\u4e9e\u63d0\u7763\u2020",
+    "screen_name": "Karmin_RedMagia",
+    "location": "",
+    "description": "\u2020\u8a73\u3057\u304f\u306f\u30c4\u30a4\u30d7\u30ed\u53c2\u7167\u2020\u2605\u771f\u7fa9\u4e9e\u63d0\u7763\u3068\u7533\u3057\u307e\u3059\u2605 \u97f3\u30b2\u30fc(\u5f10\u5bfa(\u4e03\u6bb5)\u30fb\u30dd\u30c3\u30d7\u30f3(\u6700\u9ad849)\u30fb\u30ea\u30d5\u30ec\u30af(\u6700\u9ad815)\u30fb\u30c1\u30e5\u30a6\u30cb\u30ba\u30e0\uff08\u73fe\uff9a\uff70\uff8413.69)\u304c\u30e1\u30a4\u30f3)\u6bce\u9031\u9811\u5f35\u3063\u3066\u307e\u3059\uff08\u30e9\u30a4\u30d0\u30eb\u30fb\u30d5\u30a9\u30ed\u30fc\u30fb\u30dd\u30d7\u3068\u3082\u52df\u96c6\u4e2d\uff09\u98ef\uff06\u30b9\u30a4\u30fc\u30c4\u30c6\u30ed\u3088\u304f\u3084\u3063\u3066\u307e\u3059\u3002\u30b0\u30e9\u30d6\u30eb\u3092\u30e1\u30a4\u30f3\u306b\u30c7\u30ec\u30de\u30b9\u7b49\u3084\u3063\u3066\u307e\u3059\u3002\u3069\u305e\u3088\u308d\u3057\u304f\u3067\u3059\uff5e\u2605(=\uff9f\u03c9\uff9f)\uff89",
+    "url": "https://t.co/6LuHqXmbaS",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/6LuHqXmbaS",
+                    "expanded_url": "http://twpf.jp/Karmin_RedMagia",
+                    "display_url": "twpf.jp/Karmin_RedMagia",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 909,
+    "fast_followers_count": 0,
+    "normal_followers_count": 909,
+    "friends_count": 1422,
+    "listed_count": 31,
+    "created_at": "Mon Mar 21 12:59:32 +0000 2011",
+    "favourites_count": 23598,
+    "utc_offset": -36000,
+    "time_zone": "Hawaii",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 79757,
+    "media_count": 3931,
+    "lang": "ja",
+    "status": {
+        "created_at": "Wed Jul 19 22:52:15 +0000 2017",
+        "id": 887807323082600448,
+        "id_str": "887807323082600448",
+        "text": "RT @TORO3767: \u98a8\u5dfb\u6d41\u306e\u7dcf\u672c\u5c71\n#IIDX #SINOBUZ https://t.co/nhguVcrUFZ",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "IIDX",
+                    "indices": [
+                        22,
+                        27
+                    ]
+                },
+                {
+                    "text": "SINOBUZ",
+                    "indices": [
+                        28,
+                        36
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "TORO3767",
+                    "name": "TORO",
+                    "id": 1540117710,
+                    "id_str": "1540117710",
+                    "indices": [
+                        3,
+                        12
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 887804993410957312,
+                    "id_str": "887804993410957312",
+                    "indices": [
+                        37,
+                        60
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFId8A4UAAAiH1v.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFId8A4UAAAiH1v.jpg",
+                    "url": "https://t.co/nhguVcrUFZ",
+                    "display_url": "pic.twitter.com/nhguVcrUFZ",
+                    "expanded_url": "https://twitter.com/TORO3767/status/887805024503349248/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 768,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 768,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 887805024503349248,
+                    "source_status_id_str": "887805024503349248",
+                    "source_user_id": 1540117710,
+                    "source_user_id_str": "1540117710",
+                    "features": {
+                        "small": {
+                            "faces": [
+                                {
+                                    "x": 288,
+                                    "y": 51,
+                                    "h": 31,
+                                    "w": 31
+                                }
+                            ]
+                        },
+                        "medium": {
+                            "faces": [
+                                {
+                                    "x": 434,
+                                    "y": 78,
+                                    "h": 48,
+                                    "w": 48
+                                }
+                            ]
+                        },
+                        "orig": {
+                            "faces": [
+                                {
+                                    "x": 434,
+                                    "y": 78,
+                                    "h": 48,
+                                    "w": 48
+                                }
+                            ]
+                        },
+                        "large": {
+                            "faces": [
+                                {
+                                    "x": 434,
+                                    "y": 78,
+                                    "h": 48,
+                                    "w": 48
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 887804993410957312,
+                    "id_str": "887804993410957312",
+                    "indices": [
+                        37,
+                        60
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFId8A4UAAAiH1v.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFId8A4UAAAiH1v.jpg",
+                    "url": "https://t.co/nhguVcrUFZ",
+                    "display_url": "pic.twitter.com/nhguVcrUFZ",
+                    "expanded_url": "https://twitter.com/TORO3767/status/887805024503349248/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 768,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 768,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 887805024503349248,
+                    "source_status_id_str": "887805024503349248",
+                    "source_user_id": 1540117710,
+                    "source_user_id_str": "1540117710",
+                    "features": {
+                        "small": {
+                            "faces": [
+                                {
+                                    "x": 288,
+                                    "y": 51,
+                                    "h": 31,
+                                    "w": 31
+                                }
+                            ]
+                        },
+                        "medium": {
+                            "faces": [
+                                {
+                                    "x": 434,
+                                    "y": 78,
+                                    "h": 48,
+                                    "w": 48
+                                }
+                            ]
+                        },
+                        "orig": {
+                            "faces": [
+                                {
+                                    "x": 434,
+                                    "y": 78,
+                                    "h": 48,
+                                    "w": 48
+                                }
+                            ]
+                        },
+                        "large": {
+                            "faces": [
+                                {
+                                    "x": 434,
+                                    "y": 78,
+                                    "h": 48,
+                                    "w": 48
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Jul 19 22:43:07 +0000 2017",
+            "id": 887805024503349248,
+            "id_str": "887805024503349248",
+            "text": "\u98a8\u5dfb\u6d41\u306e\u7dcf\u672c\u5c71\n#IIDX #SINOBUZ https://t.co/nhguVcrUFZ",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "IIDX",
+                        "indices": [
+                            8,
+                            13
+                        ]
+                    },
+                    {
+                        "text": "SINOBUZ",
+                        "indices": [
+                            14,
+                            22
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 887804993410957312,
+                        "id_str": "887804993410957312",
+                        "indices": [
+                            23,
+                            46
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFId8A4UAAAiH1v.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFId8A4UAAAiH1v.jpg",
+                        "url": "https://t.co/nhguVcrUFZ",
+                        "display_url": "pic.twitter.com/nhguVcrUFZ",
+                        "expanded_url": "https://twitter.com/TORO3767/status/887805024503349248/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 680,
+                                "h": 510,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1024,
+                                "h": 768,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 768,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 288,
+                                        "y": 51,
+                                        "h": 31,
+                                        "w": 31
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 434,
+                                        "y": 78,
+                                        "h": 48,
+                                        "w": 48
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 434,
+                                        "y": 78,
+                                        "h": 48,
+                                        "w": 48
+                                    }
+                                ]
+                            },
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 434,
+                                        "y": 78,
+                                        "h": 48,
+                                        "w": 48
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 887804993410957312,
+                        "id_str": "887804993410957312",
+                        "indices": [
+                            23,
+                            46
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFId8A4UAAAiH1v.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFId8A4UAAAiH1v.jpg",
+                        "url": "https://t.co/nhguVcrUFZ",
+                        "display_url": "pic.twitter.com/nhguVcrUFZ",
+                        "expanded_url": "https://twitter.com/TORO3767/status/887805024503349248/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 680,
+                                "h": 510,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1024,
+                                "h": 768,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 768,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 288,
+                                        "y": 51,
+                                        "h": 31,
+                                        "w": 31
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 434,
+                                        "y": 78,
+                                        "h": 48,
+                                        "w": 48
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 434,
+                                        "y": 78,
+                                        "h": 48,
+                                        "w": 48
+                                    }
+                                ]
+                            },
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 434,
+                                        "y": 78,
+                                        "h": 48,
+                                        "w": 48
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 491,
+            "favorite_count": 104,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja",
+            "supplemental_language": null
+        },
+        "is_quote_status": false,
+        "retweet_count": 491,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "030624",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/593775861989396480/CunTWPOY.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/593775861989396480/CunTWPOY.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/881873454496010240/6Ys9qYUw_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/881873454496010240/6Ys9qYUw_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/269784678/1500106368",
+    "profile_link_color": "E60000",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "has_custom_timelines": false,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

@@ -1,0 +1,512 @@
+{
+    "id": 86051988,
+    "id_str": "86051988",
+    "name": "\u9577\u9580\u307f\u3089\u3044@\u6642\u7a7a\u6539\u672d\u5236\u4f5c\u4e2d",
+    "screen_name": "MiraiNagato",
+    "location": "Inazawa city, Aichi, Japan.",
+    "description": "\u541b\u306f\u3001\u7a32\u6ca2\u306e\u4eba\u304b\u3044\uff1f \u50d5\u306f\u9577\u9580\u3002\u30d5\u30ea\u30fc\u306e\u30d7\u30ed\u30b0\u30e9\u30de\u30fc\u3055\uff01 \u30e1\u30a4\u30f3\u306f\u4fe1\u53f7\u51e6\u7406\u3092\u5fdc\u7528\u3057\u305fPC\u7528\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u958b\u767a\u3002 \u540c\u4ebaADV\u5236\u4f5c\u4e2d\u306a\u306e\u3093: @jikutale \u81ea\u5df1\u7d39\u4ecb: https://t.co/PxavdXHcgP \u7d75: https://t.co/6bCAYaUnkJ (f/r/m\u306f\u3054\u81ea\u7531\u306b\u3069\u3046\u305e)",
+    "url": "https://t.co/l3H4i9ede3",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/l3H4i9ede3",
+                    "expanded_url": "http://limetarte.net/",
+                    "display_url": "limetarte.net",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": [
+                {
+                    "url": "https://t.co/PxavdXHcgP",
+                    "expanded_url": "http://twpf.jp/MiraiNagato",
+                    "display_url": "twpf.jp/MiraiNagato",
+                    "indices": [
+                        84,
+                        107
+                    ]
+                },
+                {
+                    "url": "https://t.co/6bCAYaUnkJ",
+                    "expanded_url": "http://tinami.jp/c/27357",
+                    "display_url": "tinami.jp/c/27357",
+                    "indices": [
+                        111,
+                        134
+                    ]
+                }
+            ]
+        }
+    },
+    "protected": false,
+    "followers_count": 415,
+    "fast_followers_count": 0,
+    "normal_followers_count": 415,
+    "friends_count": 378,
+    "listed_count": 27,
+    "created_at": "Thu Oct 29 12:11:15 +0000 2009",
+    "favourites_count": 7426,
+    "utc_offset": 32400,
+    "time_zone": "Tokyo",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 104426,
+    "media_count": 3453,
+    "lang": "ja",
+    "status": {
+        "created_at": "Thu Jul 20 01:06:49 +0000 2017",
+        "id": 887841190690791424,
+        "id_str": "887841190690791424",
+        "text": "RT @avwatch: iOS 10.3.3\u63d0\u4f9b\u958b\u59cb\u3002\u30d0\u30b0\u4fee\u6b63\u3068iPhone/iPad\u306e\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u6539\u5584 https://t.co/y13ken4BEx https://t.co/rgZ4vbXvFv",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "avwatch",
+                    "name": "AV Watch",
+                    "id": 62723250,
+                    "id_str": "62723250",
+                    "indices": [
+                        3,
+                        11
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/y13ken4BEx",
+                    "expanded_url": "http://av.watch.impress.co.jp/docs/news/1071426.html",
+                    "display_url": "av.watch.impress.co.jp/docs/news/1071\u2026",
+                    "indices": [
+                        54,
+                        77
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 887739580090261504,
+                    "id_str": "887739580090261504",
+                    "indices": [
+                        78,
+                        101
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFHicdRVoAA2iuS.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFHicdRVoAA2iuS.jpg",
+                    "url": "https://t.co/rgZ4vbXvFv",
+                    "display_url": "pic.twitter.com/rgZ4vbXvFv",
+                    "expanded_url": "https://twitter.com/avwatch/status/887739582657187840/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 382,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 675,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 750,
+                            "h": 1334,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 887739582657187840,
+                    "source_status_id_str": "887739582657187840",
+                    "source_user_id": 62723250,
+                    "source_user_id_str": "62723250",
+                    "features": {
+                        "small": {
+                            "faces": [
+                                {
+                                    "x": 6,
+                                    "y": 174,
+                                    "h": 73,
+                                    "w": 73
+                                }
+                            ]
+                        },
+                        "medium": {
+                            "faces": [
+                                {
+                                    "x": 11,
+                                    "y": 307,
+                                    "h": 129,
+                                    "w": 129
+                                }
+                            ]
+                        },
+                        "orig": {
+                            "faces": [
+                                {
+                                    "x": 13,
+                                    "y": 342,
+                                    "h": 144,
+                                    "w": 144
+                                }
+                            ]
+                        },
+                        "large": {
+                            "faces": [
+                                {
+                                    "x": 13,
+                                    "y": 342,
+                                    "h": 144,
+                                    "w": 144
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 887739580090261504,
+                    "id_str": "887739580090261504",
+                    "indices": [
+                        78,
+                        101
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFHicdRVoAA2iuS.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFHicdRVoAA2iuS.jpg",
+                    "url": "https://t.co/rgZ4vbXvFv",
+                    "display_url": "pic.twitter.com/rgZ4vbXvFv",
+                    "expanded_url": "https://twitter.com/avwatch/status/887739582657187840/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 382,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 675,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 750,
+                            "h": 1334,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 887739582657187840,
+                    "source_status_id_str": "887739582657187840",
+                    "source_user_id": 62723250,
+                    "source_user_id_str": "62723250",
+                    "features": {
+                        "small": {
+                            "faces": [
+                                {
+                                    "x": 6,
+                                    "y": 174,
+                                    "h": 73,
+                                    "w": 73
+                                }
+                            ]
+                        },
+                        "medium": {
+                            "faces": [
+                                {
+                                    "x": 11,
+                                    "y": 307,
+                                    "h": 129,
+                                    "w": 129
+                                }
+                            ]
+                        },
+                        "orig": {
+                            "faces": [
+                                {
+                                    "x": 13,
+                                    "y": 342,
+                                    "h": 144,
+                                    "w": 144
+                                }
+                            ]
+                        },
+                        "large": {
+                            "faces": [
+                                {
+                                    "x": 13,
+                                    "y": 342,
+                                    "h": 144,
+                                    "w": 144
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.metrotwit.com/\" rel=\"nofollow\">MetroTwit</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Jul 19 18:23:04 +0000 2017",
+            "id": 887739582657187840,
+            "id_str": "887739582657187840",
+            "text": "iOS 10.3.3\u63d0\u4f9b\u958b\u59cb\u3002\u30d0\u30b0\u4fee\u6b63\u3068iPhone/iPad\u306e\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u6539\u5584 https://t.co/y13ken4BEx https://t.co/rgZ4vbXvFv",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/y13ken4BEx",
+                        "expanded_url": "http://av.watch.impress.co.jp/docs/news/1071426.html",
+                        "display_url": "av.watch.impress.co.jp/docs/news/1071\u2026",
+                        "indices": [
+                            41,
+                            64
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 887739580090261504,
+                        "id_str": "887739580090261504",
+                        "indices": [
+                            65,
+                            88
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFHicdRVoAA2iuS.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFHicdRVoAA2iuS.jpg",
+                        "url": "https://t.co/rgZ4vbXvFv",
+                        "display_url": "pic.twitter.com/rgZ4vbXvFv",
+                        "expanded_url": "https://twitter.com/avwatch/status/887739582657187840/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 382,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 675,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 750,
+                                "h": 1334,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 6,
+                                        "y": 174,
+                                        "h": 73,
+                                        "w": 73
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 11,
+                                        "y": 307,
+                                        "h": 129,
+                                        "w": 129
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 13,
+                                        "y": 342,
+                                        "h": 144,
+                                        "w": 144
+                                    }
+                                ]
+                            },
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 13,
+                                        "y": 342,
+                                        "h": 144,
+                                        "w": 144
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 887739580090261504,
+                        "id_str": "887739580090261504",
+                        "indices": [
+                            65,
+                            88
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFHicdRVoAA2iuS.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFHicdRVoAA2iuS.jpg",
+                        "url": "https://t.co/rgZ4vbXvFv",
+                        "display_url": "pic.twitter.com/rgZ4vbXvFv",
+                        "expanded_url": "https://twitter.com/avwatch/status/887739582657187840/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 382,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 675,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 750,
+                                "h": 1334,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 6,
+                                        "y": 174,
+                                        "h": 73,
+                                        "w": 73
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 11,
+                                        "y": 307,
+                                        "h": 129,
+                                        "w": 129
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 13,
+                                        "y": 342,
+                                        "h": 144,
+                                        "w": 144
+                                    }
+                                ]
+                            },
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 13,
+                                        "y": 342,
+                                        "h": 144,
+                                        "w": 144
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://av.watch.impress.co.jp/\" rel=\"nofollow\">AV Watch</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 93,
+            "favorite_count": 31,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja",
+            "supplemental_language": null
+        },
+        "is_quote_status": false,
+        "retweet_count": 93,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "EDECE9",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/151927123/TS3B0035.png",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/151927123/TS3B0035.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/848190204284293120/qttVSWI4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/848190204284293120/qttVSWI4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/86051988/1398235176",
+    "profile_link_color": "088253",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "E3E2DE",
+    "profile_text_color": "634047",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "has_custom_timelines": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

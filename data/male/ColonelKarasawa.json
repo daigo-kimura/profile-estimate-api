@@ -1,0 +1,109 @@
+{
+    "id": 3610582034,
+    "id_str": "3610582034",
+    "name": "\u30ab\u30e9\u30b5\u30ef\u30bf\u30ab\u30d2=\u30ed\u30f3\u30b2\u30fc\u30ca\u5927\u4f50",
+    "screen_name": "ColonelKarasawa",
+    "location": "\u65e5\u672c",
+    "description": "\u4f4e\u6d6e\u4e0a \u30a2\u30a4\u30ef\u30ca\u4e0b\u624b\u52e2\u3067\u3059\u3002",
+    "url": "https://t.co/8g2H3yveiO",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/8g2H3yveiO",
+                    "expanded_url": "https://www.youtube.com/channel/UCx32MD402Q1VsLRyCAUKp-Q",
+                    "display_url": "youtube.com/channel/UCx32M\u2026",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 103,
+    "fast_followers_count": 0,
+    "normal_followers_count": 103,
+    "friends_count": 74,
+    "listed_count": 1,
+    "created_at": "Sat Sep 19 00:48:18 +0000 2015",
+    "favourites_count": 56,
+    "utc_offset": 32400,
+    "time_zone": "Tokyo",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 703,
+    "media_count": 126,
+    "lang": "ja",
+    "status": {
+        "created_at": "Wed Jul 12 10:24:35 +0000 2017",
+        "id": 885082452150165504,
+        "id_str": "885082452150165504",
+        "text": "@Mokuteki123 \u306a\u304b\u306a\u304b\u30ae\u30df\u30c3\u30af\u304c\u601d\u3044\u3064\u304b\u306a\u3044\u3093\u3067\u3059\u3088\u306d...",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Mokuteki123",
+                    "name": "M",
+                    "id": 1937462131,
+                    "id_str": "1937462131",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 884902101914050560,
+        "in_reply_to_status_id_str": "884902101914050560",
+        "in_reply_to_user_id": 1937462131,
+        "in_reply_to_user_id_str": "1937462131",
+        "in_reply_to_screen_name": "Mokuteki123",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/865933344021725185/i2oJzOGi_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/865933344021725185/i2oJzOGi_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3610582034/1488285348",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "has_custom_timelines": true,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

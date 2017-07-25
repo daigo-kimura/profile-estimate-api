@@ -1,0 +1,215 @@
+{
+    "id": 2659017530,
+    "id_str": "2659017530",
+    "name": "\u30de\u30df\uff3b\u30d6\u30ec\u30a4\u30d6\uff3d",
+    "screen_name": "DOCHIKUSHOW",
+    "location": "\u30de\u30df",
+    "description": "\u3010\u30de\u30df\u3011FGO\u3001JJBA\u3001YW\u3001\u3084\u3084\u75e9\u305b\u304e\u3059\u306e\u8272\u7537\u3002\u30d7\u30ed\u30d5\u2192https://t.co/XPEo4oQixZ",
+    "url": "https://t.co/J6LN7c0GYl",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/J6LN7c0GYl",
+                    "expanded_url": "http://mami.pupu.jp",
+                    "display_url": "mami.pupu.jp",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": [
+                {
+                    "url": "https://t.co/XPEo4oQixZ",
+                    "expanded_url": "http://twpf.jp/DOCHIKUSHOW",
+                    "display_url": "twpf.jp/DOCHIKUSHOW",
+                    "indices": [
+                        30,
+                        53
+                    ]
+                }
+            ]
+        }
+    },
+    "protected": false,
+    "followers_count": 53,
+    "fast_followers_count": 0,
+    "normal_followers_count": 53,
+    "friends_count": 62,
+    "listed_count": 3,
+    "created_at": "Sat Jul 19 08:49:12 +0000 2014",
+    "favourites_count": 3324,
+    "utc_offset": 32400,
+    "time_zone": "Tokyo",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 14130,
+    "media_count": 1285,
+    "lang": "ja",
+    "status": {
+        "created_at": "Wed Jul 19 15:08:45 +0000 2017",
+        "id": 887690682147590144,
+        "id_str": "887690682147590144",
+        "text": "\u304a\u3084\u3059\u307f\u306a\u3055\u3044 https://t.co/1S1ZHxsObu",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 887690674719473665,
+                    "id_str": "887690674719473665",
+                    "indices": [
+                        8,
+                        31
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFG19ykUwAE4Y-o.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFG19ykUwAE4Y-o.jpg",
+                    "url": "https://t.co/1S1ZHxsObu",
+                    "display_url": "pic.twitter.com/1S1ZHxsObu",
+                    "expanded_url": "https://twitter.com/DOCHIKUSHOW/status/887690682147590144/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1136,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1136,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "features": {
+                        "small": {
+                            "faces": []
+                        },
+                        "medium": {
+                            "faces": []
+                        },
+                        "large": {
+                            "faces": []
+                        },
+                        "orig": {
+                            "faces": []
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 887690674719473665,
+                    "id_str": "887690674719473665",
+                    "indices": [
+                        8,
+                        31
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFG19ykUwAE4Y-o.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFG19ykUwAE4Y-o.jpg",
+                    "url": "https://t.co/1S1ZHxsObu",
+                    "display_url": "pic.twitter.com/1S1ZHxsObu",
+                    "expanded_url": "https://twitter.com/DOCHIKUSHOW/status/887690682147590144/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1136,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1136,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "features": {
+                        "small": {
+                            "faces": []
+                        },
+                        "medium": {
+                            "faces": []
+                        },
+                        "large": {
+                            "faces": []
+                        },
+                        "orig": {
+                            "faces": []
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FF6699",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/886576818798567424/BmWv1Qy5_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/886576818798567424/BmWv1Qy5_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2659017530/1500477582",
+    "profile_link_color": "B40B43",
+    "profile_sidebar_border_color": "CC3366",
+    "profile_sidebar_fill_color": "E5507E",
+    "profile_text_color": "362720",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "has_custom_timelines": false,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

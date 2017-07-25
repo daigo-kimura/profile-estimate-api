@@ -1,0 +1,110 @@
+{
+    "id": 813421006081507329,
+    "id_str": "813421006081507329",
+    "name": "\u6714\u591c -\uff7b\uff94-",
+    "screen_name": "sa_ya_0617",
+    "location": "\u6e80\u5929\u306e\u661f\u7a7a\u306e\u4e0b",
+    "description": "\u3010\u5275\u4f5c \u8aac\u660e\u66f8\u5fc5\u8aad\u3011\u7269\u66f8\u304d\u3092\u540d\u4e57\u308b\u6c17\u5206\u5c4b\u306e\u9752\u5c11\u5e74\u3002",
+    "url": "https://t.co/mxNaTskutG",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/mxNaTskutG",
+                    "expanded_url": "http://twpf.jp/sa_ya_0617",
+                    "display_url": "twpf.jp/sa_ya_0617",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 45,
+    "fast_followers_count": 0,
+    "normal_followers_count": 45,
+    "friends_count": 45,
+    "listed_count": 0,
+    "created_at": "Mon Dec 26 16:27:35 +0000 2016",
+    "favourites_count": 100,
+    "utc_offset": -25200,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3335,
+    "media_count": 7,
+    "lang": "ja",
+    "status": {
+        "created_at": "Wed Jul 19 13:44:04 +0000 2017",
+        "id": 887669368854675457,
+        "id_str": "887669368854675457",
+        "text": "@sa_yo_1111 \u308f\u3001\u4eca\u5ea6\u306f\u50d5\u304c\u304a\u3076\u3089\u308c\u308b\u306e\u304b\u3002(\u7a81\u7136\u81ea\u5206\u306e\u4f53\u304c\u6301\u3061\u4e0a\u304c\u3063\u305f\u3053\u3068\u306b\u9a5a\u304d\u3064\u3064\u3082\u3001\u72b6\u6cc1\u3092\u7406\u89e3\u3059\u308c\u3070\u3001\u62b5\u6297\u305b\u305a\u3001\u8eab\u3092\u9810\u3051",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "sa_yo_1111",
+                    "name": "\u5f69\u591c -\uff7b\uff96- \u263e \u7537\u4f53\u5316",
+                    "id": 2536888855,
+                    "id_str": "2536888855",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 887667375956312064,
+        "in_reply_to_status_id_str": "887667375956312064",
+        "in_reply_to_user_id": 2536888855,
+        "in_reply_to_user_id_str": "2536888855",
+        "in_reply_to_screen_name": "sa_yo_1111",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/877714803027984384/MwNaIUjE_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/877714803027984384/MwNaIUjE_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/813421006081507329/1482771014",
+    "profile_link_color": "7FDBB6",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "has_custom_timelines": true,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "customer_service_state": "none",
+    "translator_type": "none"
+}

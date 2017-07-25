@@ -1,0 +1,115 @@
+{
+    "id": 2271470383,
+    "id_str": "2271470383",
+    "name": "\u2741\u6a39 \u7d2b\u5516\u2741",
+    "screen_name": "Sche_a",
+    "location": "\u30e2\u30b0\u30e9\u30b0\u306e\u4e0a",
+    "description": "\u6b4c\u304c\u597d\u304d\u3067\u3059\u3002 \uff8c\uff6b\uff9b\uff70\uff98\uff91\uff8c\uff9e\uff9b\uff8c\uff98\uff70\u3002\u6c17\u306b\u306a\u308b\u65b9\u306e\u307f\uff8c\uff6b\uff9b\uff8a\uff9e\u3002\u3010https://t.co/XpHYQnTrde\u3011\u4f9d\u983c\u306b\u3064\u3044\u3066\u3010https://t.co/lKUuqzCgJj\u3011 i:\u306a\u3063\u3061\u3083\u3093 \uff48:\uff2e\u3061\u3083\u3093  \u9178\u697d\u63a8\u3057",
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": [
+                {
+                    "url": "https://t.co/XpHYQnTrde",
+                    "expanded_url": "http://www.nicovideo.jp/user/18338328",
+                    "display_url": "nicovideo.jp/user/18338328",
+                    "indices": [
+                        35,
+                        58
+                    ]
+                },
+                {
+                    "url": "https://t.co/lKUuqzCgJj",
+                    "expanded_url": "http://urx.mobi/D5nK",
+                    "display_url": "urx.mobi/D5nK",
+                    "indices": [
+                        66,
+                        89
+                    ]
+                }
+            ]
+        }
+    },
+    "protected": false,
+    "followers_count": 92,
+    "fast_followers_count": 0,
+    "normal_followers_count": 92,
+    "friends_count": 79,
+    "listed_count": 17,
+    "created_at": "Wed Jan 01 10:25:37 +0000 2014",
+    "favourites_count": 5203,
+    "utc_offset": 32400,
+    "time_zone": "Tokyo",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 14268,
+    "media_count": 291,
+    "lang": "ja",
+    "status": {
+        "created_at": "Wed Jul 19 22:20:22 +0000 2017",
+        "id": 887799299945373696,
+        "id_str": "887799299945373696",
+        "text": "@Ksknyf \u308f\u305f\u3042\u3081\u304b\u306a\u306b\u304b\u304b\u306a\u0167\u2039\u201d\u0167\u2039\u201d( \u2018\u0447\u2019 )\u0167\u2039\u201d\u0167\u2039\u201d",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Ksknyf",
+                    "name": "(  \u74b0 \u00b4\u0f6b`)\u62dd\u5553\u30c9\u30c3\u30da\u30eb\u30b2\u30f3\u30ac\u30fc\uf8ff",
+                    "id": 1163410310,
+                    "id_str": "1163410310",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 887798960848486401,
+        "in_reply_to_status_id_str": "887798960848486401",
+        "in_reply_to_user_id": 1163410310,
+        "in_reply_to_user_id_str": "1163410310",
+        "in_reply_to_screen_name": "Ksknyf",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/883595032409681920/Zk92m0Sc_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/883595032409681920/Zk92m0Sc_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2271470383/1499500448",
+    "profile_link_color": "66CDAA",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "has_custom_timelines": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

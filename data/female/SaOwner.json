@@ -1,0 +1,165 @@
+{
+    "id": 348985583,
+    "id_str": "348985583",
+    "name": "Shion Kagurazaka",
+    "screen_name": "SaOwner",
+    "location": "\u65e5\u672c \u6771\u4eac",
+    "description": "Welcome to my Twitter!!\nNo Soccer, No Life!!\u26bd\ud83c\udfc6\nPlease feel free to follow me!\ud83d\udc97\ud83d\udc9d\ud83d\udc8b\nMy Profile\u2192https://t.co/kUe3YTp60j",
+    "url": "https://t.co/BZHq6CluRK",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/BZHq6CluRK",
+                    "expanded_url": "http://instagram.com/saowner_0205",
+                    "display_url": "instagram.com/saowner_0205",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": [
+                {
+                    "url": "https://t.co/kUe3YTp60j",
+                    "expanded_url": "http://twpf.jp/SaOwner",
+                    "display_url": "twpf.jp/SaOwner",
+                    "indices": [
+                        92,
+                        115
+                    ]
+                }
+            ]
+        }
+    },
+    "protected": false,
+    "followers_count": 512,
+    "fast_followers_count": 0,
+    "normal_followers_count": 512,
+    "friends_count": 1045,
+    "listed_count": 1,
+    "created_at": "Fri Aug 05 10:14:08 +0000 2011",
+    "favourites_count": 2041,
+    "utc_offset": 32400,
+    "time_zone": "Tokyo",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 15833,
+    "media_count": 809,
+    "lang": "ja",
+    "status": {
+        "created_at": "Wed Jul 19 16:02:33 +0000 2017",
+        "id": 887704220085895168,
+        "id_str": "887704220085895168",
+        "text": "RT @MichaelKors: Master the mid-summer mood with an optimistic sunflower hue. #StyleTip",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "StyleTip",
+                    "indices": [
+                        78,
+                        87
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "MichaelKors",
+                    "name": "Michael Kors",
+                    "id": 153474021,
+                    "id_str": "153474021",
+                    "indices": [
+                        3,
+                        15
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Jul 19 16:00:00 +0000 2017",
+            "id": 887703579242483712,
+            "id_str": "887703579242483712",
+            "text": "Master the mid-summer mood with an optimistic sunflower hue. #StyleTip",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "StyleTip",
+                        "indices": [
+                            61,
+                            70
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 12,
+            "favorite_count": 81,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en",
+            "supplemental_language": null
+        },
+        "is_quote_status": false,
+        "retweet_count": 12,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/883230625406214145/3fBFETdM_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/883230625406214145/3fBFETdM_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/348985583/1499413921",
+    "profile_link_color": "FF55FF",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "has_custom_timelines": true,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "regular"
+}

@@ -1,0 +1,118 @@
+{
+    "id": 704205789326487552,
+    "id_str": "704205789326487552",
+    "name": "\u3053\u3093\u3053\u3093\u30002017\u5e74\u9000\u4f1a\u624b\u7d9a\u304d",
+    "screen_name": "Foxcat1986",
+    "location": "\u65e5\u672c",
+    "description": "\u3053\u3093\u3053\u3093\u306f\nTwitter\u3092\u8f9e\u3081\u307e\u3059\u3002",
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 373,
+    "fast_followers_count": 0,
+    "normal_followers_count": 373,
+    "friends_count": 2,
+    "listed_count": 6,
+    "created_at": "Mon Feb 29 07:25:18 +0000 2016",
+    "favourites_count": 12772,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 12927,
+    "media_count": 448,
+    "lang": "ja",
+    "status": {
+        "created_at": "Wed Dec 21 14:04:12 +0000 2016",
+        "id": 811572983466602496,
+        "id_str": "811572983466602496",
+        "text": "\u30ed\u30b0\u30a2\u30a6\u30c8\u4e2d\n\n2017\u5e74\u5185\u306b\u306f\u9000\u4f1a\u3057\u3066\u307e\u3059\u3002",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "d9889d82d896620a",
+            "url": "https://api.twitter.com/1.1/geo/id/d9889d82d896620a.json",
+            "place_type": "city",
+            "name": "\u611b\u5ddd\u753a",
+            "full_name": "\u795e\u5948 \u611b\u5ddd\u753a",
+            "country_code": "JP",
+            "country": "\u65e5\u672c",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            139.245294,
+                            35.498188
+                        ],
+                        [
+                            139.354941,
+                            35.498188
+                        ],
+                        [
+                            139.354941,
+                            35.556773
+                        ],
+                        [
+                            139.245294,
+                            35.556773
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/786144943676854272/JD6tHpGd_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/786144943676854272/JD6tHpGd_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/704205789326487552/1480470527",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "has_custom_timelines": false,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

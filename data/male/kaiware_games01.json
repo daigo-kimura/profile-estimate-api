@@ -1,0 +1,466 @@
+{
+    "id": 762860523457130497,
+    "id_str": "762860523457130497",
+    "name": "*kaiware",
+    "screen_name": "kaiware_games01",
+    "location": "\u3046\u3055\u307f\u3093\u661f",
+    "description": "\u4ffa\u306e\u540d\u524d\u306f\u30ab\u30a4\u30ef\u30ec\u3060\u3002\u81ea\u5df1\u7d39\u4ecb\u306f\u30c4\u30a4\u30d7\u30ed\u304b\u3089\u3069\u30fc\u305e",
+    "url": "https://t.co/pWGKUa13aK",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/pWGKUa13aK",
+                    "expanded_url": "http://twpf.jp/kaiware_games01",
+                    "display_url": "twpf.jp/kaiware_games01",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 229,
+    "fast_followers_count": 0,
+    "normal_followers_count": 229,
+    "friends_count": 314,
+    "listed_count": 4,
+    "created_at": "Tue Aug 09 03:58:17 +0000 2016",
+    "favourites_count": 447,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 933,
+    "media_count": 315,
+    "lang": "ja",
+    "status": {
+        "created_at": "Wed Jul 19 22:46:16 +0000 2017",
+        "id": 887805817608478720,
+        "id_str": "887805817608478720",
+        "text": "RT @shiohitoshi: \u6700\u60aa\u30de\u30b8\u3067\u3002 https://t.co/LyzaXwXa8v",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "shiohitoshi",
+                    "name": "hzm",
+                    "id": 409253387,
+                    "id_str": "409253387",
+                    "indices": [
+                        3,
+                        15
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 887506925276942336,
+                    "id_str": "887506925276942336",
+                    "indices": [
+                        24,
+                        47
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFEO2KjU0AA6ksw.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFEO2KjU0AA6ksw.jpg",
+                    "url": "https://t.co/LyzaXwXa8v",
+                    "display_url": "pic.twitter.com/LyzaXwXa8v",
+                    "expanded_url": "https://twitter.com/shiohitoshi/status/887506947431321600/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 900,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1536,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 887506947431321600,
+                    "source_status_id_str": "887506947431321600",
+                    "source_user_id": 409253387,
+                    "source_user_id_str": "409253387",
+                    "features": {
+                        "medium": {
+                            "faces": []
+                        },
+                        "orig": {
+                            "faces": []
+                        },
+                        "large": {
+                            "faces": []
+                        },
+                        "small": {
+                            "faces": []
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 887506925276942336,
+                    "id_str": "887506925276942336",
+                    "indices": [
+                        24,
+                        47
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFEO2KjU0AA6ksw.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFEO2KjU0AA6ksw.jpg",
+                    "url": "https://t.co/LyzaXwXa8v",
+                    "display_url": "pic.twitter.com/LyzaXwXa8v",
+                    "expanded_url": "https://twitter.com/shiohitoshi/status/887506947431321600/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 900,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1536,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 887506947431321600,
+                    "source_status_id_str": "887506947431321600",
+                    "source_user_id": 409253387,
+                    "source_user_id_str": "409253387",
+                    "features": {
+                        "medium": {
+                            "faces": []
+                        },
+                        "orig": {
+                            "faces": []
+                        },
+                        "large": {
+                            "faces": []
+                        },
+                        "small": {
+                            "faces": []
+                        }
+                    }
+                },
+                {
+                    "id": 887506925276901376,
+                    "id_str": "887506925276901376",
+                    "indices": [
+                        24,
+                        47
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFEO2KjUMAA-5Sa.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFEO2KjUMAA-5Sa.jpg",
+                    "url": "https://t.co/LyzaXwXa8v",
+                    "display_url": "pic.twitter.com/LyzaXwXa8v",
+                    "expanded_url": "https://twitter.com/shiohitoshi/status/887506947431321600/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 900,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1536,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 887506947431321600,
+                    "source_status_id_str": "887506947431321600",
+                    "source_user_id": 409253387,
+                    "source_user_id_str": "409253387",
+                    "features": {
+                        "medium": {
+                            "faces": []
+                        },
+                        "orig": {
+                            "faces": []
+                        },
+                        "large": {
+                            "faces": []
+                        },
+                        "small": {
+                            "faces": []
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Jul 19 02:58:40 +0000 2017",
+            "id": 887506947431321600,
+            "id_str": "887506947431321600",
+            "text": "\u6700\u60aa\u30de\u30b8\u3067\u3002 https://t.co/LyzaXwXa8v",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 887506925276942336,
+                        "id_str": "887506925276942336",
+                        "indices": [
+                            7,
+                            30
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFEO2KjU0AA6ksw.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFEO2KjU0AA6ksw.jpg",
+                        "url": "https://t.co/LyzaXwXa8v",
+                        "display_url": "pic.twitter.com/LyzaXwXa8v",
+                        "expanded_url": "https://twitter.com/shiohitoshi/status/887506947431321600/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 900,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1536,
+                                "h": 2048,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 510,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "medium": {
+                                "faces": []
+                            },
+                            "orig": {
+                                "faces": []
+                            },
+                            "large": {
+                                "faces": []
+                            },
+                            "small": {
+                                "faces": []
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 887506925276942336,
+                        "id_str": "887506925276942336",
+                        "indices": [
+                            7,
+                            30
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFEO2KjU0AA6ksw.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFEO2KjU0AA6ksw.jpg",
+                        "url": "https://t.co/LyzaXwXa8v",
+                        "display_url": "pic.twitter.com/LyzaXwXa8v",
+                        "expanded_url": "https://twitter.com/shiohitoshi/status/887506947431321600/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 900,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1536,
+                                "h": 2048,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 510,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "medium": {
+                                "faces": []
+                            },
+                            "orig": {
+                                "faces": []
+                            },
+                            "large": {
+                                "faces": []
+                            },
+                            "small": {
+                                "faces": []
+                            }
+                        }
+                    },
+                    {
+                        "id": 887506925276901376,
+                        "id_str": "887506925276901376",
+                        "indices": [
+                            7,
+                            30
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFEO2KjUMAA-5Sa.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFEO2KjUMAA-5Sa.jpg",
+                        "url": "https://t.co/LyzaXwXa8v",
+                        "display_url": "pic.twitter.com/LyzaXwXa8v",
+                        "expanded_url": "https://twitter.com/shiohitoshi/status/887506947431321600/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 900,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1536,
+                                "h": 2048,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 510,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "medium": {
+                                "faces": []
+                            },
+                            "orig": {
+                                "faces": []
+                            },
+                            "large": {
+                                "faces": []
+                            },
+                            "small": {
+                                "faces": []
+                            }
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 545392,
+            "favorite_count": 917306,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja",
+            "supplemental_language": null
+        },
+        "is_quote_status": false,
+        "retweet_count": 545392,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/876470537244954624/edTWEglD_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/876470537244954624/edTWEglD_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/762860523457130497/1494683381",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "has_custom_timelines": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "customer_service_state": "none",
+    "translator_type": "none"
+}

@@ -1,0 +1,364 @@
+{
+    "id": 821641882392494080,
+    "id_str": "821641882392494080",
+    "name": "\u273a\uff71 \uff72 \uff97\u273a",
+    "screen_name": "FusaFusa_Kokia",
+    "location": "\u524d\u5ddd\u307f\u304f\u306e\u30de\u30a4\u30af\u30b9\u30bf\u30f3\u30c9",
+    "description": "\u4e2d\u5b66\u751f\u261e\u96d1\u591a RT\u591a\u3081 \u4e8c\u6b21\u30c9\u30eb\u3068\u30ea\u30ba\u30e0\u30b2\u30fc\u30e0\u304c\u597d\u304d \u30c4\u30a4\u6d88\u3057\u3088\u304f\u3059\u308b",
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 244,
+    "fast_followers_count": 0,
+    "normal_followers_count": 244,
+    "friends_count": 178,
+    "listed_count": 26,
+    "created_at": "Wed Jan 18 08:54:24 +0000 2017",
+    "favourites_count": 14756,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 10412,
+    "media_count": 14,
+    "lang": "ja",
+    "status": {
+        "created_at": "Wed Jul 19 13:22:20 +0000 2017",
+        "id": 887663899402584065,
+        "id_str": "887663899402584065",
+        "text": "RT @awamiyakoi: \u3060\u3044\u3059\u304d\uff01\u304a\u3081\u3067\u3068\u3046\uff01\n #\u7d2b\u4e4b\u5275\u751f\u8a95\u796d2017 https://t.co/Y16AW8959Z",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "\u7d2b\u4e4b\u5275\u751f\u8a95\u796d2017",
+                    "indices": [
+                        29,
+                        40
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "awamiyakoi",
+                    "name": "\u6e56\u8863",
+                    "id": 860020242113642496,
+                    "id_str": "860020242113642496",
+                    "indices": [
+                        3,
+                        14
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 886200227232743425,
+                    "id_str": "886200227232743425",
+                    "indices": [
+                        41,
+                        64
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DExqaVAUAAETDud.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DExqaVAUAAETDud.jpg",
+                    "url": "https://t.co/Y16AW8959Z",
+                    "display_url": "pic.twitter.com/Y16AW8959Z",
+                    "expanded_url": "https://twitter.com/awamiyakoi/status/886200238494556161/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1394,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 463,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 817,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 886200238494556161,
+                    "source_status_id_str": "886200238494556161",
+                    "source_user_id": 860020242113642496,
+                    "source_user_id_str": "860020242113642496",
+                    "features": {
+                        "large": {
+                            "faces": []
+                        },
+                        "small": {
+                            "faces": []
+                        },
+                        "medium": {
+                            "faces": []
+                        },
+                        "orig": {
+                            "faces": []
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 886200227232743425,
+                    "id_str": "886200227232743425",
+                    "indices": [
+                        41,
+                        64
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DExqaVAUAAETDud.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DExqaVAUAAETDud.jpg",
+                    "url": "https://t.co/Y16AW8959Z",
+                    "display_url": "pic.twitter.com/Y16AW8959Z",
+                    "expanded_url": "https://twitter.com/awamiyakoi/status/886200238494556161/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1394,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 463,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 817,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 886200238494556161,
+                    "source_status_id_str": "886200238494556161",
+                    "source_user_id": 860020242113642496,
+                    "source_user_id_str": "860020242113642496",
+                    "features": {
+                        "large": {
+                            "faces": []
+                        },
+                        "small": {
+                            "faces": []
+                        },
+                        "medium": {
+                            "faces": []
+                        },
+                        "orig": {
+                            "faces": []
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Sat Jul 15 12:26:16 +0000 2017",
+            "id": 886200238494556161,
+            "id_str": "886200238494556161",
+            "text": "\u3060\u3044\u3059\u304d\uff01\u304a\u3081\u3067\u3068\u3046\uff01\n #\u7d2b\u4e4b\u5275\u751f\u8a95\u796d2017 https://t.co/Y16AW8959Z",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "\u7d2b\u4e4b\u5275\u751f\u8a95\u796d2017",
+                        "indices": [
+                            13,
+                            24
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 886200227232743425,
+                        "id_str": "886200227232743425",
+                        "indices": [
+                            25,
+                            48
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DExqaVAUAAETDud.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DExqaVAUAAETDud.jpg",
+                        "url": "https://t.co/Y16AW8959Z",
+                        "display_url": "pic.twitter.com/Y16AW8959Z",
+                        "expanded_url": "https://twitter.com/awamiyakoi/status/886200238494556161/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1394,
+                                "h": 2048,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 463,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 817,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "large": {
+                                "faces": []
+                            },
+                            "small": {
+                                "faces": []
+                            },
+                            "medium": {
+                                "faces": []
+                            },
+                            "orig": {
+                                "faces": []
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 886200227232743425,
+                        "id_str": "886200227232743425",
+                        "indices": [
+                            25,
+                            48
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DExqaVAUAAETDud.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DExqaVAUAAETDud.jpg",
+                        "url": "https://t.co/Y16AW8959Z",
+                        "display_url": "pic.twitter.com/Y16AW8959Z",
+                        "expanded_url": "https://twitter.com/awamiyakoi/status/886200238494556161/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1394,
+                                "h": 2048,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 463,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 817,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "large": {
+                                "faces": []
+                            },
+                            "small": {
+                                "faces": []
+                            },
+                            "medium": {
+                                "faces": []
+                            },
+                            "orig": {
+                                "faces": []
+                            }
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 30,
+            "favorite_count": 95,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja",
+            "supplemental_language": null
+        },
+        "is_quote_status": false,
+        "retweet_count": 30,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/878810330964545536/_i0P-8Pe_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/878810330964545536/_i0P-8Pe_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/821641882392494080/1498825375",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "has_custom_timelines": true,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

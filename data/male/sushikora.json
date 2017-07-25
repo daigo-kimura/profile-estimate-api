@@ -1,0 +1,160 @@
+{
+    "id": 853540420583800832,
+    "id_str": "853540420583800832",
+    "name": "\u30b9\u30d7\u30e9\u5fdc\u63f4\u968a",
+    "screen_name": "sushikora",
+    "location": "",
+    "description": "\u30cb\u30f3\u30c6\u30f3\u30c9\u30fc\u30b9\u30a4\u30c3\u30c1\u304c\u6b32\u3057\u3044\u3067\u3059",
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 0,
+    "fast_followers_count": 0,
+    "normal_followers_count": 0,
+    "friends_count": 8,
+    "listed_count": 0,
+    "created_at": "Sun Apr 16 09:27:49 +0000 2017",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4,
+    "media_count": 0,
+    "lang": "ja",
+    "status": {
+        "created_at": "Sun Apr 16 09:42:57 +0000 2017",
+        "id": 853544230546886656,
+        "id_str": "853544230546886656",
+        "text": "RT @motherphone13: \u4efb\u5929\u5802\u30b9\u30a4\u30c3\u30c1\u306e\u62bd\u9078\u4f01\u753b\u3092\u958b\u50ac\u3057\u307e\u3059\uff01\uff01\n\n\u5fdc\u52df\u306f\u307e\u305a\u306f\u30d5\u30a9\u30ed\u30fc\u3068\u30ea\u30c4\u30a4\u30fc\u30c8\u3057\u3066\u304f\u3060\u3055\u3044\u306d\u2661\n\u62bd\u9078\u306f\uff14\u6708\u4e2d\u65ec\uff5e\u4e0b\u65ec\u3067\u3059^^\nDM\u51fa\u6765\u308b\u3088\u3046\u306b\u3057\u3066\u304f\u3060\u3055\u3044\u306d\u266a((\uff2f(\u3003\u2312\u2207\u2312\u3003)\uff2f))\u266a\uff84\uff9e\uff77\uff84\uff9e\uff77\n#\u30cb\u30f3\u30c6\u30f3\u30c9\u30fc\u30b9\u30a4\u30c3\u30c1\u3000\uff03SWITCH\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "\u30cb\u30f3\u30c6\u30f3\u30c9\u30fc\u30b9\u30a4\u30c3\u30c1",
+                    "indices": [
+                        118,
+                        129
+                    ]
+                },
+                {
+                    "text": "SWITCH",
+                    "indices": [
+                        130,
+                        137
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "motherphone13",
+                    "name": "switch\u30de\u30de",
+                    "id": 850940507962441728,
+                    "id_str": "850940507962441728",
+                    "indices": [
+                        3,
+                        17
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Sun Apr 09 05:27:49 +0000 2017",
+            "id": 850943310566961154,
+            "id_str": "850943310566961154",
+            "text": "\u4efb\u5929\u5802\u30b9\u30a4\u30c3\u30c1\u306e\u62bd\u9078\u4f01\u753b\u3092\u958b\u50ac\u3057\u307e\u3059\uff01\uff01\n\n\u5fdc\u52df\u306f\u307e\u305a\u306f\u30d5\u30a9\u30ed\u30fc\u3068\u30ea\u30c4\u30a4\u30fc\u30c8\u3057\u3066\u304f\u3060\u3055\u3044\u306d\u2661\n\u62bd\u9078\u306f\uff14\u6708\u4e2d\u65ec\uff5e\u4e0b\u65ec\u3067\u3059^^\nDM\u51fa\u6765\u308b\u3088\u3046\u306b\u3057\u3066\u304f\u3060\u3055\u3044\u306d\u266a((\uff2f(\u3003\u2312\u2207\u2312\u3003)\uff2f))\u266a\uff84\uff9e\uff77\uff84\uff9e\uff77\n#\u30cb\u30f3\u30c6\u30f3\u30c9\u30fc\u30b9\u30a4\u30c3\u30c1\u2026 https://t.co/6doo7JSyxK",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "\u30cb\u30f3\u30c6\u30f3\u30c9\u30fc\u30b9\u30a4\u30c3\u30c1",
+                        "indices": [
+                            99,
+                            110
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/6doo7JSyxK",
+                        "expanded_url": "https://twitter.com/i/web/status/850943310566961154",
+                        "display_url": "twitter.com/i/web/status/8\u2026",
+                        "indices": [
+                            112,
+                            135
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 144,
+            "favorite_count": 31,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja",
+            "supplemental_language": null
+        },
+        "is_quote_status": false,
+        "retweet_count": 144,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/853540875493715968/N1Kb9z9u_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/853540875493715968/N1Kb9z9u_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "has_custom_timelines": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "customer_service_state": "none",
+    "translator_type": "none"
+}

@@ -1,0 +1,122 @@
+{
+    "id": 881496743203840002,
+    "id_str": "881496743203840002",
+    "name": "\u8475\u7fd4",
+    "screen_name": "aoto_eagle",
+    "location": "\u7fa4\u99ac\u770c",
+    "description": "\u98db\u884c\u6a5f\u306e\u5199\u771f\u3092\u64ae\u3063\u3066\u308b\u9ad8\u6821\u751f\u3002/\uff82\uff72\uff8c\uff68\uff70\uff99  https://t.co/Tk8niZHUxv",
+    "url": "https://t.co/ts2AXejzQZ",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/ts2AXejzQZ",
+                    "expanded_url": "http://twitcasting.tv/aoto_eagle",
+                    "display_url": "twitcasting.tv/aoto_eagle",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": [
+                {
+                    "url": "https://t.co/Tk8niZHUxv",
+                    "expanded_url": "http://twpf.jp/aoto_eagle",
+                    "display_url": "twpf.jp/aoto_eagle",
+                    "indices": [
+                        24,
+                        47
+                    ]
+                }
+            ]
+        }
+    },
+    "protected": false,
+    "followers_count": 63,
+    "fast_followers_count": 0,
+    "normal_followers_count": 63,
+    "friends_count": 107,
+    "listed_count": 0,
+    "created_at": "Sun Jul 02 12:56:15 +0000 2017",
+    "favourites_count": 87,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 76,
+    "media_count": 8,
+    "lang": "ja",
+    "status": {
+        "created_at": "Wed Jul 19 15:00:31 +0000 2017",
+        "id": 887688609133756417,
+        "id_str": "887688609133756417",
+        "text": "\u3089\u3076\u308a\u3064\u304c\u30a8\u30b0\u3044\u3002\u30de\u30b8\u3067\u3002 https://t.co/yYdV8h0EEs",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/yYdV8h0EEs",
+                    "expanded_url": "https://twitter.com/shiohitoshi/status/887506947431321600",
+                    "display_url": "twitter.com/shiohitoshi/st\u2026",
+                    "indices": [
+                        14,
+                        37
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 887506947431321600,
+        "quoted_status_id_str": "887506947431321600",
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/885465227394859008/cqWQsaen_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/885465227394859008/cqWQsaen_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/881496743203840002/1499175598",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "has_custom_timelines": false,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "customer_service_state": "none",
+    "translator_type": "none"
+}

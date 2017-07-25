@@ -1,0 +1,348 @@
+{
+    "id": 849504740862029824,
+    "id_str": "849504740862029824",
+    "name": "\u4e57\u3063\u53d6\u3089\u308c\u3066\u307e\u3059",
+    "screen_name": "feraryo1",
+    "location": "\u4eac\u90fd",
+    "description": "\u4e57\u3063\u53d6\u308a\u3057\u3066\u308b\u4eba\u3055\u3069\u3093\u3060\u3051\u6687\u306a\u306e\uff1f",
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 334,
+    "fast_followers_count": 0,
+    "normal_followers_count": 334,
+    "friends_count": 505,
+    "listed_count": 1,
+    "created_at": "Wed Apr 05 06:11:28 +0000 2017",
+    "favourites_count": 1842,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1609,
+    "media_count": 54,
+    "lang": "ja",
+    "status": {
+        "created_at": "Mon Jun 26 04:59:58 +0000 2017",
+        "id": 879202554072014848,
+        "id_str": "879202554072014848",
+        "text": "RT @hiro_mashima: \u3044\u3088\u3044\u3088\u6700\u7d42\u56de\u306e\u30cd\u30fc\u30e0\u3092\u63cf\u304f\u3088\u3002 https://t.co/Y5DG2hnNxY",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "hiro_mashima",
+                    "name": "\u771f\u5cf6\u30d2\u30ed",
+                    "id": 591755629,
+                    "id_str": "591755629",
+                    "indices": [
+                        3,
+                        16
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 878935088842498048,
+                    "id_str": "878935088842498048",
+                    "indices": [
+                        35,
+                        58
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DDKazncVYAAAuW9.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DDKazncVYAAAuW9.jpg",
+                    "url": "https://t.co/Y5DG2hnNxY",
+                    "display_url": "pic.twitter.com/Y5DG2hnNxY",
+                    "expanded_url": "https://twitter.com/hiro_mashima/status/878935102339690497/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 900,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1536,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 878935102339690497,
+                    "source_status_id_str": "878935102339690497",
+                    "source_user_id": 591755629,
+                    "source_user_id_str": "591755629",
+                    "features": {
+                        "medium": {
+                            "faces": []
+                        },
+                        "orig": {
+                            "faces": []
+                        },
+                        "large": {
+                            "faces": []
+                        },
+                        "small": {
+                            "faces": []
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 878935088842498048,
+                    "id_str": "878935088842498048",
+                    "indices": [
+                        35,
+                        58
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DDKazncVYAAAuW9.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DDKazncVYAAAuW9.jpg",
+                    "url": "https://t.co/Y5DG2hnNxY",
+                    "display_url": "pic.twitter.com/Y5DG2hnNxY",
+                    "expanded_url": "https://twitter.com/hiro_mashima/status/878935102339690497/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 900,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1536,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 878935102339690497,
+                    "source_status_id_str": "878935102339690497",
+                    "source_user_id": 591755629,
+                    "source_user_id_str": "591755629",
+                    "features": {
+                        "medium": {
+                            "faces": []
+                        },
+                        "orig": {
+                            "faces": []
+                        },
+                        "large": {
+                            "faces": []
+                        },
+                        "small": {
+                            "faces": []
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Sun Jun 25 11:17:12 +0000 2017",
+            "id": 878935102339690497,
+            "id_str": "878935102339690497",
+            "text": "\u3044\u3088\u3044\u3088\u6700\u7d42\u56de\u306e\u30cd\u30fc\u30e0\u3092\u63cf\u304f\u3088\u3002 https://t.co/Y5DG2hnNxY",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 878935088842498048,
+                        "id_str": "878935088842498048",
+                        "indices": [
+                            17,
+                            40
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DDKazncVYAAAuW9.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DDKazncVYAAAuW9.jpg",
+                        "url": "https://t.co/Y5DG2hnNxY",
+                        "display_url": "pic.twitter.com/Y5DG2hnNxY",
+                        "expanded_url": "https://twitter.com/hiro_mashima/status/878935102339690497/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 900,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1536,
+                                "h": 2048,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 510,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "medium": {
+                                "faces": []
+                            },
+                            "orig": {
+                                "faces": []
+                            },
+                            "large": {
+                                "faces": []
+                            },
+                            "small": {
+                                "faces": []
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 878935088842498048,
+                        "id_str": "878935088842498048",
+                        "indices": [
+                            17,
+                            40
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DDKazncVYAAAuW9.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DDKazncVYAAAuW9.jpg",
+                        "url": "https://t.co/Y5DG2hnNxY",
+                        "display_url": "pic.twitter.com/Y5DG2hnNxY",
+                        "expanded_url": "https://twitter.com/hiro_mashima/status/878935102339690497/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 900,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1536,
+                                "h": 2048,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 510,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "medium": {
+                                "faces": []
+                            },
+                            "orig": {
+                                "faces": []
+                            },
+                            "large": {
+                                "faces": []
+                            },
+                            "small": {
+                                "faces": []
+                            }
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 65849,
+            "favorite_count": 156722,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja",
+            "supplemental_language": null
+        },
+        "is_quote_status": false,
+        "retweet_count": 65849,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/854398630945447936/wAfIHBOW_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/854398630945447936/wAfIHBOW_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "has_custom_timelines": false,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "customer_service_state": "none",
+    "translator_type": "none"
+}

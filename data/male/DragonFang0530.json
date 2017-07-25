@@ -1,0 +1,205 @@
+{
+    "id": 235509424,
+    "id_str": "235509424",
+    "name": "\u9f8d\u5d0e",
+    "screen_name": "DragonFang0530",
+    "location": "",
+    "description": "\u8a73\u3057\u3044\u3053\u3068\u306f\u30c4\u30a4\u30d5\u30a3\u30fc\u30eb\u898b\u3066\u306d\u3002#\u30b3\u30f3\u30d1\u30b9 \u30c9\u30cf\u30de\u308a\u4e2d\u3002",
+    "url": "https://t.co/L8IMnwri3B",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/L8IMnwri3B",
+                    "expanded_url": "http://twpf.jp/DragonFang0530",
+                    "display_url": "twpf.jp/DragonFang0530",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 202,
+    "fast_followers_count": 0,
+    "normal_followers_count": 202,
+    "friends_count": 497,
+    "listed_count": 3,
+    "created_at": "Sat Jan 08 11:01:47 +0000 2011",
+    "favourites_count": 494,
+    "utc_offset": -36000,
+    "time_zone": "Hawaii",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 19196,
+    "media_count": 683,
+    "lang": "ja",
+    "status": {
+        "created_at": "Wed Jul 19 13:30:44 +0000 2017",
+        "id": 887666014535663617,
+        "id_str": "887666014535663617",
+        "text": "\u521d\u3081\u3066\u3053\u3093\u306a\u306b\u30ad\u30eb\u3068\u3063\u305f\u304b\u3082 https://t.co/aZZrMOMNf7",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 887666004586774529,
+                    "id_str": "887666004586774529",
+                    "indices": [
+                        15,
+                        38
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFGfhzKVwAEMMw3.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFGfhzKVwAEMMw3.jpg",
+                    "url": "https://t.co/aZZrMOMNf7",
+                    "display_url": "pic.twitter.com/aZZrMOMNf7",
+                    "expanded_url": "https://twitter.com/DragonFang0530/status/887666014535663617/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 675,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 383,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 1280,
+                            "resize": "fit"
+                        }
+                    },
+                    "features": {
+                        "medium": {
+                            "faces": []
+                        },
+                        "small": {
+                            "faces": []
+                        },
+                        "large": {
+                            "faces": []
+                        },
+                        "orig": {
+                            "faces": []
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 887666004586774529,
+                    "id_str": "887666004586774529",
+                    "indices": [
+                        15,
+                        38
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFGfhzKVwAEMMw3.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFGfhzKVwAEMMw3.jpg",
+                    "url": "https://t.co/aZZrMOMNf7",
+                    "display_url": "pic.twitter.com/aZZrMOMNf7",
+                    "expanded_url": "https://twitter.com/DragonFang0530/status/887666014535663617/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 675,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 383,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 1280,
+                            "resize": "fit"
+                        }
+                    },
+                    "features": {
+                        "medium": {
+                            "faces": []
+                        },
+                        "small": {
+                            "faces": []
+                        },
+                        "large": {
+                            "faces": []
+                        },
+                        "orig": {
+                            "faces": []
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/649974815/9zvuovd4lk2nliwkrtln.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/649974815/9zvuovd4lk2nliwkrtln.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/785382964100071424/jQ-LPiBD_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/785382964100071424/jQ-LPiBD_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/235509424/1476012833",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "has_custom_timelines": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}

@@ -1,0 +1,160 @@
+{
+    "id": 3308964272,
+    "id_str": "3308964272",
+    "name": "\u3059\u3054\u308d\u304f\uff20\u611b\u3068\u6b74\u53f2\u306e\u5375",
+    "screen_name": "ooyama300",
+    "location": "\u65e5\u672c\u306e\u897f\u5074\u306e\u3069\u3053\u304b",
+    "description": "\u9069\u5f53\u306b\u751f\u304d\u3066\u3044\u307e\u3059\u3002 \u4e00\u5bf8\u5148\u306f\u8db3\u306e\u89aa\u6307\u306e\u722a\u304c\u5265\u304c\u308c\u308b\u3002\u30c4\u30a4\u30d7\u30ed\u2192https://t.co/tbwWObTUL0",
+    "url": "https://t.co/La2uzvY9qa",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/La2uzvY9qa",
+                    "expanded_url": "http://ooyama300.blog.fc2.com/?cr=t210c4fhb1fl8nq0g32hipqcp4",
+                    "display_url": "ooyama300.blog.fc2.com/?cr=t210c4fhb1\u2026",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": [
+                {
+                    "url": "https://t.co/tbwWObTUL0",
+                    "expanded_url": "http://twpf.jp/ooyama300",
+                    "display_url": "twpf.jp/ooyama300",
+                    "indices": [
+                        32,
+                        55
+                    ]
+                }
+            ]
+        }
+    },
+    "protected": false,
+    "followers_count": 96,
+    "fast_followers_count": 0,
+    "normal_followers_count": 96,
+    "friends_count": 156,
+    "listed_count": 1,
+    "created_at": "Fri Aug 07 17:29:30 +0000 2015",
+    "favourites_count": 30610,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 9146,
+    "media_count": 114,
+    "lang": "ja",
+    "status": {
+        "created_at": "Thu Jul 20 00:55:20 +0000 2017",
+        "id": 887838301213736961,
+        "id_str": "887838301213736961",
+        "text": "RT @MuseeMagica: \u96d1\u3002\u6614\u306f\u9774\u306e\u306a\u304b\u306b\uff16\u30da\u30f3\u30b9\u9280\u8ca8\u3092\u4e00\u679a\u5165\u308c\u3066\u304a\u304f\u3068\u3001\u5996\u7cbe\u3055\u3093\u304c\u4e00\u5e74\u9593\u5ba4\u5185\u3092\u6383\u9664\u3057\u3066\u304f\u308c\u305f\u3068\u306e\u3053\u3068\u3002\u3068\u3053\u308d\u304c1920\u5e74\u306b\u82f1\u56fd\u9020\u5e63\u5c40\u304c\u9280\u8ca8\u306e\u9280\u542b\u6709\u91cf\u309250\uff05\u306b\u4e0b\u3052\u3066\u304b\u3089\u3068\u3044\u3046\u3082\u306e\u3001\u5996\u7cbe\u3055\u3093\u3092\u3055\u3063\u3071\u308a\u898b\u304b\u3051\u306a\u304f\u306a\u3063\u305f\u3068\u304b\u3002\u306a\u304b\u306a\u304b\u30b7\u30d3\u30a2\u306a\u304a\u8a71\u3067\u306f\u3042\u308a\u307e\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "MuseeMagica",
+                    "name": "\u897f\u6d0b\u9b54\u8853\u535a\u7269\u9928",
+                    "id": 2775421543,
+                    "id_str": "2775421543",
+                    "indices": [
+                        3,
+                        15
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Tue Jul 18 12:07:40 +0000 2017",
+            "id": 887282722481160192,
+            "id_str": "887282722481160192",
+            "text": "\u96d1\u3002\u6614\u306f\u9774\u306e\u306a\u304b\u306b\uff16\u30da\u30f3\u30b9\u9280\u8ca8\u3092\u4e00\u679a\u5165\u308c\u3066\u304a\u304f\u3068\u3001\u5996\u7cbe\u3055\u3093\u304c\u4e00\u5e74\u9593\u5ba4\u5185\u3092\u6383\u9664\u3057\u3066\u304f\u308c\u305f\u3068\u306e\u3053\u3068\u3002\u3068\u3053\u308d\u304c1920\u5e74\u306b\u82f1\u56fd\u9020\u5e63\u5c40\u304c\u9280\u8ca8\u306e\u9280\u542b\u6709\u91cf\u309250\uff05\u306b\u4e0b\u3052\u3066\u304b\u3089\u3068\u3044\u3046\u3082\u306e\u3001\u5996\u7cbe\u3055\u3093\u3092\u3055\u3063\u3071\u308a\u898b\u304b\u3051\u306a\u304f\u306a\u3063\u305f\u3068\u304b\u3002\u306a\u304b\u306a\u304b\u30b7\u30d3\u30a2\u306a\u2026 https://t.co/kqfzyqKf6m",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/kqfzyqKf6m",
+                        "expanded_url": "https://twitter.com/i/web/status/887282722481160192",
+                        "display_url": "twitter.com/i/web/status/8\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2233,
+            "favorite_count": 2453,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja",
+            "supplemental_language": null
+        },
+        "is_quote_status": false,
+        "retweet_count": 2233,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja",
+        "supplemental_language": null
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/715276257349361668/B8wYm4AX_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/715276257349361668/B8wYm4AX_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3308964272/1459420390",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "has_custom_timelines": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "business_profile_state": "none",
+    "translator_type": "none"
+}
